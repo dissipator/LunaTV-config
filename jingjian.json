@@ -346,6 +346,10 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
+    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -399,26 +403,6 @@
       "name": "🎬山海资源",
       "api": "https://zy.sh0o.cn/api.php/provide/vod",
       "detail": "https://zy.sh0o.cn"
-    },
-    "🎬建安资源": {
-      "name": "🎬建安资源",
-      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
-      "detail": "http://154.219.117.232:9981"
-    },
-    "🎬虎牙资源": {
-      "name": "🎬虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
-      "detail": "https://www.huyaapi.com"
-    },
-    "🎬快车资源": {
-      "name": "🎬快车资源",
-      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
-      "detail": "https://kuaichezy.com"
-    },
-    "🎬百度云zy": {
-      "name": "🎬百度云zy",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
-      "detail": "https://bdzy1.com"
     },
     "🔞91-精品-": {
       "name": "🔞91-精品-",
@@ -474,26 +458,6 @@
       "name": "🔞香蕉资源",
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "detail": "https://www.xiangjiaozyw.com"
-    },
-    "🔞大地资源": {
-      "name": "🔞大地资源",
-      "api": "https://dadiapi.com/feifei2",
-      "detail": "https://dadizy11.com"
-    },
-    "🔞色猫资源": {
-      "name": "🔞色猫资源",
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-      "detail": "https://semaozy1.com"
-    },
-    "🔞杏吧资源": {
-      "name": "🔞杏吧资源",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod",
-      "detail": "https://xingba111.com"
-    },
-    "🔞丝袜资源": {
-      "name": "🔞丝袜资源",
-      "api": "https://siwazyw.tv/api.php/provide/vod/at/json",
-      "detail": "https://siwazyw.tv"
     }
   }
 }
