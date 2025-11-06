@@ -3,7 +3,9 @@
  *
  * 用法:
  *   node get_vod.js "url1,<url2"
- * 如果不提供任何参数，脚本将使用内置的默认 URLs（与原脚本一致）。
+ * 或通过环境变量 urls 传入（优先级高于命令行参数）:
+ *   urls="url1,url2" node get_vod.js
+ * 如果不提供任何参数或环境变量，脚本将使用内置的默认 URLs（与原脚本一致）。
  *
  * 说明:
  * - 使用全局 fetch (Node 18+)；若 Node 版本 <18，请安装并引入 node-fetch，或升级 Node。
@@ -17,7 +19,7 @@ async function getJson(url, headers = {}, payload = {}) {
   // GET 请求忽略 payload（与原 Python 脚本一致）
   const res = await fetch(url, { method: 'GET', headers });
   const text = await res.text();
-
+  console.log(`Fetched ${url}, status: ${res.status}, length: ${text.length}`);
   try {
     return JSON.parse(text);
   } catch (err) {
@@ -49,20 +51,52 @@ function removeDuplicates(jsonData) {
 }
 
 async function mergeJson(urls) {
-  let merged = {};
+
+  // Initialize merged structure that we will progressively fill
+  const merged = { cache_time: undefined, api_site: {} };
 
   for (const url of urls) {
     try {
       const data = await getJson(url);
-      if (data && typeof data === 'object') {
-        // 合并顶层键（类似 Python dict.update）
-        merged = Object.assign(merged, data);
+      if (!data || typeof data !== 'object') {
+        continue;
+      }
+
+      // Merge cache_time: choose the smallest numeric cache_time (more frequent refresh),
+      // or prefer first-seen if only one provided.
+      if (typeof data.cache_time === 'number') {
+        if (typeof merged.cache_time !== 'number') {
+          merged.cache_time = data.cache_time;
+        } else {
+          merged.cache_time = Math.min(merged.cache_time, data.cache_time);
+        }
+      }
+
+      // Merge api_site by iterating each site's key and adding only when absent.
+      if (data.api_site && typeof data.api_site === 'object') {
+        for (const key of Object.keys(data.api_site)) {
+          if (!(key in merged.api_site)) {
+            merged.api_site[key] = data.api_site[key];
+          } 
+        }
+      } 
+
+      // Merge other top-level keys: keep first-seen value (do not overwrite existing)
+      for (const key of Object.keys(data)) {
+        if (key === 'api_site' || key === 'cache_time') continue;
+        if (!(key in merged)) {
+          merged[key] = data[key];
+
+        } 
       }
     } catch (err) {
-      console.error(`Failed to fetch/parse ${url}:`, err.message);
+      
       // 忽略错误，继续处理其他 URL
     }
   }
+
+  // Ensure cache_time has a sensible default
+  if (typeof merged.cache_time !== 'number') merged.cache_time = 9200;
 
   // 对合并后的结果进行去重并返回
   return removeDuplicates(merged);
@@ -77,25 +111,45 @@ function isProbablyUrl(s) {
   }
 }
 
-(async function main() {
-  // 从命令行参数读取 urls
-  // node get_vod.js https://a.json https://b.json
-  const args = process.argv.slice(2);
+function parseEnvUrls(envValue) {
+  if (!envValue || typeof envValue !== 'string') return [];
+  // 支持以逗号、分号或换行分隔
+  return envValue.split(/[,\n;]+/).map(s => s.trim()).filter(Boolean);
+}
 
-  // 如果提供了一个以逗号分隔的单个参数，支持将其拆分为多个 URL
+(async function main() {
+  // 优先从环境变量读取 urls（支持小写 urls 或大写 URLS）
+  const envVar = process.env.urls || process.env.URLS;
   let urls = [];
-  if (args.length === 1 && args[0].includes(',')) {
-    urls = args[0].split(',').map(s => s.trim()).filter(Boolean);
-  } else {
-    urls = args.map(s => s.trim()).filter(Boolean);
+
+  if (envVar) {
+    urls = parseEnvUrls(envVar);
+    if (urls.length > 0) {
+      console.log('Using URLs from environment variable "urls".');
+    } else {
+      console.warn('Environment variable "urls" is set but contains no valid URLs. Falling back to command-line args or defaults.');
+    }
   }
 
-  // 如果没有参数，则使用默认列表（保留原脚本的默认）
+  // 如果环境变量没有有效 URL，则从命令行参数读取
+  if (urls.length === 0) {
+    const args = process.argv.slice(2);
+
+    // 如果提供了一个以逗号分隔的单个参数，支持将其拆分为多个 URL
+    if (args.length === 1 && args[0].includes(',')) {
+      urls = args[0].split(',').map(s => s.trim()).filter(Boolean);
+    } else {
+      urls = args.map(s => s.trim()).filter(Boolean);
+    }
+  }
+
+  // 如果仍没有参数，则使用默认列表（保留原脚本的默认）
   if (urls.length === 0) {
     urls = [
       'https://raw.githubusercontent.com/666zmy/MoonTV/refs/heads/main/config.json',
       'https://jjpz.hafrey.dpdns.org?config=0'
     ];
+    console.log('No URLs from environment or args; using built-in default URLs.');
   }
 
   // 简单验证，移除看起来不是 URL 的参数（保守处理）
