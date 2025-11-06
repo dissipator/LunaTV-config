@@ -102,5 +102,25 @@ console.log(`重复 API 数量: ${duplicateAPIs}`);
   md += "```json\n" + JSON.stringify(history, null, 2) + "\n```\n";
 
   fs.writeFileSync(reportPath, md, 'utf-8');
+ // -------- 新增：将 latest?.success 为 true 的 site 保留下来并写入 jingjian.json --------
+  try {
+    const healthyApis = new Set(todayResults.filter(r => r.success).map(r => r.api));
+
+    // 依据原始 config.api_site 的键保留对应项
+    const filteredApiSite = {};
+    for (const [key, site] of Object.entries(config.api_site)) {
+      if (site && site.api && healthyApis.has(site.api)) {
+        filteredApiSite[key] = site;
+      }
+    }
+
+    const filteredConfig = Object.assign({}, config, { api_site: filteredApiSite });
+    fs.writeFileSync(jingjianPath, JSON.stringify(filteredConfig, null, 2), 'utf-8');
+
+    const keptCount = Object.keys(filteredApiSite).length;
+    console.log(`已将 ${keptCount} 个 latest?.success 为 true 的 site 写入: ${jingjianPath}`);
+  } catch (e) {
+    console.error('写入 jingjian.json 时出错:', e);
+  }
 
 })();
