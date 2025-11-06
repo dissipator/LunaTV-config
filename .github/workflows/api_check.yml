@@ -12,7 +12,11 @@ on:
 jobs:
   check_apis:
     runs-on: ubuntu-latest
+    
+    env:
+      urls: ${{ variables.URLS }}
 
+      
     steps:
     - uses: actions/checkout@v3
 
