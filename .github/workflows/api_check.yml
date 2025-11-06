@@ -25,9 +25,12 @@ jobs:
       run: |
         npm install axios  # 安装 axios
 
-    - name: 运行 API 检查脚本
+    - name: 运行 配置源拼接脚本
       run: |
         node get_vod.js
+        
+    - name: 运行 API 检查脚本
+      run: |
         node check_apis.js
       
     - name: 运行 update_readme.js脚本
