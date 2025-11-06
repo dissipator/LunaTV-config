@@ -111,11 +111,6 @@
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://api.niuniuzy.me"
     },
-    "TV-电影天堂资源": {
-      "name": "TV-电影天堂资源",
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
     "AV-百万资源": {
       "name": "AV-百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
@@ -371,10 +366,6 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
-    "七七影视": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
-    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -428,6 +419,11 @@
       "name": "🎬山海资源",
       "api": "https://zy.sh0o.cn/api.php/provide/vod",
       "detail": "https://zy.sh0o.cn"
+    },
+    "🔞91-精品-": {
+      "name": "🔞91-精品-",
+      "api": "https://91jpzyw.com/api.php/provide/vod",
+      "detail": "https://91jpzyw.com"
     },
     "🔞桃花资源": {
       "name": "🔞桃花资源",
