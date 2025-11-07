@@ -111,6 +111,11 @@
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://api.niuniuzy.me"
     },
+    "TV-电影天堂资源": {
+      "name": "TV-电影天堂资源",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
     "AV-百万资源": {
       "name": "AV-百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
@@ -428,11 +433,6 @@
       "name": "🔞91-精品-",
       "api": "https://91jpzyw.com/api.php/provide/vod",
       "detail": "https://91jpzyw.com"
-    },
-    "🔞桃花资源": {
-      "name": "🔞桃花资源",
-      "api": "https://thzy1.me/api.php/provide/vod",
-      "detail": "https://thzy8.me"
     },
     "🔞优优资源": {
       "name": "🔞优优资源",
