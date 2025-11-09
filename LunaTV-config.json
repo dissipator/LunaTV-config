@@ -465,11 +465,6 @@
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "detail": "dbzy.tv"
     },
-    "🎬优质资源": {
-      "name": "🎬优质资源",
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
-      "detail": "https://1080zyk4.com"
-    },
     "🎬猫眼资源": {
       "name": "🎬猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -480,25 +475,15 @@
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://cj.lzcaiji.com"
     },
-    "🎬如意资源": {
-      "name": "🎬如意资源",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com"
-    },
     "🎬最大点播": {
       "name": "🎬最大点播",
       "api": "https://zuidazy.me/api.php/provide/vod",
       "detail": "https://zuidazy.co"
     },
-    "🎬金鹰资源": {
-      "name": "🎬金鹰资源",
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "detail": "https://jinyingzy.net"
-    },
-    "🎬山海资源": {
-      "name": "🎬山海资源",
-      "api": "https://zy.sh0o.cn/api.php/provide/vod",
-      "detail": "https://zy.sh0o.cn"
+    "🎬如意资源": {
+      "name": "🎬如意资源",
+      "api": "https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://www.ryzyw.com"
     },
     "🔞91-精品-": {
       "name": "🔞91-精品-",
@@ -549,11 +534,6 @@
       "name": "🔞滴滴资源",
       "api": "https://api.ddapi.cc/api.php/provide/vod",
       "detail": "https://didizy.com"
-    },
-    "🔞香蕉资源": {
-      "name": "🔞香蕉资源",
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-      "detail": "https://www.xiangjiaozyw.com"
     },
     "豪华资源": {
       "id": "f89064af-2836-4104-a6aa-880d19cd62c0",
