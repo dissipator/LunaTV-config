@@ -61,11 +61,6 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "detail": "https://tyyszy.com"
     },
-    "TV-如意资源": {
-      "name": "TV-如意资源",
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-新浪点播": {
       "name": "TV-新浪点播",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -347,6 +342,10 @@
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
     },
+    "黄色资源啊啊": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色资源啊啊"
+    },
     "小鸡资源": {
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
@@ -399,11 +398,6 @@
       "name": "🎬量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://cj.lzcaiji.com"
-    },
-    "🎬如意资源": {
-      "name": "🎬如意资源",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com"
     },
     "🎬最大点播": {
       "name": "🎬最大点播",
@@ -475,23 +469,6 @@
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "detail": "https://www.xiangjiaozyw.com"
     },
-    "电影天堂资源": {
-      "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
-      "key": "电影天堂资源",
-      "name": "电影天堂资源",
-      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.086388483+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 1,
-      "proxyMode": "builtin",
-      "customProxy": ""
-    },
     "暴风资源": {
       "id": "a2aa3bd3-ee1c-4f68-93da-06adae5443a2",
       "key": "暴风资源",
@@ -534,23 +511,6 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:43.084986234+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "如意资源": {
-      "id": "4ffa5869-67d8-463d-94d7-c78212e039e0",
-      "key": "如意资源",
-      "name": "如意资源",
-      "api": "http://cj.rycjapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.083919384+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
