@@ -61,11 +61,6 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "detail": "https://tyyszy.com"
     },
-    "TV-如意资源": {
-      "name": "TV-如意资源",
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-新浪点播": {
       "name": "TV-新浪点播",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -145,11 +140,6 @@
       "name": "TV-虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
-    },
-    "TV-豆瓣资源": {
-      "name": "TV-豆瓣资源",
-      "api": "https://dbzy.tv/api.php/provide/vod",
-      "detail": "https://dbzy.tv"
     },
     "TV-速博资源": {
       "name": "TV-速博资源",
@@ -384,11 +374,6 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com"
     },
-    "🎬豆瓣资源": {
-      "name": "🎬豆瓣资源",
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "detail": "dbzy.tv"
-    },
     "🎬猫眼资源": {
       "name": "🎬猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -527,23 +512,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "如意资源": {
-      "id": "4ffa5869-67d8-463d-94d7-c78212e039e0",
-      "key": "如意资源",
-      "name": "如意资源",
-      "api": "http://cj.rycjapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.083919384+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "天涯资源": {
       "id": "3f376a80-1a51-48de-8b0c-861b345b5971",
       "key": "天涯资源",
@@ -590,24 +558,6 @@
       "remark": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "tags": [
         "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "豆瓣资源": {
-      "id": "f70b7292-5a98-4ecc-8999-16b3cf5a3fc8",
-      "key": "豆瓣资源",
-      "name": "豆瓣资源",
-      "api": "https://dbzy.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.018452473+08:00",
-      "isDefault": 0,
-      "remark": "https://caiji.dbzy.tv/api.php/provide/vod/",
-      "tags": [
-        "优秀",
-        "广告"
       ],
       "priority": 0,
       "proxyMode": "none",
