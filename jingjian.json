@@ -111,6 +111,11 @@
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://api.niuniuzy.me"
     },
+    "TV-电影天堂资源": {
+      "name": "TV-电影天堂资源",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
     "AV-百万资源": {
       "name": "AV-百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
@@ -342,10 +347,6 @@
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
     },
-    "黄色资源啊啊": {
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "name": "黄色资源啊啊"
-    },
     "小鸡资源": {
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
@@ -473,6 +474,23 @@
       "name": "🔞香蕉资源",
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "detail": "https://www.xiangjiaozyw.com"
+    },
+    "电影天堂资源": {
+      "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
+      "key": "电影天堂资源",
+      "name": "电影天堂资源",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.086388483+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 1,
+      "proxyMode": "builtin",
+      "customProxy": ""
     },
     "暴风资源": {
       "id": "a2aa3bd3-ee1c-4f68-93da-06adae5443a2",
