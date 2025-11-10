@@ -363,10 +363,6 @@
       "api": "https://apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
     },
-    "优质资源库1080zyk6.com高清": {
-      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
-      "name": "优质资源库1080zyk6.com高清"
-    },
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
@@ -444,6 +440,11 @@
       "name": "🔞最色资源",
       "api": "https://api.zuiseapi.com/api.php/provide/vod",
       "detail": "https://zuisezy.com"
+    },
+    "🔞豆豆资源": {
+      "name": "🔞豆豆资源",
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      "detail": "https://doudouzy.com"
     },
     "🔞滴滴资源": {
       "name": "🔞滴滴资源",
