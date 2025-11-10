@@ -371,10 +371,6 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
-    "七七影视": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
-    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -448,11 +444,6 @@
       "name": "🔞最色资源",
       "api": "https://api.zuiseapi.com/api.php/provide/vod",
       "detail": "https://zuisezy.com"
-    },
-    "🔞豆豆资源": {
-      "name": "🔞豆豆资源",
-      "api": "https://api.douapi.cc/api.php/provide/vod",
-      "detail": "https://doudouzy.com"
     },
     "🔞滴滴资源": {
       "name": "🔞滴滴资源",
