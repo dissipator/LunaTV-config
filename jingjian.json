@@ -444,20 +444,10 @@
       "api": "https://xzybb2.com/api.php/provide/vod",
       "detail": "https://xzytv.com"
     },
-    "🔞最色资源": {
-      "name": "🔞最色资源",
-      "api": "https://api.zuiseapi.com/api.php/provide/vod",
-      "detail": "https://zuisezy.com"
-    },
     "🔞豆豆资源": {
       "name": "🔞豆豆资源",
       "api": "https://api.douapi.cc/api.php/provide/vod",
       "detail": "https://doudouzy.com"
-    },
-    "🔞滴滴资源": {
-      "name": "🔞滴滴资源",
-      "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "detail": "https://didizy.com"
     },
     "电影天堂资源": {
       "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
