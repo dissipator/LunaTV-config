@@ -1,11 +1,6 @@
 {
   "cache_time": 9200,
   "api_site": {
-    "TV-1080资源": {
-      "name": "TV-1080资源",
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "detail": "https://api.1080zyku.com"
-    },
     "AV-155资源": {
       "name": "AV-155资源",
       "api": "https://155api.com/api.php/provide/vod",
@@ -121,11 +116,6 @@
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "detail": "https://api.bwzyz.com"
     },
-    "TV-神马云": {
-      "name": "TV-神马云",
-      "api": "https://api.1080zyku.com/inc/apijson.php/",
-      "detail": "https://api.1080zyku.com"
-    },
     "TV-索尼资源": {
       "name": "TV-索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",
@@ -154,11 +144,6 @@
     "TV-速博资源": {
       "name": "TV-速博资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
-      "detail": ""
-    },
-    "TV-量子资源": {
-      "name": "TV-量子资源",
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": ""
     },
     "TV-金鹰点播": {
@@ -195,11 +180,6 @@
       "name": "TV-魔都资源",
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "detail": "https://www.mdzyapi.com"
-    },
-    "AV-91麻豆": {
-      "name": "AV-91麻豆",
-      "api": "https://91md.me/api.php/provide/vod",
-      "detail": "https://91md.me"
     },
     "AV-AIvin": {
       "name": "AV-AIvin",
@@ -318,10 +298,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "杏吧资源": {
-      "api": "https://xingba111.com/api.php/provide/vod",
-      "name": "杏吧资源"
-    },
     "红牛资源": {
       "id": "96c83bec-f3fe-446a-90ad-596596d0bea4",
       "key": "红牛资源",
@@ -375,10 +351,6 @@
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
     },
-    "影视工厂": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "影视工厂"
-    },
     "🎬-爱奇艺-": {
       "name": "🎬-爱奇艺-",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -393,11 +365,6 @@
       "name": "🎬猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "detail": "https://www.maoyanzy.com"
-    },
-    "🎬量子资源": {
-      "name": "🎬量子资源",
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
-      "detail": "https://cj.lzcaiji.com"
     },
     "🎬最大点播": {
       "name": "🎬最大点播",
@@ -433,11 +400,6 @@
       "name": "🔞-大奶子-",
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "detail": "https://apidanaizi.com"
-    },
-    "🔞森林资源": {
-      "name": "🔞森林资源",
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
-      "detail": "https://slapibf.com"
     },
     "🔞-幸资源-": {
       "name": "🔞-幸资源-",
@@ -490,23 +452,6 @@
         "代理"
       ],
       "priority": 1,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "非凡影视": {
-      "id": "f4907395-e693-4710-be31-d05f2e08e716",
-      "key": "非凡影视",
-      "name": "非凡影视",
-      "api": "http://ffzy5.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.088381763+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
@@ -884,23 +829,6 @@
       "time": "2025-10-30T11:15:42.869485164+08:00",
       "isDefault": 0,
       "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
-      "tags": [
-        "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "1080资源库": {
-      "id": "6ca1d5fa-6366-4418-ae4f-bc9ae0b86877",
-      "key": "1080资源库",
-      "name": "1080资源库",
-      "api": "https://api.1080zyku.com/inc/api_mac10.php/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.868513304+08:00",
-      "isDefault": 0,
-      "remark": "",
       "tags": [
         "代理"
       ],
