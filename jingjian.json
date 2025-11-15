@@ -256,6 +256,11 @@
       "api": "https://www.kxgav.com/api/json.php",
       "detail": "https://www.kxgav.com"
     },
+    "AV-精品资源": {
+      "name": "AV-精品资源",
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "detail": "https://www.jingpinx.com"
+    },
     "AV-美少女资源": {
       "name": "AV-美少女资源",
       "api": "https://www.msnii.com/api/json.php",
@@ -365,6 +370,10 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
+    },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
