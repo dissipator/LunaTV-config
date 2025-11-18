@@ -36,6 +36,11 @@
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "detail": ""
     },
+    "TV-丫丫点播": {
+      "name": "TV-丫丫点播",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "detail": "https://cj.yayazy.net"
+    },
     "TV-光速资源": {
       "name": "TV-光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -80,6 +85,11 @@
       "name": "TV-旺旺资源",
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "detail": "https://api.wwzy.tv"
+    },
+    "TV-暴风资源": {
+      "name": "TV-暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "detail": ""
     },
     "TV-最大点播": {
       "name": "TV-最大点播",
@@ -311,6 +321,23 @@
     "杏吧资源": {
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
+    },
+    "红牛资源": {
+      "id": "96c83bec-f3fe-446a-90ad-596596d0bea4",
+      "key": "红牛资源",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.815488222+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
     },
     "索尼-闪电资源": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
