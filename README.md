@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-19 14:36 CST）
+## API 状态（最近更新：2025-11-19 15:24 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
@@ -233,6 +233,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
+| ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-155资源 | https://155api.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
@@ -254,7 +255,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
 | ✅ | 閃電资源 | https://sdzyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
-| ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
