@@ -161,6 +161,11 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": ""
     },
+    "TV-金鹰点播": {
+      "name": "TV-金鹰点播",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jinyingzy.com"
+    },
     "TV-金鹰资源": {
       "name": "TV-金鹰资源",
       "api": "https://jyzyapi.com/api.php/provide/vod",
@@ -365,10 +370,6 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
-    },
-    "七七影视": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
