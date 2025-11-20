@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-20 16:33 CST）
+## API 状态（最近更新：2025-11-20 17:26 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：103
-- 失败 API 数量：20
+- 成功 API 数量：102
+- 失败 API 数量：21
 - 平均可用率：81.7%
 - 完美可用率（100%）：19 个
 - 高可用率（80%-99%）：83 个
@@ -256,9 +256,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
 | ✅ | 閃電资源 | https://sdzyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
 | ✅ | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
-| ✅ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 94 | 6 | 94.0% | 0 |
+| ❌ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 1 |
+| ✅ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 91 | 9 | 91.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 89 | 11 | 89.0% | 0 |
