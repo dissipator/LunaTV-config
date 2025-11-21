@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-22 02:31 CST）
+## API 状态（最近更新：2025-11-22 03:20 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
@@ -224,6 +224,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 无尽资源 | https://api.wujinapi.me/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 旺旺短剧 | https://wwzy.tv/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 暴风资源 | https://bfzyapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
+| ✅ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 牛牛点播 | https://api.niuniuzy.me/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 电影天堂资源 | https://caiji.dyttzyapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
@@ -250,7 +251,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 影视工厂 | https://cj.lziapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
-| ✅ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
 | ✅ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
