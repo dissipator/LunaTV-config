@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-26 11:19 CST）
+## API 状态（最近更新：2025-11-26 12:30 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：99
@@ -250,19 +250,19 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 閃電资源 | https://sdzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
-| ❌ | TV-丫丫点播 | https://cj.yayazy.net/api.php/provide/vod | 98 | 2 | 98.0% | 2 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | 丫丫点播 | https://cj.yayazy.net/api.php/provide/vod/ | 98 | 2 | 98.0% | 2 |
 | ✅ | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| 🚨 | TV-丫丫点播 | https://cj.yayazy.net/api.php/provide/vod | 97 | 3 | 97.0% | 3 |
+| 🚨 | 丫丫点播 | https://cj.yayazy.net/api.php/provide/vod/ | 97 | 3 | 97.0% | 3 |
 | ✅ | 快车资源 | https://caiji.kuaichezy.org/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
 | ✅ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 97 | 3 | 97.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
 | ✅ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
-| 🚨 | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 70 | 30 | 70.0% | 29 |
-| 🚨 | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 70 | 30 | 70.0% | 29 |
-| ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 68 | 32 | 68.0% | 0 |
+| 🚨 | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 69 | 31 | 69.0% | 30 |
+| ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 69 | 31 | 69.0% | 0 |
+| 🚨 | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 69 | 31 | 69.0% | 30 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
