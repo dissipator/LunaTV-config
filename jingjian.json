@@ -166,11 +166,6 @@
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "detail": "https://jyzyapi.com"
     },
-    "TV-閃電资源": {
-      "name": "TV-閃電资源",
-      "api": "https://sdzyapi.com/api.php/provide/vod",
-      "detail": "https://sdzyapi.com"
-    },
     "TV-非凡资源": {
       "name": "TV-非凡资源",
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -754,6 +749,24 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "丫丫点播": {
+      "id": "4d54ac92-980b-4050-a41e-bfc818c64b1f",
+      "key": "丫丫点播",
+      "name": "丫丫点播",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.870771454+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "无法搜索",
+        "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "U酷资源": {
       "id": "1e78e7f5-63c3-4169-8a21-4773e19affed",
       "key": "U酷资源",
@@ -836,23 +849,6 @@
       "remark": "",
       "tags": [
         "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "快车资源": {
-      "id": "2f5cc4ba-b825-407e-8692-76ac05f4f0c6",
-      "key": "快车资源",
-      "name": "快车资源",
-      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.800064444+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
