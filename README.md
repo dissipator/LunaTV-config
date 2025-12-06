@@ -144,14 +144,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-06 16:30 CST）
+## API 状态（最近更新：2025-12-06 17:24 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
 - 失败 API 数量：20
-- 平均可用率：82.4%
-- 完美可用率（100%）：68 个
-- 高可用率（80%-99%）：33 个
+- 平均可用率：82.5%
+- 完美可用率（100%）：70 个
+- 高可用率（80%-99%）：31 个
 - 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：21 个
 
@@ -224,8 +224,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 索尼资源 | https://suoniapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
+| ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 豆瓣资源 | https://dbzy.tv/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
+| ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 閃電资源 | https://sdzyapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 99 | 1 | 99.0% | 0 |
@@ -237,6 +239,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ✅ | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -249,21 +252,18 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 新浪点播 | https://api.xinlangapi.com/xinlangapi.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 电影天堂资源 | https://caiji.dyttzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 99 | 1 | 99.0% | 0 |
-| ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 91 | 9 | 91.0% | 0 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 89 | 11 | 89.0% | 0 |
-| ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 85 | 15 | 85.0% | 0 |
-| ❌ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 70 | 30 | 70.0% | 1 |
-| ✅ | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 23 | 77 | 23.0% | 0 |
-| ✅ | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 23 | 77 | 23.0% | 0 |
+| ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 86 | 14 | 86.0% | 0 |
+| ❌ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 69 | 31 | 69.0% | 2 |
+| ✅ | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 24 | 76 | 24.0% | 0 |
+| ✅ | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 24 | 76 | 24.0% | 0 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
