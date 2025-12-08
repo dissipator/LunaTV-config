@@ -144,15 +144,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-08 07:22 CST）
+## API 状态（最近更新：2025-12-08 09:55 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
 - 失败 API 数量：20
 - 平均可用率：83.1%
 - 完美可用率（100%）：71 个
-- 高可用率（80%-99%）：30 个
-- 中等可用率（50%-79%）：3 个
+- 高可用率（80%-99%）：29 个
+- 中等可用率（50%-79%）：4 个
 - 低可用率（<50%）：19 个
 
 <div style="font-size: 11px;">
@@ -260,10 +260,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
-| 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 80 | 20 | 80.0% | 19 |
-| ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 63 | 37 | 63.0% | 0 |
-| ✅ | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 60 | 40 | 60.0% | 0 |
-| ✅ | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 60 | 40 | 60.0% | 0 |
+| 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 79 | 21 | 79.0% | 20 |
+| ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 64 | 36 | 64.0% | 0 |
+| ✅ | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 61 | 39 | 61.0% | 0 |
+| ✅ | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 61 | 39 | 61.0% | 0 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
