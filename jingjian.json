@@ -429,6 +429,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "360资源": {
+      "id": "cfccc4ed-df68-4f9b-942d-c8f84724f589",
+      "key": "360资源",
+      "name": "360资源",
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.084986234+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "如意资源": {
       "id": "4ffa5869-67d8-463d-94d7-c78212e039e0",
       "key": "如意资源",
@@ -609,23 +626,6 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:42.946578973+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "速播资源": {
-      "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
-      "key": "速播资源",
-      "name": "速播资源",
-      "api": "https://subocaiji.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.942959654+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
