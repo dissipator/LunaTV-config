@@ -176,6 +176,11 @@
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "detail": "https://sdzyapi.com"
     },
+    "TV-非凡资源": {
+      "name": "TV-非凡资源",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com"
+    },
     "TV-飘零资源": {
       "name": "TV-飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
@@ -195,6 +200,11 @@
       "name": "AV-91麻豆",
       "api": "https://91md.me/api.php/provide/vod",
       "detail": "https://91md.me"
+    },
+    "AV-AIvin": {
+      "name": "AV-AIvin",
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "detail": ""
     },
     "AV-JKUN资源": {
       "name": "AV-JKUN资源",
@@ -220,6 +230,11 @@
       "name": "AV-奶香香",
       "api": "https://Naixxzy.com/api.php/provide/vod",
       "detail": "https://Naixxzy.com"
+    },
+    "AV-森林资源": {
+      "name": "AV-森林资源",
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "detail": "https://slapibf.com"
     },
     "AV-淫水机资源": {
       "name": "AV-淫水机资源",
@@ -407,6 +422,23 @@
       "time": "2025-10-30T11:15:43.088381763+08:00",
       "isDefault": 0,
       "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "360资源": {
+      "id": "cfccc4ed-df68-4f9b-942d-c8f84724f589",
+      "key": "360资源",
+      "name": "360资源",
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.084986234+08:00",
+      "isDefault": 0,
+      "remark": "",
       "tags": [
         "优秀"
       ],
