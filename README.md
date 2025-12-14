@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-14 18:25 CST）
+## API 状态（最近更新：2025-12-14 19:20 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：102
-- 失败 API 数量：21
+- 成功 API 数量：103
+- 失败 API 数量：20
 - 平均可用率：83.1%
 - 完美可用率（100%）：74 个
 - 高可用率（80%-99%）：28 个
@@ -260,7 +260,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 卧龙资源 | https://wolongzyw.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 98 | 2 | 98.0% | 0 |
 | ✅ | 360资源 | https://360zy.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
-| ❌ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
+| ✅ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 88 | 12 | 88.0% | 0 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 70 | 30 | 70.0% | 0 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
