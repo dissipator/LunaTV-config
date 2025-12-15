@@ -360,6 +360,10 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
+    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -582,6 +586,23 @@
       "remark": "https://api.wwzy.tv/api.php/provide/vod/",
       "tags": [
         "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "iKun资源": {
+      "id": "72bb9c90-adf3-4d24-bdfb-c667befa4917",
+      "key": "iKun资源",
+      "name": "iKun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.949083783+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
