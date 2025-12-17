@@ -261,25 +261,10 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
     },
-    "AV-辣椒资源": {
-      "name": "AV-辣椒资源",
-      "api": "https://apilj.com/api.php/provide/vod",
-      "detail": "https://apilj.com"
-    },
     "AV-香奶儿资源": {
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
-    },
-    "AV-鲨鱼资源": {
-      "name": "AV-鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod",
-      "detail": "https://shayuapi.com"
-    },
-    "AV-黄AV资源": {
-      "name": "AV-黄AV资源",
-      "api": "https://www.pgxdy.com/api/json.php",
-      "detail": "https://www.pgxdy.com"
     },
     "非凡影视new": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -336,10 +321,6 @@
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
     },
-    "黄色资源啊啊": {
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "name": "黄色资源啊啊"
-    },
     "小鸡资源": {
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
@@ -395,23 +376,6 @@
         "代理"
       ],
       "priority": 1,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "非凡影视": {
-      "id": "f4907395-e693-4710-be31-d05f2e08e716",
-      "key": "非凡影视",
-      "name": "非凡影视",
-      "api": "http://ffzy5.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.088381763+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
