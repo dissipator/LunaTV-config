@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-17 18:31 CST）
+## API 状态（最近更新：2025-12-17 19:25 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：100
@@ -260,9 +260,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | CK资源 | https://ckzy.me/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
 | ✅ | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 65 | 35 | 65.0% | 35 |
-| 🚨 | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 65 | 35 | 65.0% | 3 |
-| 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 47 | 53 | 47.0% | 53 |
+| 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 64 | 36 | 64.0% | 36 |
+| 🚨 | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 64 | 36 | 64.0% | 4 |
+| 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 46 | 54 | 46.0% | 54 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
