@@ -333,6 +333,10 @@
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
     },
+    "金鹰资源采集网": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源采集网"
+    },
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
