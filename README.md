@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-24 02:39 CST）
+## API 状态（最近更新：2025-12-24 03:23 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：98
-- 失败 API 数量：25
+- 成功 API 数量：100
+- 失败 API 数量：23
 - 平均可用率：82.2%
 - 完美可用率（100%）：86 个
 - 高可用率（80%-99%）：15 个
@@ -256,10 +256,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 95 | 4 | 96.0% | 1 |
-| 🚨 | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
-| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 94 | 6 | 94.0% | 6 |
-| ❌ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 94 | 6 | 94.0% | 1 |
+| ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 95 | 4 | 96.0% | 0 |
+| ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 94 | 6 | 94.0% | 0 |
+| 🚨 | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
+| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 93 | 7 | 93.0% | 7 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 89 | 10 | 89.9% | 0 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 61 | 39 | 61.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
