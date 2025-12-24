@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-25 02:36 CST）
+## API 状态（最近更新：2025-12-25 03:20 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：100
@@ -256,11 +256,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 97 | 1 | 99.0% | 0 |
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 95 | 3 | 96.9% | 0 |
-| ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 95 | 5 | 95.0% | 0 |
+| ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 96 | 2 | 98.0% | 0 |
+| ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 92 | 6 | 93.9% | 0 |
-| 🚨 | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 72 | 28 | 72.0% | 28 |
-| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 72 | 28 | 72.0% | 28 |
+| 🚨 | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 71 | 29 | 71.0% | 29 |
+| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 71 | 29 | 71.0% | 29 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 59 | 41 | 59.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
