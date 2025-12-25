@@ -236,11 +236,6 @@
       "api": "https://www.xrbsp.com/api/json.php",
       "detail": "https://www.xrbsp.com"
     },
-    "AV-玉兔资源": {
-      "name": "AV-玉兔资源",
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "detail": "https://apiyutu.com"
-    },
     "AV-番号资源": {
       "name": "AV-番号资源",
       "api": "http://fhapi9.com/api.php/provide/vod",
@@ -260,11 +255,6 @@
       "name": "AV-美少女资源",
       "api": "https://www.msnii.com/api/json.php",
       "detail": "https://www.msnii.com"
-    },
-    "AV-老色逼资源": {
-      "name": "AV-老色逼资源",
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "detail": "https://apilsbzy1.com"
     },
     "AV-香奶儿资源": {
       "name": "AV-香奶儿资源",
