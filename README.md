@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-25 17:29 CST）
+## API 状态（最近更新：2025-12-25 18:28 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：99
 - 失败 API 数量：24
-- 平均可用率：81.8%
+- 平均可用率：81.7%
 - 完美可用率（100%）：86 个
 - 高可用率（80%-99%）：13 个
 - 中等可用率（50%-79%）：3 个
@@ -259,9 +259,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 96 | 2 | 98.0% | 0 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 91 | 7 | 92.9% | 0 |
-| ❌ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 65 | 35 | 65.0% | 2 |
-| 🚨 | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 59 | 41 | 59.0% | 41 |
-| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 59 | 41 | 59.0% | 41 |
+| 🚨 | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 64 | 36 | 64.0% | 3 |
+| 🚨 | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 58 | 42 | 58.0% | 42 |
+| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 58 | 42 | 58.0% | 42 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
