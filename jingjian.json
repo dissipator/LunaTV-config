@@ -166,16 +166,6 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "TV-金鹰点播": {
-      "name": "TV-金鹰点播",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
-      "detail": "https://jinyingzy.com"
-    },
-    "TV-金鹰资源": {
-      "name": "TV-金鹰资源",
-      "api": "https://jyzyapi.com/api.php/provide/vod",
-      "detail": "https://jyzyapi.com"
-    },
     "TV-閃電资源": {
       "name": "TV-閃電资源",
       "api": "https://sdzyapi.com/api.php/provide/vod",
@@ -338,10 +328,6 @@
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
     },
-    "金鹰资源采集网": {
-      "api": "https://jyzyapi.com/provide/vod",
-      "name": "金鹰资源采集网"
-    },
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
@@ -369,6 +355,10 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
+    },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -695,24 +685,6 @@
       "remark": "https://collect.wolongzy.cc/api.php/provide/vod/",
       "tags": [
         "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "金鹰资源": {
-      "id": "d15f4320-9e89-4cae-afe2-83fdf3a96e19",
-      "key": "金鹰资源",
-      "name": "金鹰资源",
-      "api": "https://jyzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.938341104+08:00",
-      "isDefault": 0,
-      "remark": "https://jinyingzy.com/api.php/provide/vod/",
-      "tags": [
-        "搜索混乱",
-        "差"
       ],
       "priority": 0,
       "proxyMode": "none",
