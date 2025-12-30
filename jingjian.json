@@ -141,11 +141,6 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://caiji.maotaizy.cc"
     },
-    "TV-虎牙资源": {
-      "name": "TV-虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "detail": "https://www.huyaapi.com"
-    },
     "TV-豆瓣资源": {
       "name": "TV-豆瓣资源",
       "api": "https://dbzy.tv/api.php/provide/vod",
@@ -337,6 +332,10 @@
     "索尼-闪电资源": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
+    },
+    "金鹰资源采集网": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源采集网"
     },
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
@@ -696,16 +695,16 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "虎牙资源": {
-      "id": "ad0c6b4f-9e06-498d-acd9-d1c2573737d1",
-      "key": "虎牙资源",
-      "name": "虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+    "金鹰资源": {
+      "id": "d15f4320-9e89-4cae-afe2-83fdf3a96e19",
+      "key": "金鹰资源",
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/api.php/provide/vod/",
       "type": 2,
       "isActive": 0,
-      "time": "2025-10-30T11:15:42.936873515+08:00",
+      "time": "2025-10-30T11:15:42.938341104+08:00",
       "isDefault": 0,
-      "remark": "",
+      "remark": "https://jinyingzy.com/api.php/provide/vod/",
       "tags": [
         "搜索混乱",
         "差"
