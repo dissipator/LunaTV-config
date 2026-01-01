@@ -1,11 +1,6 @@
 {
   "cache_time": 9200,
   "api_site": {
-    "TV-1080资源": {
-      "name": "TV-1080资源",
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "detail": "https://api.1080zyku.com"
-    },
     "AV-155资源": {
       "name": "AV-155资源",
       "api": "https://155api.com/api.php/provide/vod",
@@ -71,34 +66,9 @@
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "detail": ""
     },
-    "TV-旺旺短剧": {
-      "name": "TV-旺旺短剧",
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "detail": "https://wwzy.tv"
-    },
-    "TV-旺旺资源": {
-      "name": "TV-旺旺资源",
-      "api": "https://api.wwzy.tv/api.php/provide/vod",
-      "detail": "https://api.wwzy.tv"
-    },
     "TV-暴风资源": {
       "name": "TV-暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "detail": ""
-    },
-    "TV-最大点播": {
-      "name": "TV-最大点播",
-      "api": "http://zuidazy.me/api.php/provide/vod",
-      "detail": "http://zuidazy.me"
-    },
-    "TV-最大资源": {
-      "name": "TV-最大资源",
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "detail": "https://api.zuidapi.com"
-    },
-    "TV-樱花资源": {
-      "name": "TV-樱花资源",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "detail": ""
     },
     "TV-牛牛点播": {
@@ -106,20 +76,10 @@
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://api.niuniuzy.me"
     },
-    "TV-电影天堂资源": {
-      "name": "TV-电影天堂资源",
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
     "AV-百万资源": {
       "name": "AV-百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "detail": "https://api.bwzyz.com"
-    },
-    "TV-神马云": {
-      "name": "TV-神马云",
-      "api": "https://api.1080zyku.com/inc/apijson.php/",
-      "detail": "https://api.1080zyku.com"
     },
     "TV-索尼资源": {
       "name": "TV-索尼资源",
@@ -334,10 +294,6 @@
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
     },
-    "快车资源阿": {
-      "api": "https://caiji.kuaichezy.org/api.php/provide",
-      "name": "快车资源阿"
-    },
     "辣椒资源黄黄": {
       "api": "https://apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
@@ -349,10 +305,6 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
-    },
-    "七七影视": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -375,23 +327,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "电影天堂资源": {
-      "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
-      "key": "电影天堂资源",
-      "name": "电影天堂资源",
-      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.086388483+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 1,
-      "proxyMode": "builtin",
-      "customProxy": ""
-    },
     "暴风资源": {
       "id": "a2aa3bd3-ee1c-4f68-93da-06adae5443a2",
       "key": "暴风资源",
@@ -406,23 +341,6 @@
         "代理"
       ],
       "priority": 1,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "非凡影视": {
-      "id": "f4907395-e693-4710-be31-d05f2e08e716",
-      "key": "非凡影视",
-      "name": "非凡影视",
-      "api": "http://ffzy5.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.088381763+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
@@ -838,23 +756,6 @@
       "remark": "",
       "tags": [
         "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "快车资源": {
-      "id": "2f5cc4ba-b825-407e-8692-76ac05f4f0c6",
-      "key": "快车资源",
-      "name": "快车资源",
-      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.800064444+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
