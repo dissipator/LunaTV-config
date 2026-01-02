@@ -66,6 +66,11 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": ""
     },
+    "TV-新浪点播": {
+      "name": "TV-新浪点播",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "detail": "https://api.xinlangapi.com"
+    },
     "TV-无尽资源": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.net/api.php/provide/vod",
@@ -365,6 +370,10 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
+    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -384,6 +393,23 @@
       ],
       "priority": 1,
       "proxyMode": "none",
+      "customProxy": ""
+    },
+    "电影天堂资源": {
+      "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
+      "key": "电影天堂资源",
+      "name": "电影天堂资源",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.086388483+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 1,
+      "proxyMode": "builtin",
       "customProxy": ""
     },
     "暴风资源": {
@@ -832,6 +858,23 @@
       "tags": [
         "无法搜索",
         "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "新浪点播": {
+      "id": "0a7ec05e-6dd7-4b54-8e49-72de192bf8b8",
+      "key": "新浪点播",
+      "name": "新浪点播",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.806411723+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
