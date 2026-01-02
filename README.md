@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-03 06:26 CST）
+## API 状态（最近更新：2026-01-03 07:24 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
@@ -249,9 +249,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
+| ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 电影天堂资源 | https://caiji.dyttzyapi.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
-| ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| ✅ | 360资源 | https://360zy.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
+| ✅ | 360资源 | https://360zy.com/api.php/provide/vod/ | 93 | 7 | 93.0% | 0 |
 | ✅ | AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 91 | 9 | 91.0% | 0 |
 | ✅ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
@@ -262,7 +262,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
 | ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 82 | 18 | 82.0% | 0 |
-| 🚨 | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 64 | 36 | 64.0% | 7 |
+| 🚨 | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 63 | 37 | 63.0% | 8 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 59 | 41 | 59.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
