@@ -91,6 +91,11 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "detail": ""
     },
+    "TV-最大点播": {
+      "name": "TV-最大点播",
+      "api": "http://zuidazy.me/api.php/provide/vod",
+      "detail": "http://zuidazy.me"
+    },
     "TV-最大资源": {
       "name": "TV-最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -176,10 +181,25 @@
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "detail": "https://sdzyapi.com"
     },
+    "TV-非凡资源": {
+      "name": "TV-非凡资源",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com"
+    },
     "TV-飘零资源": {
       "name": "TV-飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
       "detail": "https://p2100.net"
+    },
+    "TV-魔都动漫": {
+      "name": "TV-魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": "https://caiji.moduapi.cc"
+    },
+    "TV-魔都资源": {
+      "name": "TV-魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://www.mdzyapi.com"
     },
     "AV-91麻豆": {
       "name": "AV-91麻豆",
@@ -334,6 +354,10 @@
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
     },
+    "快车资源阿": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide",
+      "name": "快车资源阿"
+    },
     "辣椒资源黄黄": {
       "api": "https://apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
@@ -405,6 +429,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "非凡影视": {
+      "id": "f4907395-e693-4710-be31-d05f2e08e716",
+      "key": "非凡影视",
+      "name": "非凡影视",
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.088381763+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "360资源": {
       "id": "cfccc4ed-df68-4f9b-942d-c8f84724f589",
       "key": "360资源",
@@ -466,6 +507,23 @@
       "time": "2025-10-30T11:15:43.081305084+08:00",
       "isDefault": 0,
       "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "魔都资源": {
+      "id": "f9b80ba8-5c80-4ada-bc2b-fb75ff809475",
+      "key": "魔都资源",
+      "name": "魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.020838173+08:00",
+      "isDefault": 0,
+      "remark": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "tags": [
         "优秀"
       ],
@@ -834,6 +892,23 @@
       "remark": "",
       "tags": [
         "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "快车资源": {
+      "id": "2f5cc4ba-b825-407e-8692-76ac05f4f0c6",
+      "key": "快车资源",
+      "name": "快车资源",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.800064444+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
