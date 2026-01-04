@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-04 15:26 CST）
+## API 状态（最近更新：2026-01-04 16:33 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：101
-- 失败 API 数量：22
+- 成功 API 数量：102
+- 失败 API 数量：21
 - 平均可用率：82.5%
 - 完美可用率（100%）：56 个
 - 高可用率（80%-99%）：46 个
@@ -249,21 +249,21 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 98 | 2 | 98.0% | 0 |
 | ✅ | 新浪点播 | https://api.xinlangapi.com/xinlangapi.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
-| ❌ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 1 |
+| ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
 | ✅ | 电影天堂资源 | https://caiji.dyttzyapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
-| ✅ | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
+| ✅ | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
+| ❌ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 91 | 9 | 91.0% | 1 |
 | ✅ | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 91 | 9 | 91.0% | 0 |
 | ✅ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
+| ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
+| ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 91 | 9 | 91.0% | 0 |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 87 | 13 | 87.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
-| ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 62 | 38 | 62.0% | 0 |
-| ❌ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 41 | 59 | 41.0% | 1 |
+| ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 63 | 37 | 63.0% | 0 |
+| ❌ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 40 | 60 | 40.0% | 2 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
