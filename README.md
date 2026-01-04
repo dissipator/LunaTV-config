@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-05 02:35 CST）
+## API 状态（最近更新：2026-01-05 03:20 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
@@ -242,7 +242,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 99 | 1 | 99.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
-| ❌ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 2 |
+| ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-玉兔资源 | https://apiyutu.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-番号资源 | http://fhapi9.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 98 | 2 | 98.0% | 0 |
@@ -262,8 +262,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 87 | 13 | 87.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
-| ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 66 | 34 | 66.0% | 0 |
-| 🚨 | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 30 | 70 | 30.0% | 12 |
+| ❌ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 65 | 35 | 65.0% | 1 |
+| 🚨 | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 29 | 71 | 29.0% | 13 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
