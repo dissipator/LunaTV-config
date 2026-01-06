@@ -334,6 +334,10 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "索尼-闪电资源": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "索尼-闪电资源"
+    },
     "金鹰资源采集网": {
       "api": "https://jyzyapi.com/provide/vod",
       "name": "金鹰资源采集网"
@@ -713,6 +717,24 @@
       "remark": "",
       "tags": [
         "搜索混乱",
+        "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "閃電资源": {
+      "id": "07674950-5023-4366-9eab-aa9ed198cf72",
+      "key": "閃電资源",
+      "name": "閃電资源",
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.878028103+08:00",
+      "isDefault": 0,
+      "remark": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+      "tags": [
+        "无法搜索",
         "差"
       ],
       "priority": 0,
