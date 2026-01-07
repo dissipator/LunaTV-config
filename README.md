@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-07 23:31 CST）
+## API 状态（最近更新：2026-01-08 00:37 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：101
-- 失败 API 数量：22
-- 平均可用率：83.2%
+- 成功 API 数量：100
+- 失败 API 数量：23
+- 平均可用率：83.1%
 - 完美可用率（100%）：70 个
 - 高可用率（80%-99%）：32 个
 - 中等可用率（50%-79%）：1 个
@@ -259,11 +259,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
-| 🚨 | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
-| 🚨 | 旺旺短剧 | https://wwzy.tv/api.php/provide/vod/ | 90 | 10 | 90.0% | 10 |
-| ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 62 | 38 | 62.0% | 0 |
-| ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 39 | 61 | 39.0% | 0 |
+| 🚨 | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 89 | 11 | 89.0% | 11 |
+| 🚨 | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 89 | 11 | 89.0% | 11 |
+| 🚨 | 旺旺短剧 | https://wwzy.tv/api.php/provide/vod/ | 89 | 11 | 89.0% | 11 |
+| ❌ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 61 | 39 | 61.0% | 1 |
+| ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 40 | 60 | 40.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
