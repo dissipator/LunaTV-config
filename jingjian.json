@@ -463,23 +463,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "如意资源": {
-      "id": "4ffa5869-67d8-463d-94d7-c78212e039e0",
-      "key": "如意资源",
-      "name": "如意资源",
-      "api": "http://cj.rycjapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.083919384+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "天涯资源": {
       "id": "3f376a80-1a51-48de-8b0c-861b345b5971",
       "key": "天涯资源",
