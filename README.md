@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-12 04:29 CST）
+## API 状态（最近更新：2026-01-12 05:23 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：104
@@ -260,9 +260,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
-| ✅ | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| ✅ | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| ✅ | 旺旺短剧 | https://wwzy.tv/api.php/provide/vod/ | 84 | 16 | 84.0% | 0 |
+| ✅ | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
+| ✅ | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
+| ✅ | 旺旺短剧 | https://wwzy.tv/api.php/provide/vod/ | 85 | 15 | 85.0% | 0 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 64 | 36 | 64.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
