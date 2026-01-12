@@ -81,6 +81,11 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "detail": "https://wwzy.tv"
     },
+    "TV-旺旺资源": {
+      "name": "TV-旺旺资源",
+      "api": "https://api.wwzy.tv/api.php/provide/vod",
+      "detail": "https://api.wwzy.tv"
+    },
     "TV-暴风资源": {
       "name": "TV-暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -333,6 +338,10 @@
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
     },
+    "金鹰资源采集网": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源采集网"
+    },
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
@@ -344,6 +353,10 @@
     "小鸡资源": {
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
+    },
+    "快车资源阿": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide",
+      "name": "快车资源阿"
     },
     "辣椒资源黄黄": {
       "api": "https://apilj.com/api.php/provide",
