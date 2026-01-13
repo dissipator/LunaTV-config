@@ -476,23 +476,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "天涯资源": {
-      "id": "3f376a80-1a51-48de-8b0c-861b345b5971",
-      "key": "天涯资源",
-      "name": "天涯资源",
-      "api": "https://tyyszy.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.082663624+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "卧龙资源": {
       "id": "3c58c36b-018b-4105-bce1-2ff09edc121a",
       "key": "卧龙资源",
