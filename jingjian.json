@@ -56,6 +56,11 @@
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "detail": "https://wolongzyw.com"
     },
+    "TV-天涯资源": {
+      "name": "TV-天涯资源",
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "detail": "https://tyyszy.com"
+    },
     "TV-如意资源": {
       "name": "TV-如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -470,6 +475,23 @@
       "remark": "",
       "tags": [
         "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "天涯资源": {
+      "id": "3f376a80-1a51-48de-8b0c-861b345b5971",
+      "key": "天涯资源",
+      "name": "天涯资源",
+      "api": "https://tyyszy.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.082663624+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
