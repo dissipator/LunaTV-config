@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-16 17:33 CST）
+## API 状态（最近更新：2026-01-16 18:30 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：103
-- 失败 API 数量：20
+- 成功 API 数量：104
+- 失败 API 数量：19
 - 平均可用率：83.9%
 - 完美可用率（100%）：80 个
 - 高可用率（80%-99%）：23 个
@@ -260,7 +260,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 98 | 2 | 98.0% | 0 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | 极速资源 | https://jszyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 1 |
+| ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-天涯资源 | https://tyyszy.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 天涯资源 | https://tyyszy.com/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 68 | 32 | 68.0% | 0 |
