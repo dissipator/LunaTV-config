@@ -56,11 +56,6 @@
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "detail": "https://wolongzyw.com"
     },
-    "TV-天涯资源": {
-      "name": "TV-天涯资源",
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "detail": "https://tyyszy.com"
-    },
     "TV-如意资源": {
       "name": "TV-如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -370,10 +365,6 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
-    "七七影视": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
-    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -429,6 +420,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "非凡影视": {
+      "id": "f4907395-e693-4710-be31-d05f2e08e716",
+      "key": "非凡影视",
+      "name": "非凡影视",
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.088381763+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "360资源": {
       "id": "cfccc4ed-df68-4f9b-942d-c8f84724f589",
       "key": "360资源",
@@ -458,23 +466,6 @@
       "remark": "",
       "tags": [
         "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "天涯资源": {
-      "id": "3f376a80-1a51-48de-8b0c-861b345b5971",
-      "key": "天涯资源",
-      "name": "天涯资源",
-      "api": "https://tyyszy.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.082663624+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
