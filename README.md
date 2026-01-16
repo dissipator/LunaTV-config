@@ -144,14 +144,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-17 06:29 CST）
+## API 状态（最近更新：2026-01-17 07:28 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：100
-- 失败 API 数量：23
+- 成功 API 数量：99
+- 失败 API 数量：24
 - 平均可用率：83.7%
-- 完美可用率（100%）：73 个
-- 高可用率（80%-99%）：30 个
+- 完美可用率（100%）：72 个
+- 高可用率（80%-99%）：31 个
 - 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：19 个
 
@@ -228,7 +228,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 100 | 0 | 100.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
-| ✅ | 閃電资源 | https://sdzyapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
@@ -236,7 +235,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-155资源 | https://155api.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-老色逼资源 | https://apilsbzy1.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-最大点播 | http://zuidazy.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-牛牛点播 | https://api.niuniuzy.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -244,23 +243,24 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-閃電资源 | https://sdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 丫丫点播 | https://cj.yayazy.net/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
-| ❌ | 最大资源 | https://api.zuidapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 1 |
+| ✅ | 最大资源 | https://api.zuidapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 快车资源 | https://caiji.kuaichezy.org/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
-| ❌ | 暴风资源 | https://bfzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 1 |
 | ✅ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 索尼资源 | https://suoniapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 豆瓣资源 | https://dbzy.tv/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 豪华资源 | https://hhzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
+| ❌ | 閃電资源 | https://sdzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 1 |
 | ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
+| ❌ | 丫丫点播 | https://cj.yayazy.net/api.php/provide/vod/ | 98 | 2 | 98.0% | 1 |
+| ❌ | 暴风资源 | https://bfzyapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 2 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 97 | 3 | 97.0% | 1 |
 | ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
-| ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 91 | 9 | 91.0% | 0 |
+| ❌ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 96 | 4 | 96.0% | 2 |
+| ❌ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 90 | 10 | 90.0% | 1 |
 | ✅ | TV-天涯资源 | https://tyyszy.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 天涯资源 | https://tyyszy.com/api.php/provide/vod/ | 87 | 13 | 87.0% | 0 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 65 | 35 | 65.0% | 0 |

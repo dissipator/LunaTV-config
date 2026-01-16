@@ -31,6 +31,11 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "detail": "https://ikunzyapi.com"
     },
+    "TV-wujinapi无尽": {
+      "name": "TV-wujinapi无尽",
+      "api": "https://api.wujinapi.cc/api.php/provide/vod",
+      "detail": ""
+    },
     "TV-丫丫点播": {
       "name": "TV-丫丫点播",
       "api": "https://cj.yayazy.net/api.php/provide/vod",
@@ -403,23 +408,6 @@
       "proxyMode": "builtin",
       "customProxy": ""
     },
-    "非凡影视": {
-      "id": "f4907395-e693-4710-be31-d05f2e08e716",
-      "key": "非凡影视",
-      "name": "非凡影视",
-      "api": "http://ffzy5.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.088381763+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "360资源": {
       "id": "cfccc4ed-df68-4f9b-942d-c8f84724f589",
       "key": "360资源",
@@ -553,6 +541,23 @@
       "remark": "",
       "tags": [
         "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "最大资源": {
+      "id": "6ff054f3-351a-4481-b95e-833a82a43daf",
+      "key": "最大资源",
+      "name": "最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.009537394+08:00",
+      "isDefault": 0,
+      "remark": "http://zuidazy.me/api.php/provide/vod/",
+      "tags": [
+        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
@@ -697,24 +702,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "閃電资源": {
-      "id": "07674950-5023-4366-9eab-aa9ed198cf72",
-      "key": "閃電资源",
-      "name": "閃電资源",
-      "api": "https://sdzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.878028103+08:00",
-      "isDefault": 0,
-      "remark": "https://xsd.sdzyapi.com/api.php/provide/vod/",
-      "tags": [
-        "无法搜索",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "飘零资源": {
       "id": "12f07403-2272-4fe4-a0d2-5e1d1810df13",
       "key": "飘零资源",
@@ -744,24 +731,6 @@
       "remark": "",
       "tags": [
         "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "丫丫点播": {
-      "id": "4d54ac92-980b-4050-a41e-bfc818c64b1f",
-      "key": "丫丫点播",
-      "name": "丫丫点播",
-      "api": "https://cj.yayazy.net/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.870771454+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "无法搜索",
-        "差"
       ],
       "priority": 0,
       "proxyMode": "none",
