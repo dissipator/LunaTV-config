@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-17 15:24 CST）
+## API 状态（最近更新：2026-01-17 16:34 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
@@ -262,7 +262,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-天涯资源 | https://tyyszy.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 天涯资源 | https://tyyszy.com/api.php/provide/vod/ | 87 | 13 | 87.0% | 0 |
-| 🚨 | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 86 | 14 | 86.0% | 3 |
+| 🚨 | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 85 | 15 | 85.0% | 4 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 69 | 31 | 69.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
