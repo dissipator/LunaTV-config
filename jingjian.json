@@ -161,6 +161,11 @@
       "api": "https://subocaiji.com/api.php/provide/vod",
       "detail": ""
     },
+    "TV-量子资源": {
+      "name": "TV-量子资源",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": ""
+    },
     "TV-金鹰点播": {
       "name": "TV-金鹰点播",
       "api": "https://jinyingzy.com/api.php/provide/vod",
