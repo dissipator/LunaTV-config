@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-20 05:31 CST）
+## API 状态（最近更新：2026-01-20 06:34 CST）
 
 - 总 API 数量：90
 - 成功 API 数量：73
@@ -211,8 +211,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 小鸡资源 | https://api.xiaojizy.live/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 影视工厂 | https://cj.lziapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod | 21 | 0 | 100.0% | 0 |
-| ✅ | 红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 21 | 0 | 100.0% | 0 |
+| ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod | 22 | 0 | 100.0% | 0 |
+| ✅ | 红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 22 | 0 | 100.0% | 0 |
 | ✅ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 100 | 0 | 100.0% | 0 |
