@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-21 00:46 CST）
+## API 状态（最近更新：2026-01-21 01:41 CST）
 
 - 总 API 数量：90
 - 成功 API 数量：72
 - 失败 API 数量：18
-- 平均可用率：80.4%
+- 平均可用率：80.3%
 - 完美可用率（100%）：47 个
 - 高可用率（80%-99%）：25 个
 - 中等可用率（50%-79%）：1 个
@@ -202,12 +202,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 小鸡资源 | https://api.xiaojizy.live/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 影视工厂 | https://cj.lziapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod | 37 | 0 | 100.0% | 0 |
-| ✅ | 红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 37 | 0 | 100.0% | 0 |
+| ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod | 38 | 0 | 100.0% | 0 |
+| ✅ | 红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 38 | 0 | 100.0% | 0 |
 | ✅ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ❌ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -227,6 +226,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 99 | 1 | 99.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ❌ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 2 |
 | ✅ | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
