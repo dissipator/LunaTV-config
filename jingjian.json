@@ -66,11 +66,6 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "TV-新浪点播": {
-      "name": "TV-新浪点播",
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "detail": "https://api.xinlangapi.com"
-    },
     "TV-无尽资源": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.net/api.php/provide/vod",
@@ -345,10 +340,6 @@
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
-    },
-    "黄色资源啊啊": {
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "name": "黄色资源啊啊"
     },
     "小鸡资源": {
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -732,23 +723,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "飘零资源": {
-      "id": "12f07403-2272-4fe4-a0d2-5e1d1810df13",
-      "key": "飘零资源",
-      "name": "飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.877232923+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
