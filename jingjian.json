@@ -844,6 +844,24 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "光速资源": {
+      "id": "d332ab93-58cb-4a3c-8257-8f2563a7e228",
+      "key": "光速资源",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.865187975+08:00",
+      "isDefault": 0,
+      "remark": "搜索没用",
+      "tags": [
+        "无法搜索",
+        "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "牛牛点播": {
       "id": "7d580fba-ef77-497f-bf63-a2359832d0e3",
       "key": "牛牛点播",
