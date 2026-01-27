@@ -91,6 +91,11 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "detail": ""
     },
+    "TV-最大点播": {
+      "name": "TV-最大点播",
+      "api": "http://zuidazy.me/api.php/provide/vod",
+      "detail": "http://zuidazy.me"
+    },
     "TV-最大资源": {
       "name": "TV-最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -100,6 +105,11 @@
       "name": "TV-樱花资源",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "detail": ""
+    },
+    "TV-牛牛点播": {
+      "name": "TV-牛牛点播",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "detail": "https://api.niuniuzy.me"
     },
     "TV-电影天堂资源": {
       "name": "TV-电影天堂资源",
@@ -359,6 +369,10 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
+    },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -830,16 +844,16 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "光速资源": {
-      "id": "d332ab93-58cb-4a3c-8257-8f2563a7e228",
-      "key": "光速资源",
-      "name": "光速资源",
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+    "牛牛点播": {
+      "id": "7d580fba-ef77-497f-bf63-a2359832d0e3",
+      "key": "牛牛点播",
+      "name": "牛牛点播",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
       "type": 2,
       "isActive": 0,
-      "time": "2025-10-30T11:15:42.865187975+08:00",
+      "time": "2025-10-30T11:15:42.812725452+08:00",
       "isDefault": 0,
-      "remark": "搜索没用",
+      "remark": "",
       "tags": [
         "无法搜索",
         "差"
