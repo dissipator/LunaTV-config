@@ -1,16 +1,6 @@
 {
   "cache_time": 9200,
   "api_site": {
-    "TV-1080资源": {
-      "name": "TV-1080资源",
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "detail": "https://api.1080zyku.com"
-    },
-    "AV-155资源": {
-      "name": "AV-155资源",
-      "api": "https://155api.com/api.php/provide/vod",
-      "detail": "https://155api.com"
-    },
     "TV-360资源": {
       "name": "TV-360资源",
       "api": "https://360zy.com/api.php/provide/vod",
@@ -101,11 +91,6 @@
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "detail": "https://api.zuidapi.com"
     },
-    "TV-樱花资源": {
-      "name": "TV-樱花资源",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-牛牛点播": {
       "name": "TV-牛牛点播",
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
@@ -161,20 +146,10 @@
       "api": "https://subocaiji.com/api.php/provide/vod",
       "detail": ""
     },
-    "TV-量子资源": {
-      "name": "TV-量子资源",
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-金鹰点播": {
       "name": "TV-金鹰点播",
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "detail": "https://jinyingzy.com"
-    },
-    "TV-金鹰资源": {
-      "name": "TV-金鹰资源",
-      "api": "https://jyzyapi.com/api.php/provide/vod",
-      "detail": "https://jyzyapi.com"
     },
     "TV-閃電资源": {
       "name": "TV-閃電资源",
@@ -210,11 +185,6 @@
       "name": "AV-AIvin",
       "api": "http://lbapiby.com/api.php/provide/vod",
       "detail": ""
-    },
-    "AV-JKUN资源": {
-      "name": "AV-JKUN资源",
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "detail": "https://jkunzyapi.com"
     },
     "AV-乐播资源": {
       "name": "AV-乐播资源",
@@ -338,10 +308,6 @@
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
     },
-    "金鹰资源采集网": {
-      "api": "https://jyzyapi.com/provide/vod",
-      "name": "金鹰资源采集网"
-    },
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
@@ -373,10 +339,6 @@
     "七七影视": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
-    },
-    "影视工厂": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "影视工厂"
     },
     "豪华资源": {
       "id": "f89064af-2836-4104-a6aa-880d19cd62c0",
@@ -426,6 +388,23 @@
         "代理"
       ],
       "priority": 1,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "非凡影视": {
+      "id": "f4907395-e693-4710-be31-d05f2e08e716",
+      "key": "非凡影视",
+      "name": "非凡影视",
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.088381763+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
@@ -532,24 +511,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "樱花资源": {
-      "id": "00db106a-1b57-4c27-975c-3b544949a653",
-      "key": "樱花资源",
-      "name": "樱花资源",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:43.013719004+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "无法搜索",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "无尽资源": {
       "id": "75047366-4902-4bcf-9ccf-d209416a6e9b",
       "key": "无尽资源",
@@ -626,23 +587,6 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:42.946578973+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "速播资源": {
-      "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
-      "key": "速播资源",
-      "name": "速播资源",
-      "api": "https://subocaiji.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.942959654+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
@@ -837,24 +781,6 @@
       "time": "2025-10-30T11:15:42.865187975+08:00",
       "isDefault": 0,
       "remark": "搜索没用",
-      "tags": [
-        "无法搜索",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "牛牛点播": {
-      "id": "7d580fba-ef77-497f-bf63-a2359832d0e3",
-      "key": "牛牛点播",
-      "name": "牛牛点播",
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.812725452+08:00",
-      "isDefault": 0,
-      "remark": "",
       "tags": [
         "无法搜索",
         "差"
