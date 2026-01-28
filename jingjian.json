@@ -46,6 +46,16 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "detail": "https://api.guangsuapi.com"
     },
+    "TV-卧龙点播": {
+      "name": "TV-卧龙点播",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "detail": "https://collect.wolongzyw.com"
+    },
+    "TV-卧龙资源": {
+      "name": "TV-卧龙资源",
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "detail": "https://wolongzyw.com"
+    },
     "TV-天涯资源": {
       "name": "TV-天涯资源",
       "api": "https://tyyszy.com/api.php/provide/vod",
@@ -100,6 +110,11 @@
       "name": "TV-牛牛点播",
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://api.niuniuzy.me"
+    },
+    "TV-电影天堂资源": {
+      "name": "TV-电影天堂资源",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://caiji.dyttzyapi.com"
     },
     "AV-百万资源": {
       "name": "AV-百万资源",
@@ -166,6 +181,11 @@
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "detail": "https://sdzyapi.com"
     },
+    "TV-非凡资源": {
+      "name": "TV-非凡资源",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com"
+    },
     "TV-飘零资源": {
       "name": "TV-飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
@@ -196,6 +216,11 @@
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "detail": "https://jkunzyapi.com"
     },
+    "AV-乐播资源": {
+      "name": "AV-乐播资源",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "detail": ""
+    },
     "AV-奥斯卡资源": {
       "name": "AV-奥斯卡资源",
       "api": "https://aosikazy.com/api.php/provide/vod",
@@ -221,6 +246,11 @@
       "api": "https://apiyutu.com/api.php/provide/vod",
       "detail": "https://apiyutu.com"
     },
+    "AV-番号资源": {
+      "name": "AV-番号资源",
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "detail": ""
+    },
     "AV-白嫖资源": {
       "name": "AV-白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
@@ -241,15 +271,30 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
     },
+    "AV-辣椒资源": {
+      "name": "AV-辣椒资源",
+      "api": "https://apilj.com/api.php/provide/vod",
+      "detail": "https://apilj.com"
+    },
     "AV-香奶儿资源": {
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
     },
+    "AV-鲨鱼资源": {
+      "name": "AV-鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "detail": "https://shayuapi.com"
+    },
     "AV-黄AV资源": {
       "name": "AV-黄AV资源",
       "api": "https://www.pgxdy.com/api/json.php",
       "detail": "https://www.pgxdy.com"
+    },
+    "非凡影视new": {
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡影视new",
+      "detail": "http://ffzy5.tv"
     },
     "极速资源": {
       "id": "087ca658-4acc-43ae-812e-cf3ef29e5996",
@@ -297,6 +342,10 @@
       "api": "https://jyzyapi.com/provide/vod",
       "name": "金鹰资源采集网"
     },
+    "大地资源网络": {
+      "api": "https://dadiapi.com/api.php/provide/vod",
+      "name": "大地资源网络"
+    },
     "黄色资源啊啊": {
       "api": "https://hsckzy888.com/api.php/provide/vod",
       "name": "黄色资源啊啊"
@@ -308,6 +357,22 @@
     "快车资源阿": {
       "api": "https://caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿"
+    },
+    "辣椒资源黄黄": {
+      "api": "https://apilj.com/api.php/provide",
+      "name": "辣椒资源黄黄"
+    },
+    "优质资源库1080zyk6.com高清": {
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "name": "优质资源库1080zyk6.com高清"
+    },
+    "细胞采集黄色": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞采集黄色"
+    },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -330,6 +395,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "电影天堂资源": {
+      "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
+      "key": "电影天堂资源",
+      "name": "电影天堂资源",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.086388483+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 1,
+      "proxyMode": "builtin",
+      "customProxy": ""
+    },
     "暴风资源": {
       "id": "a2aa3bd3-ee1c-4f68-93da-06adae5443a2",
       "key": "暴风资源",
@@ -344,23 +426,6 @@
         "代理"
       ],
       "priority": 1,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "非凡影视": {
-      "id": "f4907395-e693-4710-be31-d05f2e08e716",
-      "key": "非凡影视",
-      "name": "非凡影视",
-      "api": "http://ffzy5.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.088381763+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
@@ -410,6 +475,23 @@
       "remark": "",
       "tags": [
         "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "卧龙资源": {
+      "id": "3c58c36b-018b-4105-bce1-2ff09edc121a",
+      "key": "卧龙资源",
+      "name": "卧龙资源",
+      "api": "https://wolongzyw.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.081305084+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
@@ -583,6 +665,23 @@
       "tags": [
         "无法搜索",
         "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "卧龙资源2": {
+      "id": "d9d3866b-104b-4f88-8207-81a8a61be776",
+      "key": "卧龙资源2",
+      "name": "卧龙资源2",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.939695834+08:00",
+      "isDefault": 0,
+      "remark": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "tags": [
+        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
