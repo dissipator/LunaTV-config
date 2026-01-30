@@ -16,11 +16,6 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
-    "TV-CK资源": {
-      "name": "TV-CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "detail": "https://ckzy.me"
-    },
     "TV-U酷资源": {
       "name": "TV-U酷资源",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -115,11 +110,6 @@
       "name": "TV-电影天堂资源",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "detail": "http://caiji.dyttzyapi.com"
-    },
-    "AV-百万资源": {
-      "name": "AV-百万资源",
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "detail": "https://api.bwzyz.com"
     },
     "TV-神马云": {
       "name": "TV-神马云",
@@ -225,6 +215,11 @@
       "name": "AV-奥斯卡资源",
       "api": "https://aosikazy.com/api.php/provide/vod",
       "detail": "https://aosikazy.com"
+    },
+    "AV-奶香香": {
+      "name": "AV-奶香香",
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "detail": "https://Naixxzy.com"
     },
     "AV-森林资源": {
       "name": "AV-森林资源",
