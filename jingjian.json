@@ -86,11 +86,6 @@
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "detail": "https://api.wwzy.tv"
     },
-    "TV-暴风资源": {
-      "name": "TV-暴风资源",
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-最大点播": {
       "name": "TV-最大点播",
       "api": "http://zuidazy.me/api.php/provide/vod",
@@ -121,20 +116,10 @@
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "detail": "https://api.bwzyz.com"
     },
-    "TV-神马云": {
-      "name": "TV-神马云",
-      "api": "https://api.1080zyku.com/inc/apijson.php/",
-      "detail": "https://api.1080zyku.com"
-    },
     "TV-索尼资源": {
       "name": "TV-索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",
       "detail": ""
-    },
-    "TV-红牛资源": {
-      "name": "TV-红牛资源",
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "detail": "https://www.hongniuzy2.com"
     },
     "TV-茅台资源": {
       "name": "TV-茅台资源",
@@ -369,10 +354,6 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
-    },
-    "七七影视": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
