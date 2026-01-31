@@ -11,11 +11,6 @@
       "api": "https://155api.com/api.php/provide/vod",
       "detail": "https://155api.com"
     },
-    "TV-360资源": {
-      "name": "TV-360资源",
-      "api": "https://360zy.com/api.php/provide/vod",
-      "detail": "https://360zy.com"
-    },
     "TV-CK资源": {
       "name": "TV-CK资源",
       "api": "https://ckzy.me/api.php/provide/vod",
@@ -75,6 +70,16 @@
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "detail": ""
+    },
+    "TV-旺旺短剧": {
+      "name": "TV-旺旺短剧",
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "detail": "https://wwzy.tv"
+    },
+    "TV-旺旺资源": {
+      "name": "TV-旺旺资源",
+      "api": "https://api.wwzy.tv/api.php/provide/vod",
+      "detail": "https://api.wwzy.tv"
     },
     "TV-暴风资源": {
       "name": "TV-暴风资源",
@@ -563,6 +568,23 @@
       "time": "2025-10-30T11:15:43.009537394+08:00",
       "isDefault": 0,
       "remark": "http://zuidazy.me/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "旺旺短剧": {
+      "id": "2a3371bc-69f6-4f35-98df-d64df3831f28",
+      "key": "旺旺短剧",
+      "name": "旺旺短剧",
+      "api": "https://wwzy.tv/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.007888945+08:00",
+      "isDefault": 0,
+      "remark": "https://api.wwzy.tv/api.php/provide/vod/",
       "tags": [
         "优秀"
       ],
