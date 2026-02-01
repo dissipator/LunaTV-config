@@ -226,11 +226,6 @@
       "api": "https://aosikazy.com/api.php/provide/vod",
       "detail": "https://aosikazy.com"
     },
-    "AV-奶香香": {
-      "name": "AV-奶香香",
-      "api": "https://Naixxzy.com/api.php/provide/vod",
-      "detail": "https://Naixxzy.com"
-    },
     "AV-森林资源": {
       "name": "AV-森林资源",
       "api": "https://slapibf.com/api.php/provide/vod",
@@ -295,6 +290,23 @@
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "name": "非凡影视new",
       "detail": "http://ffzy5.tv"
+    },
+    "极速资源": {
+      "id": "087ca658-4acc-43ae-812e-cf3ef29e5996",
+      "key": "极速资源",
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.090847253+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
     },
     "杏吧资源": {
       "api": "https://xingba111.com/api.php/provide/vod",
