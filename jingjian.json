@@ -532,24 +532,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "樱花资源": {
-      "id": "00db106a-1b57-4c27-975c-3b544949a653",
-      "key": "樱花资源",
-      "name": "樱花资源",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:43.013719004+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "无法搜索",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "无尽资源": {
       "id": "75047366-4902-4bcf-9ccf-d209416a6e9b",
       "key": "无尽资源",
@@ -577,23 +559,6 @@
       "time": "2025-10-30T11:15:43.009537394+08:00",
       "isDefault": 0,
       "remark": "http://zuidazy.me/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "旺旺短剧": {
-      "id": "2a3371bc-69f6-4f35-98df-d64df3831f28",
-      "key": "旺旺短剧",
-      "name": "旺旺短剧",
-      "api": "https://wwzy.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.007888945+08:00",
-      "isDefault": 0,
-      "remark": "https://api.wwzy.tv/api.php/provide/vod/",
       "tags": [
         "优秀"
       ],
@@ -822,24 +787,6 @@
       "remark": "",
       "tags": [
         "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "光速资源": {
-      "id": "d332ab93-58cb-4a3c-8257-8f2563a7e228",
-      "key": "光速资源",
-      "name": "光速资源",
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.865187975+08:00",
-      "isDefault": 0,
-      "remark": "搜索没用",
-      "tags": [
-        "无法搜索",
-        "差"
       ],
       "priority": 0,
       "proxyMode": "none",
