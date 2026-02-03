@@ -370,6 +370,10 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
+    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -422,6 +426,23 @@
         "代理"
       ],
       "priority": 1,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "360资源": {
+      "id": "cfccc4ed-df68-4f9b-942d-c8f84724f589",
+      "key": "360资源",
+      "name": "360资源",
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.084986234+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
