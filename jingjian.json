@@ -166,11 +166,6 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "TV-金鹰点播": {
-      "name": "TV-金鹰点播",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
-      "detail": "https://jinyingzy.com"
-    },
     "TV-金鹰资源": {
       "name": "TV-金鹰资源",
       "api": "https://jyzyapi.com/api.php/provide/vod",
