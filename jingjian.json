@@ -46,11 +46,6 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "detail": "https://api.guangsuapi.com"
     },
-    "TV-卧龙点播": {
-      "name": "TV-卧龙点播",
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "detail": "https://collect.wolongzyw.com"
-    },
     "TV-卧龙资源": {
       "name": "TV-卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -156,11 +151,6 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://hhzyapi.com"
     },
-    "TV-速博资源": {
-      "name": "TV-速博资源",
-      "api": "https://subocaiji.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-量子资源": {
       "name": "TV-量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -220,21 +210,6 @@
       "name": "AV-乐播资源",
       "api": "https://lbapi9.com/api.php/provide/vod",
       "detail": ""
-    },
-    "AV-奥斯卡资源": {
-      "name": "AV-奥斯卡资源",
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "detail": "https://aosikazy.com"
-    },
-    "AV-奶香香": {
-      "name": "AV-奶香香",
-      "api": "https://Naixxzy.com/api.php/provide/vod",
-      "detail": "https://Naixxzy.com"
-    },
-    "AV-森林资源": {
-      "name": "AV-森林资源",
-      "api": "https://slapibf.com/api.php/provide/vod",
-      "detail": "https://slapibf.com"
     },
     "AV-淫水机资源": {
       "name": "AV-淫水机资源",
@@ -370,6 +345,10 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
+    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -422,23 +401,6 @@
         "代理"
       ],
       "priority": 1,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "非凡影视": {
-      "id": "f4907395-e693-4710-be31-d05f2e08e716",
-      "key": "非凡影视",
-      "name": "非凡影视",
-      "api": "http://ffzy5.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.088381763+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
@@ -648,23 +610,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "速播资源": {
-      "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
-      "key": "速播资源",
-      "name": "速播资源",
-      "api": "https://subocaiji.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.942959654+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "索尼资源": {
       "id": "97337a55-d636-4343-acef-9ee1f75c472b",
       "key": "索尼资源",
@@ -678,23 +623,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "卧龙资源2": {
-      "id": "d9d3866b-104b-4f88-8207-81a8a61be776",
-      "key": "卧龙资源2",
-      "name": "卧龙资源2",
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.939695834+08:00",
-      "isDefault": 0,
-      "remark": "https://collect.wolongzy.cc/api.php/provide/vod/",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
