@@ -21,11 +21,6 @@
       "api": "https://ckzy.me/api.php/provide/vod",
       "detail": "https://ckzy.me"
     },
-    "TV-U酷资源": {
-      "name": "TV-U酷资源",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://api.ukuapi88.com"
-    },
     "TV-ikun资源": {
       "name": "TV-ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -201,11 +196,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "detail": "https://www.mdzyapi.com"
     },
-    "AV-91麻豆": {
-      "name": "AV-91麻豆",
-      "api": "https://91md.me/api.php/provide/vod",
-      "detail": "https://91md.me"
-    },
     "AV-AIvin": {
       "name": "AV-AIvin",
       "api": "http://lbapiby.com/api.php/provide/vod",
@@ -285,11 +275,6 @@
       "name": "AV-鲨鱼资源",
       "api": "https://shayuapi.com/api.php/provide/vod",
       "detail": "https://shayuapi.com"
-    },
-    "AV-黄AV资源": {
-      "name": "AV-黄AV资源",
-      "api": "https://www.pgxdy.com/api/json.php",
-      "detail": "https://www.pgxdy.com"
     },
     "非凡影视new": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -713,24 +698,6 @@
       "remark": "",
       "tags": [
         "搜索混乱",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "閃電资源": {
-      "id": "07674950-5023-4366-9eab-aa9ed198cf72",
-      "key": "閃電资源",
-      "name": "閃電资源",
-      "api": "https://sdzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.878028103+08:00",
-      "isDefault": 0,
-      "remark": "https://xsd.sdzyapi.com/api.php/provide/vod/",
-      "tags": [
-        "无法搜索",
         "差"
       ],
       "priority": 0,
