@@ -86,6 +86,11 @@
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "detail": "https://api.wwzy.tv"
     },
+    "TV-暴风资源": {
+      "name": "TV-暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "detail": ""
+    },
     "TV-最大点播": {
       "name": "TV-最大点播",
       "api": "http://zuidazy.me/api.php/provide/vod",
@@ -364,6 +369,10 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
+    },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
