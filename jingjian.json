@@ -36,11 +36,6 @@
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "detail": ""
     },
-    "TV-丫丫点播": {
-      "name": "TV-丫丫点播",
-      "api": "https://cj.yayazy.net/api.php/provide/vod",
-      "detail": "https://cj.yayazy.net"
-    },
     "TV-光速资源": {
       "name": "TV-光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -55,11 +50,6 @@
       "name": "TV-卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "detail": "https://wolongzyw.com"
-    },
-    "TV-天涯资源": {
-      "name": "TV-天涯资源",
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "detail": "https://tyyszy.com"
     },
     "TV-如意资源": {
       "name": "TV-如意资源",
