@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-13 01:08 CST）
+## API 状态（最近更新：2026-02-13 03:09 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：101
-- 失败 API 数量：22
+- 成功 API 数量：102
+- 失败 API 数量：21
 - 平均可用率：83.1%
 - 完美可用率（100%）：61 个
 - 高可用率（80%-99%）：41 个
@@ -252,17 +252,17 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 99 | 1 | 99.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 360资源 | https://360zy.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
-| ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
+| ❌ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
+| ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
-| ❌ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 2 |
+| ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ❌ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 61 | 39 | 61.0% | 1 |
+| ❌ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 60 | 40 | 60.0% | 2 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 26 | 74 | 26.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
