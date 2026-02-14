@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-15 03:29 CST）
+## API 状态（最近更新：2026-02-15 04:33 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
@@ -263,7 +263,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 360资源 | https://360zy.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 60 | 40 | 60.0% | 0 |
-| 🚨 | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 30 | 70 | 30.0% | 5 |
+| 🚨 | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 30 | 70 | 30.0% | 6 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
