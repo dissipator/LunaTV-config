@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-20 02:58 CST）
+## API 状态（最近更新：2026-02-20 03:44 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：100
-- 失败 API 数量：23
-- 平均可用率：83.0%
+- 成功 API 数量：101
+- 失败 API 数量：22
+- 平均可用率：82.9%
 - 完美可用率（100%）：63 个
 - 高可用率（80%-99%）：39 个
 - 中等可用率（50%-79%）：1 个
@@ -259,11 +259,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 97 | 3 | 97.0% | 0 |
-| 🚨 | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 95 | 5 | 95.0% | 3 |
-| 🚨 | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 95 | 5 | 95.0% | 3 |
-| 🚨 | AV-91麻豆 | https://91md.me/api.php/provide/vod | 91 | 9 | 91.0% | 4 |
-| 🚨 | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 61 | 39 | 61.0% | 5 |
-| ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 19 | 81 | 19.0% | 0 |
+| 🚨 | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 94 | 6 | 94.0% | 4 |
+| 🚨 | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 4 |
+| ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
+| ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 61 | 39 | 61.0% | 0 |
+| ❌ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 19 | 81 | 19.0% | 1 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
