@@ -151,6 +151,16 @@
       "api": "https://dbzy.tv/api.php/provide/vod",
       "detail": "https://dbzy.tv"
     },
+    "TV-豪华资源": {
+      "name": "TV-豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://hhzyapi.com"
+    },
+    "TV-速博资源": {
+      "name": "TV-速博资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": ""
+    },
     "TV-量子资源": {
       "name": "TV-量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -165,6 +175,11 @@
       "name": "TV-金鹰资源",
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "detail": "https://jyzyapi.com"
+    },
+    "TV-閃電资源": {
+      "name": "TV-閃電资源",
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "detail": "https://sdzyapi.com"
     },
     "TV-非凡资源": {
       "name": "TV-非凡资源",
@@ -195,6 +210,11 @@
       "name": "AV-AIvin",
       "api": "http://lbapiby.com/api.php/provide/vod",
       "detail": ""
+    },
+    "AV-JKUN资源": {
+      "name": "AV-JKUN资源",
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "detail": "https://jkunzyapi.com"
     },
     "AV-乐播资源": {
       "name": "AV-乐播资源",
@@ -292,6 +312,10 @@
     "红牛资源": {
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
       "name": "红牛资源"
+    },
+    "索尼-闪电资源": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "索尼-闪电资源"
     },
     "金鹰资源采集网": {
       "api": "https://jyzyapi.com/provide/vod",
