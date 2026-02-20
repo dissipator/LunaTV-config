@@ -317,6 +317,10 @@
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
     },
+    "爱短剧.cc": {
+      "api": "https://www.aiduanju.cc/",
+      "name": "爱短剧.cc"
+    },
     "红牛资源": {
       "id": "96c83bec-f3fe-446a-90ad-596596d0bea4",
       "key": "红牛资源",
@@ -369,6 +373,10 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
+    },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
