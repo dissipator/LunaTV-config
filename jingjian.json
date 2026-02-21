@@ -41,6 +41,11 @@
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "detail": "https://cj.yayazy.net"
     },
+    "TV-光速资源": {
+      "name": "TV-光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": "https://api.guangsuapi.com"
+    },
     "TV-卧龙点播": {
       "name": "TV-卧龙点播",
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
@@ -125,6 +130,16 @@
       "name": "TV-索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",
       "detail": ""
+    },
+    "TV-红牛资源": {
+      "name": "TV-红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy2.com"
+    },
+    "TV-茅台资源": {
+      "name": "TV-茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://caiji.maotaizy.cc"
     },
     "TV-虎牙资源": {
       "name": "TV-虎牙资源",
@@ -271,11 +286,6 @@
       "api": "https://shayuapi.com/api.php/provide/vod",
       "detail": "https://shayuapi.com"
     },
-    "AV-黄AV资源": {
-      "name": "AV-黄AV资源",
-      "api": "https://www.pgxdy.com/api/json.php",
-      "detail": "https://www.pgxdy.com"
-    },
     "非凡影视new": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "name": "非凡影视new",
@@ -290,9 +300,17 @@
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
     },
+    "红牛资源": {
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
     "索尼-闪电资源": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
+    },
+    "金鹰资源采集网": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源采集网"
     },
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
@@ -321,10 +339,6 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
-    },
-    "七七影视": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
