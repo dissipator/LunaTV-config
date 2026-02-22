@@ -191,6 +191,16 @@
       "api": "https://p2100.net/api.php/provide/vod",
       "detail": "https://p2100.net"
     },
+    "TV-魔都动漫": {
+      "name": "TV-魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": "https://caiji.moduapi.cc"
+    },
+    "TV-魔都资源": {
+      "name": "TV-魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://www.mdzyapi.com"
+    },
     "AV-91麻豆": {
       "name": "AV-91麻豆",
       "api": "https://91md.me/api.php/provide/vod",
@@ -364,6 +374,10 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
+    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -416,23 +430,6 @@
         "代理"
       ],
       "priority": 1,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "非凡影视": {
-      "id": "f4907395-e693-4710-be31-d05f2e08e716",
-      "key": "非凡影视",
-      "name": "非凡影视",
-      "api": "http://ffzy5.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.088381763+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
@@ -497,6 +494,23 @@
       "time": "2025-10-30T11:15:43.081305084+08:00",
       "isDefault": 0,
       "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "魔都资源": {
+      "id": "f9b80ba8-5c80-4ada-bc2b-fb75ff809475",
+      "key": "魔都资源",
+      "name": "魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.020838173+08:00",
+      "isDefault": 0,
+      "remark": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "tags": [
         "优秀"
       ],
