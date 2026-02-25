@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-25 18:00 CST）
+## API 状态（最近更新：2026-02-25 19:02 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：104
-- 失败 API 数量：19
+- 成功 API 数量：105
+- 失败 API 数量：18
 - 平均可用率：83.2%
 - 完美可用率（100%）：45 个
 - 高可用率（80%-99%）：58 个
@@ -261,10 +261,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 光速资源 | https://api.guangsuapi.com/api.php/provide/vod/ | 64 | 5 | 92.8% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 63 | 6 | 91.3% | 0 |
-| ✅ | 爱短剧.cc | https://www.aiduanju.cc/ | 88 | 12 | 88.0% | 0 |
+| ✅ | 爱短剧.cc | https://www.aiduanju.cc/ | 89 | 11 | 89.0% | 0 |
 | ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 71 | 29 | 71.0% | 0 |
-| ❌ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 21 | 48 | 30.4% | 1 |
+| ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 22 | 47 | 31.9% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
