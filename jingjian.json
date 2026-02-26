@@ -201,11 +201,6 @@
       "api": "https://91md.me/api.php/provide/vod",
       "detail": "https://91md.me"
     },
-    "AV-AIvin": {
-      "name": "AV-AIvin",
-      "api": "http://lbapiby.com/api.php/provide/vod",
-      "detail": ""
-    },
     "AV-JKUN资源": {
       "name": "AV-JKUN资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
@@ -216,20 +211,10 @@
       "api": "https://lbapi9.com/api.php/provide/vod",
       "detail": ""
     },
-    "AV-奥斯卡资源": {
-      "name": "AV-奥斯卡资源",
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "detail": "https://aosikazy.com"
-    },
     "AV-奶香香": {
       "name": "AV-奶香香",
       "api": "https://Naixxzy.com/api.php/provide/vod",
       "detail": "https://Naixxzy.com"
-    },
-    "AV-森林资源": {
-      "name": "AV-森林资源",
-      "api": "https://slapibf.com/api.php/provide/vod",
-      "detail": "https://slapibf.com"
     },
     "AV-淫水机资源": {
       "name": "AV-淫水机资源",
@@ -311,6 +296,10 @@
     "杏吧资源": {
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
+    },
+    "爱短剧.cc": {
+      "api": "https://www.aiduanju.cc/",
+      "name": "爱短剧.cc"
     },
     "红牛资源": {
       "id": "96c83bec-f3fe-446a-90ad-596596d0bea4",
