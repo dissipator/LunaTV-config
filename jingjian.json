@@ -111,11 +111,6 @@
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://api.niuniuzy.me"
     },
-    "TV-电影天堂资源": {
-      "name": "TV-电影天堂资源",
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
     "AV-百万资源": {
       "name": "AV-百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
@@ -246,11 +241,6 @@
       "api": "https://apiyutu.com/api.php/provide/vod",
       "detail": "https://apiyutu.com"
     },
-    "AV-番号资源": {
-      "name": "AV-番号资源",
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "detail": ""
-    },
     "AV-白嫖资源": {
       "name": "AV-白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
@@ -373,6 +363,10 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
+    },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
