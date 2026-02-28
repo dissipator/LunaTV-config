@@ -374,6 +374,10 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
+    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
@@ -426,6 +430,23 @@
         "代理"
       ],
       "priority": 1,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "非凡影视": {
+      "id": "f4907395-e693-4710-be31-d05f2e08e716",
+      "key": "非凡影视",
+      "name": "非凡影视",
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.088381763+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
@@ -697,24 +718,6 @@
       "time": "2025-10-30T11:15:42.938341104+08:00",
       "isDefault": 0,
       "remark": "https://jinyingzy.com/api.php/provide/vod/",
-      "tags": [
-        "搜索混乱",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "虎牙资源": {
-      "id": "ad0c6b4f-9e06-498d-acd9-d1c2573737d1",
-      "key": "虎牙资源",
-      "name": "虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.936873515+08:00",
-      "isDefault": 0,
-      "remark": "",
       "tags": [
         "搜索混乱",
         "差"
