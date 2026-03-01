@@ -317,10 +317,6 @@
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
     },
-    "爱短剧.cc": {
-      "api": "https://www.aiduanju.cc/",
-      "name": "爱短剧.cc"
-    },
     "红牛资源": {
       "id": "96c83bec-f3fe-446a-90ad-596596d0bea4",
       "key": "红牛资源",
@@ -430,6 +426,23 @@
         "代理"
       ],
       "priority": 1,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "非凡影视": {
+      "id": "f4907395-e693-4710-be31-d05f2e08e716",
+      "key": "非凡影视",
+      "name": "非凡影视",
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.088381763+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
