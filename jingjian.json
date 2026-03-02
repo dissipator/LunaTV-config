@@ -246,11 +246,6 @@
       "api": "https://apiyutu.com/api.php/provide/vod",
       "detail": "https://apiyutu.com"
     },
-    "AV-番号资源": {
-      "name": "AV-番号资源",
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "detail": ""
-    },
     "AV-白嫖资源": {
       "name": "AV-白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
