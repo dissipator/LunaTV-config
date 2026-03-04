@@ -156,6 +156,11 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://hhzyapi.com"
     },
+    "TV-速博资源": {
+      "name": "TV-速博资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": ""
+    },
     "TV-量子资源": {
       "name": "TV-量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -221,6 +226,11 @@
       "api": "https://aosikazy.com/api.php/provide/vod",
       "detail": "https://aosikazy.com"
     },
+    "AV-奶香香": {
+      "name": "AV-奶香香",
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "detail": "https://Naixxzy.com"
+    },
     "AV-森林资源": {
       "name": "AV-森林资源",
       "api": "https://slapibf.com/api.php/provide/vod",
@@ -265,6 +275,11 @@
       "name": "AV-辣椒资源",
       "api": "https://apilj.com/api.php/provide/vod",
       "detail": "https://apilj.com"
+    },
+    "AV-香奶儿资源": {
+      "name": "AV-香奶儿资源",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "detail": "https://www.gdlsp.com"
     },
     "AV-鲨鱼资源": {
       "name": "AV-鲨鱼资源",
@@ -358,6 +373,10 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
+    },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -628,6 +647,23 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:42.946578973+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "速播资源": {
+      "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
+      "key": "速播资源",
+      "name": "速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.942959654+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
