@@ -66,11 +66,6 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "TV-新浪点播": {
-      "name": "TV-新浪点播",
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "detail": "https://api.xinlangapi.com"
-    },
     "TV-无尽资源": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.net/api.php/provide/vod",
@@ -426,6 +421,23 @@
         "代理"
       ],
       "priority": 1,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "非凡影视": {
+      "id": "f4907395-e693-4710-be31-d05f2e08e716",
+      "key": "非凡影视",
+      "name": "非凡影视",
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.088381763+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
     },
@@ -858,23 +870,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "新浪点播": {
-      "id": "0a7ec05e-6dd7-4b54-8e49-72de192bf8b8",
-      "key": "新浪点播",
-      "name": "新浪点播",
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.806411723+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
