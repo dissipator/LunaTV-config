@@ -186,11 +186,6 @@
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "detail": "https://cj.ffzyapi.com"
     },
-    "TV-飘零资源": {
-      "name": "TV-飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod",
-      "detail": "https://p2100.net"
-    },
     "TV-魔都动漫": {
       "name": "TV-魔都动漫",
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
@@ -205,11 +200,6 @@
       "name": "AV-91麻豆",
       "api": "https://91md.me/api.php/provide/vod",
       "detail": "https://91md.me"
-    },
-    "AV-AIvin": {
-      "name": "AV-AIvin",
-      "api": "http://lbapiby.com/api.php/provide/vod",
-      "detail": ""
     },
     "AV-JKUN资源": {
       "name": "AV-JKUN资源",
@@ -369,10 +359,6 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
-    },
-    "七七影视": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -736,23 +722,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "飘零资源": {
-      "id": "12f07403-2272-4fe4-a0d2-5e1d1810df13",
-      "key": "飘零资源",
-      "name": "飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.877232923+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
