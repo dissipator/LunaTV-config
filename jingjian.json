@@ -266,6 +266,11 @@
       "api": "https://apilj.com/api.php/provide/vod",
       "detail": "https://apilj.com"
     },
+    "AV-香奶儿资源": {
+      "name": "AV-香奶儿资源",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "detail": "https://www.gdlsp.com"
+    },
     "AV-鲨鱼资源": {
       "name": "AV-鲨鱼资源",
       "api": "https://shayuapi.com/api.php/provide/vod",
@@ -354,6 +359,10 @@
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
+    },
+    "七七影视": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
