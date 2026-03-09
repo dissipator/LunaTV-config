@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-09 21:13 CST）
+## API 状态（最近更新：2026-03-09 22:56 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：101
@@ -259,12 +259,12 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 卧龙资源 | https://wolongzyw.com/api.php/provide/vod/ | 88 | 12 | 88.0% | 0 |
 | ✅ | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 88 | 12 | 88.0% | 0 |
-| 🚨 | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 84 | 16 | 84.0% | 16 |
-| 🚨 | 旺旺短剧 | https://wwzy.tv/api.php/provide/vod/ | 84 | 16 | 84.0% | 16 |
-| 🚨 | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 83 | 17 | 83.0% | 16 |
+| 🚨 | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 83 | 17 | 83.0% | 17 |
+| 🚨 | 旺旺短剧 | https://wwzy.tv/api.php/provide/vod/ | 83 | 17 | 83.0% | 17 |
+| 🚨 | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 82 | 18 | 82.0% | 17 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 67 | 33 | 67.0% | 0 |
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 55 | 45 | 55.0% | 0 |
-| 🚨 | 爱短剧.cc | https://www.aiduanju.cc/ | 12 | 88 | 12.0% | 88 |
+| 🚨 | 爱短剧.cc | https://www.aiduanju.cc/ | 11 | 89 | 11.0% | 89 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
