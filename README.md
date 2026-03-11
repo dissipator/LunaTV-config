@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-12 01:55 CST）
+## API 状态（最近更新：2026-03-12 02:59 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：102
-- 失败 API 数量：21
+- 成功 API 数量：103
+- 失败 API 数量：20
 - 平均可用率：83.2%
 - 完美可用率（100%）：76 个
 - 高可用率（80%-99%）：27 个
@@ -252,14 +252,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 无尽资源 | https://api.wujinapi.me/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 97 | 3 | 97.0% | 2 |
-| ❌ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 97 | 3 | 97.0% | 2 |
+| ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
+| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 96 | 4 | 96.0% | 3 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 卧龙资源 | https://wolongzyw.com/api.php/provide/vod/ | 88 | 12 | 88.0% | 0 |
 | ✅ | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 88 | 12 | 88.0% | 0 |
-| ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 87 | 13 | 87.0% | 0 |
+| ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 88 | 12 | 88.0% | 0 |
 | ✅ | 旺旺短剧 | https://wwzy.tv/api.php/provide/vod/ | 82 | 18 | 82.0% | 0 |
 | ✅ | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
 | ✅ | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
