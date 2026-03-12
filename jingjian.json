@@ -61,11 +61,6 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "detail": "https://tyyszy.com"
     },
-    "TV-如意资源": {
-      "name": "TV-如意资源",
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-新浪点播": {
       "name": "TV-新浪点播",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -459,23 +454,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "如意资源": {
-      "id": "4ffa5869-67d8-463d-94d7-c78212e039e0",
-      "key": "如意资源",
-      "name": "如意资源",
-      "api": "http://cj.rycjapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.083919384+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "天涯资源": {
       "id": "3f376a80-1a51-48de-8b0c-861b345b5971",
       "key": "天涯资源",
@@ -609,23 +587,6 @@
       "remark": "https://api.wwzy.tv/api.php/provide/vod/",
       "tags": [
         "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "iKun资源": {
-      "id": "72bb9c90-adf3-4d24-bdfb-c667befa4917",
-      "key": "iKun资源",
-      "name": "iKun资源",
-      "api": "https://ikunzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.949083783+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
