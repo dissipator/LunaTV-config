@@ -181,6 +181,11 @@
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "detail": "https://sdzyapi.com"
     },
+    "TV-非凡资源": {
+      "name": "TV-非凡资源",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "detail": "https://cj.ffzyapi.com"
+    },
     "TV-飘零资源": {
       "name": "TV-飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
@@ -449,6 +454,23 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:43.084986234+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "如意资源": {
+      "id": "4ffa5869-67d8-463d-94d7-c78212e039e0",
+      "key": "如意资源",
+      "name": "如意资源",
+      "api": "http://cj.rycjapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.083919384+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
