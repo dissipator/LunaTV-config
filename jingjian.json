@@ -61,11 +61,6 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "detail": "https://tyyszy.com"
     },
-    "TV-如意资源": {
-      "name": "TV-如意资源",
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-新浪点播": {
       "name": "TV-新浪点播",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -156,6 +151,11 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://hhzyapi.com"
     },
+    "TV-速博资源": {
+      "name": "TV-速博资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": ""
+    },
     "TV-量子资源": {
       "name": "TV-量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -180,6 +180,11 @@
       "name": "TV-非凡资源",
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "detail": "https://cj.ffzyapi.com"
+    },
+    "TV-飘零资源": {
+      "name": "TV-飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "detail": "https://p2100.net"
     },
     "TV-魔都动漫": {
       "name": "TV-魔都动漫",
@@ -351,10 +356,6 @@
     "辣椒资源黄黄": {
       "api": "https://apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
-    },
-    "优质资源库1080zyk6.com高清": {
-      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
-      "name": "优质资源库1080zyk6.com高清"
     },
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
@@ -633,6 +634,23 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:42.946578973+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "速播资源": {
+      "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
+      "key": "速播资源",
+      "name": "速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.942959654+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
