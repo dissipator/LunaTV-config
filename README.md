@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-15 03:31 CST）
+## API 状态（最近更新：2026-03-15 04:34 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：103
-- 失败 API 数量：20
+- 成功 API 数量：104
+- 失败 API 数量：19
 - 平均可用率：83.5%
 - 完美可用率（100%）：66 个
 - 高可用率（80%-99%）：38 个
@@ -259,7 +259,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 93 | 7 | 93.0% | 0 |
 | ✅ | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
-| ❌ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 92 | 8 | 92.0% | 1 |
+| ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
 | ✅ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
