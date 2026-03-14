@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-15 06:32 CST）
+## API 状态（最近更新：2026-03-15 07:32 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：102
-- 失败 API 数量：21
+- 成功 API 数量：103
+- 失败 API 数量：20
 - 平均可用率：83.5%
 - 完美可用率（100%）：68 个
 - 高可用率（80%-99%）：36 个
@@ -261,8 +261,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
 | ✅ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ❌ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 90 | 10 | 90.0% | 2 |
-| ❌ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 89 | 11 | 89.0% | 1 |
+| ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
+| ❌ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 88 | 12 | 88.0% | 2 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 84 | 16 | 84.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
