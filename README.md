@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-18 01:07 CST）
+## API 状态（最近更新：2026-03-18 03:09 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
@@ -255,11 +255,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
 | ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| 🚨 | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 93 | 7 | 93.0% | 6 |
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| 🚨 | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 6 |
 | ✅ | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
+| 🚨 | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 7 |
+| 🚨 | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 7 |
 | ✅ | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 80 | 20 | 80.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 78 | 22 | 78.0% | 0 |
