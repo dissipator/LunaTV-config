@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-19 03:07 CST）
+## API 状态（最近更新：2026-03-19 04:42 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
@@ -260,9 +260,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 78 | 22 | 78.0% | 0 |
-| 🚨 | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 77 | 23 | 77.0% | 22 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 76 | 24 | 76.0% | 0 |
-| 🚨 | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 76 | 24 | 76.0% | 22 |
+| 🚨 | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 76 | 24 | 76.0% | 23 |
+| 🚨 | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 75 | 25 | 75.0% | 23 |
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 72 | 28 | 72.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
