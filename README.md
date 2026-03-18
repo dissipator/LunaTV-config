@@ -144,15 +144,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-18 19:03 CST）
+## API 状态（最近更新：2026-03-18 21:22 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
 - 失败 API 数量：21
 - 平均可用率：83.0%
 - 完美可用率（100%）：76 个
-- 高可用率（80%-99%）：25 个
-- 中等可用率（50%-79%）：3 个
+- 高可用率（80%-99%）：24 个
+- 中等可用率（50%-79%）：4 个
 - 低可用率（<50%）：19 个
 
 <div style="font-size: 11px;">
@@ -259,8 +259,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
-| 🚨 | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 81 | 19 | 81.0% | 18 |
-| 🚨 | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 80 | 20 | 80.0% | 18 |
+| 🚨 | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 80 | 20 | 80.0% | 19 |
+| 🚨 | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 79 | 21 | 79.0% | 19 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 78 | 22 | 78.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 76 | 24 | 76.0% | 0 |
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 72 | 28 | 72.0% | 0 |
