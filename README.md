@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-20 15:02 CST）
+## API 状态（最近更新：2026-03-20 16:50 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：103
-- 失败 API 数量：20
+- 成功 API 数量：104
+- 失败 API 数量：19
 - 平均可用率：83.1%
 - 完美可用率（100%）：70 个
 - 高可用率（80%-99%）：30 个
@@ -233,7 +233,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-番号资源 | http://fhapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | AV-香奶儿资源 | https://www.gdlsp.com/api/json.php | 99 | 1 | 99.0% | 1 |
+| ✅ | AV-香奶儿资源 | https://www.gdlsp.com/api/json.php | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
