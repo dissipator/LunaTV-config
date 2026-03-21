@@ -136,11 +136,6 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy2.com"
     },
-    "TV-茅台资源": {
-      "name": "TV-茅台资源",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "detail": "https://caiji.maotaizy.cc"
-    },
     "TV-虎牙资源": {
       "name": "TV-虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
@@ -159,11 +154,6 @@
     "TV-速博资源": {
       "name": "TV-速博资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
-      "detail": ""
-    },
-    "TV-量子资源": {
-      "name": "TV-量子资源",
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": ""
     },
     "TV-金鹰点播": {
@@ -225,11 +215,6 @@
       "name": "AV-奥斯卡资源",
       "api": "https://aosikazy.com/api.php/provide/vod",
       "detail": "https://aosikazy.com"
-    },
-    "AV-奶香香": {
-      "name": "AV-奶香香",
-      "api": "https://Naixxzy.com/api.php/provide/vod",
-      "detail": "https://Naixxzy.com"
     },
     "AV-森林资源": {
       "name": "AV-森林资源",
@@ -373,10 +358,6 @@
     "七七影视": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
-    },
-    "影视工厂": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "影视工厂"
     },
     "豪华资源": {
       "id": "f89064af-2836-4104-a6aa-880d19cd62c0",
