@@ -144,14 +144,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-29 15:11 CST）
+## API 状态（最近更新：2026-03-29 16:47 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：104
 - 失败 API 数量：19
 - 平均可用率：83.9%
-- 完美可用率（100%）：71 个
-- 高可用率（80%-99%）：33 个
+- 完美可用率（100%）：73 个
+- 高可用率（80%-99%）：31 个
 - 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：19 个
 
@@ -185,6 +185,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-最大点播 | http://zuidazy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-最大资源 | https://api.zuidapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-天涯资源 | https://tyyszy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-新浪点播 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -208,6 +209,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 光速资源 | https://api.guangsuapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 最大资源 | https://api.zuidapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 天涯资源 | https://tyyszy.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
+| ✅ | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 小鸡资源 | https://api.xiaojizy.live/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 影视工厂 | https://cj.lziapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 快车资源 | https://caiji.kuaichezy.org/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
@@ -240,7 +242,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-暴风资源 | https://bfzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -250,7 +251,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 卧龙资源 | https://wolongzyw.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 大地资源网络 | https://dadiapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 新浪点播 | https://api.xinlangapi.com/xinlangapi.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 电影天堂资源 | https://caiji.dyttzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
