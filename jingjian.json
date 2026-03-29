@@ -11,6 +11,11 @@
       "api": "https://155api.com/api.php/provide/vod",
       "detail": "https://155api.com"
     },
+    "TV-360资源": {
+      "name": "TV-360资源",
+      "api": "https://360zy.com/api.php/provide/vod",
+      "detail": "https://360zy.com"
+    },
     "TV-CK资源": {
       "name": "TV-CK资源",
       "api": "https://ckzy.me/api.php/provide/vod",
@@ -130,6 +135,11 @@
       "name": "TV-红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy2.com"
+    },
+    "TV-茅台资源": {
+      "name": "TV-茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://caiji.maotaizy.cc"
     },
     "TV-虎牙资源": {
       "name": "TV-虎牙资源",
