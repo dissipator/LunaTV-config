@@ -191,6 +191,11 @@
       "api": "https://p2100.net/api.php/provide/vod",
       "detail": "https://p2100.net"
     },
+    "TV-魔都动漫": {
+      "name": "TV-魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": "https://caiji.moduapi.cc"
+    },
     "AV-91麻豆": {
       "name": "AV-91麻豆",
       "api": "https://91md.me/api.php/provide/vod",
