@@ -146,11 +146,6 @@
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
     },
-    "TV-豆瓣资源": {
-      "name": "TV-豆瓣资源",
-      "api": "https://dbzy.tv/api.php/provide/vod",
-      "detail": "https://dbzy.tv"
-    },
     "TV-豪华资源": {
       "name": "TV-豪华资源",
       "api": "https://hhzyapi.com/api.php/provide/vod",
@@ -190,16 +185,6 @@
       "name": "TV-飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
       "detail": "https://p2100.net"
-    },
-    "TV-魔都动漫": {
-      "name": "TV-魔都动漫",
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "detail": "https://caiji.moduapi.cc"
-    },
-    "TV-魔都资源": {
-      "name": "TV-魔都资源",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "detail": "https://www.mdzyapi.com"
     },
     "AV-91麻豆": {
       "name": "AV-91麻豆",
@@ -362,6 +347,10 @@
       "api": "https://apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
     },
+    "优质资源库1080zyk6.com高清": {
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "name": "优质资源库1080zyk6.com高清"
+    },
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
@@ -425,6 +414,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "非凡影视": {
+      "id": "f4907395-e693-4710-be31-d05f2e08e716",
+      "key": "非凡影视",
+      "name": "非凡影视",
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.088381763+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "360资源": {
       "id": "cfccc4ed-df68-4f9b-942d-c8f84724f589",
       "key": "360资源",
@@ -433,6 +439,23 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:43.084986234+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "如意资源": {
+      "id": "4ffa5869-67d8-463d-94d7-c78212e039e0",
+      "key": "如意资源",
+      "name": "如意资源",
+      "api": "http://cj.rycjapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.083919384+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
@@ -471,41 +494,6 @@
       "remark": "",
       "tags": [
         "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "魔都资源": {
-      "id": "f9b80ba8-5c80-4ada-bc2b-fb75ff809475",
-      "key": "魔都资源",
-      "name": "魔都资源",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.020838173+08:00",
-      "isDefault": 0,
-      "remark": "https://caiji.moduapi.cc/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "豆瓣资源": {
-      "id": "f70b7292-5a98-4ecc-8999-16b3cf5a3fc8",
-      "key": "豆瓣资源",
-      "name": "豆瓣资源",
-      "api": "https://dbzy.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.018452473+08:00",
-      "isDefault": 0,
-      "remark": "https://caiji.dbzy.tv/api.php/provide/vod/",
-      "tags": [
-        "优秀",
-        "广告"
       ],
       "priority": 0,
       "proxyMode": "none",
