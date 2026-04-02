@@ -131,11 +131,6 @@
       "api": "https://suoniapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "TV-红牛资源": {
-      "name": "TV-红牛资源",
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "detail": "https://www.hongniuzy2.com"
-    },
     "TV-茅台资源": {
       "name": "TV-茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
@@ -579,40 +574,6 @@
       "remark": "http://zuidazy.me/api.php/provide/vod/",
       "tags": [
         "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "旺旺短剧": {
-      "id": "2a3371bc-69f6-4f35-98df-d64df3831f28",
-      "key": "旺旺短剧",
-      "name": "旺旺短剧",
-      "api": "https://wwzy.tv/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.007888945+08:00",
-      "isDefault": 0,
-      "remark": "https://api.wwzy.tv/api.php/provide/vod/",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "iKun资源": {
-      "id": "72bb9c90-adf3-4d24-bdfb-c667befa4917",
-      "key": "iKun资源",
-      "name": "iKun资源",
-      "api": "https://ikunzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.949083783+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
