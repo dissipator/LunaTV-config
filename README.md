@@ -144,14 +144,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-08 10:46 CST）
+## API 状态（最近更新：2026-04-08 13:16 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：104
 - 失败 API 数量：19
 - 平均可用率：83.9%
-- 完美可用率（100%）：85 个
-- 高可用率（80%-99%）：18 个
+- 完美可用率（100%）：89 个
+- 高可用率（80%-99%）：14 个
 - 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：19 个
 
@@ -171,6 +171,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-淫水机资源 | https://www.xrbsp.com/api/json.php | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-玉兔资源 | https://apiyutu.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | AV-番号资源 | http://fhapi9.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-白嫖资源 | https://www.kxgav.com/api/json.php | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -188,6 +189,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-丫丫点播 | https://cj.yayazy.net/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | TV-最大点播 | http://zuidazy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-最大资源 | https://api.zuidapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -197,6 +199,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | TV-暴风资源 | https://bfzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-牛牛点播 | https://api.niuniuzy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -208,6 +211,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-量子资源 | https://cj.lziapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | TV-閃電资源 | https://sdzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
@@ -245,13 +249,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | AV-番号资源 | http://fhapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
-| ✅ | TV-最大点播 | http://zuidazy.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | TV-暴风资源 | https://bfzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | TV-閃電资源 | https://sdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 新浪点播 | https://api.xinlangapi.com/xinlangapi.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
