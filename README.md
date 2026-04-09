@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-09 21:52 CST）
+## API 状态（最近更新：2026-04-09 23:27 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：103
-- 失败 API 数量：20
+- 成功 API 数量：104
+- 失败 API 数量：19
 - 平均可用率：84.0%
 - 完美可用率（100%）：92 个
 - 高可用率（80%-99%）：11 个
@@ -252,16 +252,16 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ❌ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
-| ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 93 | 7 | 93.0% | 0 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 67 | 33 | 67.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
