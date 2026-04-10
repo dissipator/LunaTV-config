@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-10 19:00 CST）
+## API 状态（最近更新：2026-04-10 19:57 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：104
-- 失败 API 数量：19
+- 成功 API 数量：103
+- 失败 API 数量：20
 - 平均可用率：84.1%
 - 完美可用率（100%）：88 个
 - 高可用率（80%-99%）：15 个
@@ -259,7 +259,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 卧龙资源2 | https://collect.wolongzyw.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
-| ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ❌ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 96 | 4 | 96.0% | 0 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
