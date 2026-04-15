@@ -136,11 +136,6 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy2.com"
     },
-    "TV-茅台资源": {
-      "name": "TV-茅台资源",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "detail": "https://caiji.maotaizy.cc"
-    },
     "TV-虎牙资源": {
       "name": "TV-虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
@@ -265,11 +260,6 @@
       "name": "AV-美少女资源",
       "api": "https://www.msnii.com/api/json.php",
       "detail": "https://www.msnii.com"
-    },
-    "AV-老色逼资源": {
-      "name": "AV-老色逼资源",
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "detail": "https://apilsbzy1.com"
     },
     "AV-辣椒资源": {
       "name": "AV-辣椒资源",
