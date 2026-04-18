@@ -144,14 +144,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-19 00:48 CST）
+## API 状态（最近更新：2026-04-19 01:40 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：104
-- 失败 API 数量：19
+- 成功 API 数量：103
+- 失败 API 数量：20
 - 平均可用率：84.2%
-- 完美可用率（100%）：79 个
-- 高可用率（80%-99%）：25 个
+- 完美可用率（100%）：78 个
+- 高可用率（80%-99%）：26 个
 - 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：19 个
 
@@ -163,7 +163,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-155资源 | https://155api.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -239,6 +238,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 非凡影视 | http://ffzy5.tv/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
+| ❌ | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | AV-老色逼资源 | https://apilsbzy1.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | CK资源 | https://ckzy.me/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
