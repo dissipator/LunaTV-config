@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-22 06:42 CST）
+## API 状态（最近更新：2026-04-22 07:39 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：103
-- 失败 API 数量：20
+- 成功 API 数量：104
+- 失败 API 数量：19
 - 平均可用率：84.2%
 - 完美可用率（100%）：77 个
 - 高可用率（80%-99%）：27 个
@@ -254,7 +254,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
-| ❌ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 1 |
+| ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
