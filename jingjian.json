@@ -61,11 +61,6 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "detail": "https://tyyszy.com"
     },
-    "TV-如意资源": {
-      "name": "TV-如意资源",
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-新浪点播": {
       "name": "TV-新浪点播",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -220,11 +215,6 @@
       "name": "AV-奶香香",
       "api": "https://Naixxzy.com/api.php/provide/vod",
       "detail": "https://Naixxzy.com"
-    },
-    "AV-森林资源": {
-      "name": "AV-森林资源",
-      "api": "https://slapibf.com/api.php/provide/vod",
-      "detail": "https://slapibf.com"
     },
     "AV-淫水机资源": {
       "name": "AV-淫水机资源",
