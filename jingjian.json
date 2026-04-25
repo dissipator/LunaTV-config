@@ -1,6 +1,11 @@
 {
   "cache_time": 9200,
   "api_site": {
+    "TV-1080资源": {
+      "name": "TV-1080资源",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "detail": "https://api.1080zyku.com"
+    },
     "AV-155资源": {
       "name": "AV-155资源",
       "api": "https://155api.com/api.php/provide/vod",
@@ -110,6 +115,11 @@
       "name": "AV-百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "detail": "https://api.bwzyz.com"
+    },
+    "TV-神马云": {
+      "name": "TV-神马云",
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "detail": "https://api.1080zyku.com"
     },
     "TV-索尼资源": {
       "name": "TV-索尼资源",
@@ -710,6 +720,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "飘零资源": {
+      "id": "12f07403-2272-4fe4-a0d2-5e1d1810df13",
+      "key": "飘零资源",
+      "name": "飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.877232923+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "丫丫点播": {
       "id": "4d54ac92-980b-4050-a41e-bfc818c64b1f",
       "key": "丫丫点播",
@@ -738,6 +765,23 @@
       "time": "2025-10-30T11:15:42.869485164+08:00",
       "isDefault": 0,
       "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "tags": [
+        "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "1080资源库": {
+      "id": "6ca1d5fa-6366-4418-ae4f-bc9ae0b86877",
+      "key": "1080资源库",
+      "name": "1080资源库",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.868513304+08:00",
+      "isDefault": 0,
+      "remark": "",
       "tags": [
         "代理"
       ],
