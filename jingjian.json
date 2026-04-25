@@ -1,6 +1,11 @@
 {
   "cache_time": 9200,
   "api_site": {
+    "TV-1080资源": {
+      "name": "TV-1080资源",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "detail": "https://api.1080zyku.com"
+    },
     "AV-155资源": {
       "name": "AV-155资源",
       "api": "https://155api.com/api.php/provide/vod",
@@ -16,6 +21,11 @@
       "api": "https://ckzy.me/api.php/provide/vod",
       "detail": "https://ckzy.me"
     },
+    "TV-U酷资源": {
+      "name": "TV-U酷资源",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://api.ukuapi88.com"
+    },
     "TV-ikun资源": {
       "name": "TV-ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -30,6 +40,11 @@
       "name": "TV-丫丫点播",
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "detail": "https://cj.yayazy.net"
+    },
+    "TV-光速资源": {
+      "name": "TV-光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": "https://api.guangsuapi.com"
     },
     "TV-卧龙点播": {
       "name": "TV-卧龙点播",
@@ -105,6 +120,11 @@
       "name": "AV-百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "detail": "https://api.bwzyz.com"
+    },
+    "TV-神马云": {
+      "name": "TV-神马云",
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "detail": "https://api.1080zyku.com"
     },
     "TV-索尼资源": {
       "name": "TV-索尼资源",
@@ -302,6 +322,10 @@
     "索尼-闪电资源": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
+    },
+    "金鹰资源采集网": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源采集网"
     },
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
@@ -665,6 +689,24 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "虎牙资源": {
+      "id": "ad0c6b4f-9e06-498d-acd9-d1c2573737d1",
+      "key": "虎牙资源",
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.936873515+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "搜索混乱",
+        "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "閃電资源": {
       "id": "07674950-5023-4366-9eab-aa9ed198cf72",
       "key": "閃電资源",
@@ -727,6 +769,58 @@
       "time": "2025-10-30T11:15:42.870771454+08:00",
       "isDefault": 0,
       "remark": "",
+      "tags": [
+        "无法搜索",
+        "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "U酷资源": {
+      "id": "1e78e7f5-63c3-4169-8a21-4773e19affed",
+      "key": "U酷资源",
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.869485164+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "tags": [
+        "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "1080资源库": {
+      "id": "6ca1d5fa-6366-4418-ae4f-bc9ae0b86877",
+      "key": "1080资源库",
+      "name": "1080资源库",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.868513304+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "光速资源": {
+      "id": "d332ab93-58cb-4a3c-8257-8f2563a7e228",
+      "key": "光速资源",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.865187975+08:00",
+      "isDefault": 0,
+      "remark": "搜索没用",
       "tags": [
         "无法搜索",
         "差"
