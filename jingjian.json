@@ -136,11 +136,6 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy2.com"
     },
-    "TV-茅台资源": {
-      "name": "TV-茅台资源",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "detail": "https://caiji.maotaizy.cc"
-    },
     "TV-虎牙资源": {
       "name": "TV-虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
@@ -328,6 +323,10 @@
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
     },
+    "金鹰资源采集网": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源采集网"
+    },
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
@@ -493,23 +492,6 @@
       "time": "2025-10-30T11:15:43.081305084+08:00",
       "isDefault": 0,
       "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "魔都资源": {
-      "id": "f9b80ba8-5c80-4ada-bc2b-fb75ff809475",
-      "key": "魔都资源",
-      "name": "魔都资源",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.020838173+08:00",
-      "isDefault": 0,
-      "remark": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "tags": [
         "优秀"
       ],
