@@ -730,23 +730,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "飘零资源": {
-      "id": "12f07403-2272-4fe4-a0d2-5e1d1810df13",
-      "key": "飘零资源",
-      "name": "飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.877232923+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "CK资源": {
       "id": "87afb0fa-dada-4dc3-8ee4-ee2e04ca7fd3",
       "key": "CK资源",
