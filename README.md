@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-26 07:43 CST）
+## API 状态（最近更新：2026-04-26 11:24 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：100
-- 失败 API 数量：23
-- 平均可用率：82.6%
+- 成功 API 数量：98
+- 失败 API 数量：25
+- 平均可用率：82.5%
 - 完美可用率（100%）：70 个
 - 高可用率（80%-99%）：31 个
 - 中等可用率（50%-79%）：3 个
@@ -257,13 +257,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 93 | 7 | 93.0% | 0 |
-| ✅ | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 91 | 9 | 91.0% | 0 |
-| ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 91 | 9 | 91.0% | 0 |
-| ✅ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 91 | 9 | 91.0% | 0 |
-| ❌ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 91 | 9 | 91.0% | 1 |
-| 🚨 | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 61 | 39 | 61.0% | 38 |
-| 🚨 | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 61 | 39 | 61.0% | 38 |
-| 🚨 | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 60 | 40 | 60.0% | 38 |
+| ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
+| ❌ | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 90 | 10 | 90.0% | 1 |
+| ❌ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 90 | 10 | 90.0% | 1 |
+| ❌ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 90 | 10 | 90.0% | 1 |
+| 🚨 | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 60 | 40 | 60.0% | 39 |
+| 🚨 | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 60 | 40 | 60.0% | 39 |
+| 🚨 | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 59 | 41 | 59.0% | 39 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
