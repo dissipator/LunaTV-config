@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-27 06:44 CST）
+## API 状态（最近更新：2026-04-27 07:43 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：100
 - 失败 API 数量：23
-- 平均可用率：82.1%
+- 平均可用率：82.0%
 - 完美可用率（100%）：69 个
 - 高可用率（80%-99%）：32 个
 - 中等可用率（50%-79%）：0 个
@@ -256,14 +256,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 93 | 7 | 93.0% | 0 |
-| 🚨 | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
+| 🚨 | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
 | ✅ | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 87 | 13 | 87.0% | 0 |
 | ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 87 | 13 | 87.0% | 0 |
 | ✅ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 87 | 13 | 87.0% | 0 |
-| 🚨 | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 46 | 54 | 46.0% | 53 |
-| 🚨 | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 46 | 54 | 46.0% | 53 |
-| 🚨 | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 45 | 55 | 45.0% | 53 |
+| 🚨 | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 45 | 55 | 45.0% | 54 |
+| 🚨 | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 45 | 55 | 45.0% | 54 |
+| 🚨 | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 44 | 56 | 44.0% | 54 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
