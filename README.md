@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-29 06:02 CST）
+## API 状态（最近更新：2026-04-29 07:59 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：101
-- 失败 API 数量：22
+- 成功 API 数量：102
+- 失败 API 数量：21
 - 平均可用率：81.5%
 - 完美可用率（100%）：65 个
 - 高可用率（80%-99%）：36 个
@@ -260,10 +260,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 87 | 13 | 87.0% | 0 |
 | ✅ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 87 | 13 | 87.0% | 0 |
-| ❌ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 86 | 14 | 86.0% | 1 |
+| ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 86 | 14 | 86.0% | 0 |
 | ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 31 | 69 | 31.0% | 0 |
-| 🚨 | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 25 | 75 | 25.0% | 74 |
-| 🚨 | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 25 | 75 | 25.0% | 74 |
+| 🚨 | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 24 | 76 | 24.0% | 75 |
+| 🚨 | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 24 | 76 | 24.0% | 75 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
