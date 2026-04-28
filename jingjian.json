@@ -156,11 +156,6 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://hhzyapi.com"
     },
-    "TV-速博资源": {
-      "name": "TV-速博资源",
-      "api": "https://subocaiji.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-量子资源": {
       "name": "TV-量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -633,23 +628,6 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:42.946578973+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "速播资源": {
-      "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
-      "key": "速播资源",
-      "name": "速播资源",
-      "api": "https://subocaiji.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.942959654+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
