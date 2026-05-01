@@ -251,11 +251,6 @@
       "api": "https://www.kxgav.com/api/json.php",
       "detail": "https://www.kxgav.com"
     },
-    "AV-精品资源": {
-      "name": "AV-精品资源",
-      "api": "https://www.jingpinx.com/api.php/provide/vod",
-      "detail": "https://www.jingpinx.com"
-    },
     "AV-美少女资源": {
       "name": "AV-美少女资源",
       "api": "https://www.msnii.com/api/json.php",
