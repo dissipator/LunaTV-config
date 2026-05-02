@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-02 21:21 CST）
+## API 状态（最近更新：2026-05-02 22:53 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
 - 失败 API 数量：21
-- 平均可用率：81.1%
+- 平均可用率：81.2%
 - 完美可用率（100%）：57 个
 - 高可用率（80%-99%）：44 个
 - 中等可用率（50%-79%）：0 个
@@ -261,7 +261,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 87 | 13 | 87.0% | 0 |
 | ✅ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 87 | 13 | 87.0% | 0 |
 | ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 86 | 14 | 86.0% | 0 |
-| ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 46 | 54 | 46.0% | 0 |
+| ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 47 | 53 | 47.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
