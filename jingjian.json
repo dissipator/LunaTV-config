@@ -126,6 +126,16 @@
       "api": "https://suoniapi.com/api.php/provide/vod",
       "detail": ""
     },
+    "TV-红牛资源": {
+      "name": "TV-红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy2.com"
+    },
+    "TV-虎牙资源": {
+      "name": "TV-虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "detail": "https://www.huyaapi.com"
+    },
     "TV-豆瓣资源": {
       "name": "TV-豆瓣资源",
       "api": "https://dbzy.tv/api.php/provide/vod",
@@ -145,6 +155,11 @@
       "name": "TV-量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": ""
+    },
+    "TV-金鹰点播": {
+      "name": "TV-金鹰点播",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jinyingzy.com"
     },
     "TV-閃電资源": {
       "name": "TV-閃電资源",
@@ -287,9 +302,30 @@
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
     },
+    "红牛资源": {
+      "id": "96c83bec-f3fe-446a-90ad-596596d0bea4",
+      "key": "红牛资源",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.815488222+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "索尼-闪电资源": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
+    },
+    "金鹰资源采集网": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源采集网"
     },
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
@@ -631,6 +667,24 @@
       "remark": "https://collect.wolongzy.cc/api.php/provide/vod/",
       "tags": [
         "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "虎牙资源": {
+      "id": "ad0c6b4f-9e06-498d-acd9-d1c2573737d1",
+      "key": "虎牙资源",
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.936873515+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "搜索混乱",
+        "差"
       ],
       "priority": 0,
       "proxyMode": "none",
