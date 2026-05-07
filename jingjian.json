@@ -16,11 +16,6 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
-    "TV-CK资源": {
-      "name": "TV-CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "detail": "https://ckzy.me"
-    },
     "TV-U酷资源": {
       "name": "TV-U酷资源",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -65,11 +60,6 @@
       "name": "TV-如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": ""
-    },
-    "TV-新浪点播": {
-      "name": "TV-新浪点播",
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "detail": "https://api.xinlangapi.com"
     },
     "TV-无尽资源": {
       "name": "TV-无尽资源",
@@ -135,6 +125,11 @@
       "name": "TV-红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy2.com"
+    },
+    "TV-虎牙资源": {
+      "name": "TV-虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "detail": "https://www.huyaapi.com"
     },
     "TV-豆瓣资源": {
       "name": "TV-豆瓣资源",
@@ -667,6 +662,24 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "虎牙资源": {
+      "id": "ad0c6b4f-9e06-498d-acd9-d1c2573737d1",
+      "key": "虎牙资源",
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.936873515+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "搜索混乱",
+        "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "閃電资源": {
       "id": "07674950-5023-4366-9eab-aa9ed198cf72",
       "key": "閃電资源",
@@ -697,23 +710,6 @@
       "remark": "",
       "tags": [
         "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "CK资源": {
-      "id": "87afb0fa-dada-4dc3-8ee4-ee2e04ca7fd3",
-      "key": "CK资源",
-      "name": "CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.872367934+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
@@ -802,23 +798,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "新浪点播": {
-      "id": "0a7ec05e-6dd7-4b54-8e49-72de192bf8b8",
-      "key": "新浪点播",
-      "name": "新浪点播",
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.806411723+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
