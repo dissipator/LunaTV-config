@@ -256,11 +256,6 @@
       "api": "https://www.msnii.com/api/json.php",
       "detail": "https://www.msnii.com"
     },
-    "AV-老色逼资源": {
-      "name": "AV-老色逼资源",
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "detail": "https://apilsbzy1.com"
-    },
     "AV-辣椒资源": {
       "name": "AV-辣椒资源",
       "api": "https://apilj.com/api.php/provide/vod",
@@ -694,24 +689,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "虎牙资源": {
-      "id": "ad0c6b4f-9e06-498d-acd9-d1c2573737d1",
-      "key": "虎牙资源",
-      "name": "虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.936873515+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "搜索混乱",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "閃電资源": {
       "id": "07674950-5023-4366-9eab-aa9ed198cf72",
       "key": "閃電资源",
@@ -816,24 +793,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "光速资源": {
-      "id": "d332ab93-58cb-4a3c-8257-8f2563a7e228",
-      "key": "光速资源",
-      "name": "光速资源",
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.865187975+08:00",
-      "isDefault": 0,
-      "remark": "搜索没用",
-      "tags": [
-        "无法搜索",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "牛牛点播": {
       "id": "7d580fba-ef77-497f-bf63-a2359832d0e3",
       "key": "牛牛点播",
@@ -847,23 +806,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "新浪点播": {
-      "id": "0a7ec05e-6dd7-4b54-8e49-72de192bf8b8",
-      "key": "新浪点播",
-      "name": "新浪点播",
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.806411723+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
