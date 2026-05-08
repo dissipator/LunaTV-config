@@ -21,6 +21,11 @@
       "api": "https://ckzy.me/api.php/provide/vod",
       "detail": "https://ckzy.me"
     },
+    "TV-U酷资源": {
+      "name": "TV-U酷资源",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://api.ukuapi88.com"
+    },
     "TV-ikun资源": {
       "name": "TV-ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -215,11 +220,6 @@
       "name": "AV-奥斯卡资源",
       "api": "https://aosikazy.com/api.php/provide/vod",
       "detail": "https://aosikazy.com"
-    },
-    "AV-奶香香": {
-      "name": "AV-奶香香",
-      "api": "https://Naixxzy.com/api.php/provide/vod",
-      "detail": "https://Naixxzy.com"
     },
     "AV-森林资源": {
       "name": "AV-森林资源",
@@ -777,6 +777,23 @@
       "tags": [
         "无法搜索",
         "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "U酷资源": {
+      "id": "1e78e7f5-63c3-4169-8a21-4773e19affed",
+      "key": "U酷资源",
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.869485164+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "tags": [
+        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
