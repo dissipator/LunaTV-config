@@ -116,11 +116,6 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "AV-百万资源": {
-      "name": "AV-百万资源",
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "detail": "https://api.bwzyz.com"
-    },
     "TV-神马云": {
       "name": "TV-神马云",
       "api": "https://api.1080zyku.com/inc/apijson.php/",
@@ -250,11 +245,6 @@
       "name": "AV-白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
       "detail": "https://www.kxgav.com"
-    },
-    "AV-精品资源": {
-      "name": "AV-精品资源",
-      "api": "https://www.jingpinx.com/api.php/provide/vod",
-      "detail": "https://www.jingpinx.com"
     },
     "AV-美少女资源": {
       "name": "AV-美少女资源",
@@ -625,23 +615,6 @@
       "remark": "",
       "tags": [
         "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "茅台资源": {
-      "id": "64579f05-0830-4c52-980c-a724c16b548c",
-      "key": "茅台资源",
-      "name": "茅台资源",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.946578973+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
