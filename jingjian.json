@@ -16,11 +16,6 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
-    "TV-CK资源": {
-      "name": "TV-CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "detail": "https://ckzy.me"
-    },
     "TV-ikun资源": {
       "name": "TV-ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -171,11 +166,6 @@
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "detail": "https://sdzyapi.com"
     },
-    "TV-非凡资源": {
-      "name": "TV-非凡资源",
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-      "detail": "https://cj.ffzyapi.com"
-    },
     "TV-飘零资源": {
       "name": "TV-飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
@@ -281,11 +271,6 @@
       "api": "https://www.pgxdy.com/api/json.php",
       "detail": "https://www.pgxdy.com"
     },
-    "非凡影视new": {
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "name": "非凡影视new",
-      "detail": "http://ffzy5.tv"
-    },
     "极速资源": {
       "id": "087ca658-4acc-43ae-812e-cf3ef29e5996",
       "key": "极速资源",
@@ -335,10 +320,6 @@
     "大地资源网络": {
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
-    },
-    "黄色资源啊啊": {
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "name": "黄色资源啊啊"
     },
     "小鸡资源": {
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -672,23 +653,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "卧龙资源2": {
-      "id": "d9d3866b-104b-4f88-8207-81a8a61be776",
-      "key": "卧龙资源2",
-      "name": "卧龙资源2",
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.939695834+08:00",
-      "isDefault": 0,
-      "remark": "https://collect.wolongzy.cc/api.php/provide/vod/",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
