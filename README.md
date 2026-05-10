@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-10 14:37 CST）
+## API 状态（最近更新：2026-05-10 16:57 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：101
@@ -258,7 +258,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 光速资源 | https://api.guangsuapi.com/api.php/provide/vod/ | 93 | 7 | 93.0% | 0 |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
-| 🚨 | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 87 | 13 | 87.0% | 13 |
+| 🚨 | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 86 | 14 | 86.0% | 14 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
 | ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 83 | 17 | 83.0% | 0 |
