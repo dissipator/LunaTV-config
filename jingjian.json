@@ -196,6 +196,11 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "detail": "https://www.mdzyapi.com"
     },
+    "AV-91麻豆": {
+      "name": "AV-91麻豆",
+      "api": "https://91md.me/api.php/provide/vod",
+      "detail": "https://91md.me"
+    },
     "AV-AIvin": {
       "name": "AV-AIvin",
       "api": "http://lbapiby.com/api.php/provide/vod",
