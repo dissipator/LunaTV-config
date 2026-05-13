@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-13 18:33 CST）
+## API 状态（最近更新：2026-05-13 21:16 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：101
-- 失败 API 数量：22
+- 成功 API 数量：103
+- 失败 API 数量：20
 - 平均可用率：81.3%
 - 完美可用率（100%）：66 个
 - 高可用率（80%-99%）：36 个
@@ -238,9 +238,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 无尽资源 | https://api.wujinapi.me/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| ❌ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
 | ✅ | CK资源 | https://ckzy.me/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-新浪点播 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
@@ -259,9 +259,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
-| ❌ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 82 | 18 | 82.0% | 1 |
+| ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
 | ✅ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
-| ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 80 | 20 | 80.0% | 0 |
+| ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 81 | 19 | 81.0% | 0 |
+| ✅ | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 1 | 99 | 1.0% | 0 |
+| ✅ | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 1 | 99 | 1.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
@@ -269,7 +271,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🚨 | TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-百度云资源 | https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
-| 🚨 | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-魔爪资源 | https://mozhuazy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-黑木耳 | https://json.heimuer.xyz/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-黑木耳点播 | https://json02.heimuer.xyz/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
@@ -280,7 +281,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🚨 | 百度云资源 | https://api.apibdzy.com/api.php/provide/vod/ | 0 | 100 | 0.0% | 100 |
 | 🚨 | 蜂巢片库 | https://api.fczy888.me/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 金马资源网 | https://api.jmzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
-| 🚨 | 金鹰资源 | https://jyzyapi.com/api.php/provide/vod/ | 0 | 100 | 0.0% | 100 |
 | 🚨 | 饭团影视 | https://www.fantuan.tv/api.php/provide/vod/ | 0 | 100 | 0.0% | 100 |
 | 🚨 | 魔爪资源 | https://mozhuazy.com/api.php/provide/vod/ | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->

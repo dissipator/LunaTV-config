@@ -136,6 +136,11 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy2.com"
     },
+    "TV-茅台资源": {
+      "name": "TV-茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://caiji.maotaizy.cc"
+    },
     "TV-虎牙资源": {
       "name": "TV-虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
@@ -165,6 +170,11 @@
       "name": "TV-金鹰点播",
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "detail": "https://jinyingzy.com"
+    },
+    "TV-金鹰资源": {
+      "name": "TV-金鹰资源",
+      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "detail": "https://jyzyapi.com"
     },
     "TV-閃電资源": {
       "name": "TV-閃電资源",
@@ -270,11 +280,6 @@
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
-    },
-    "AV-鲨鱼资源": {
-      "name": "AV-鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod",
-      "detail": "https://shayuapi.com"
     },
     "AV-黄AV资源": {
       "name": "AV-黄AV资源",
@@ -689,6 +694,24 @@
       "remark": "https://collect.wolongzy.cc/api.php/provide/vod/",
       "tags": [
         "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "金鹰资源": {
+      "id": "d15f4320-9e89-4cae-afe2-83fdf3a96e19",
+      "key": "金鹰资源",
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.938341104+08:00",
+      "isDefault": 0,
+      "remark": "https://jinyingzy.com/api.php/provide/vod/",
+      "tags": [
+        "搜索混乱",
+        "差"
       ],
       "priority": 0,
       "proxyMode": "none",
