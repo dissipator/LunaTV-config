@@ -357,6 +357,10 @@
       "api": "https://apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
     },
+    "优质资源库1080zyk6.com高清": {
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "name": "优质资源库1080zyk6.com高清"
+    },
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
@@ -384,6 +388,23 @@
       ],
       "priority": 1,
       "proxyMode": "none",
+      "customProxy": ""
+    },
+    "电影天堂资源": {
+      "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
+      "key": "电影天堂资源",
+      "name": "电影天堂资源",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.086388483+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 1,
+      "proxyMode": "builtin",
       "customProxy": ""
     },
     "暴风资源": {
@@ -428,6 +449,23 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:43.084986234+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "如意资源": {
+      "id": "4ffa5869-67d8-463d-94d7-c78212e039e0",
+      "key": "如意资源",
+      "name": "如意资源",
+      "api": "http://cj.rycjapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.083919384+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
@@ -760,6 +798,23 @@
       "time": "2025-10-30T11:15:42.869485164+08:00",
       "isDefault": 0,
       "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "tags": [
+        "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "1080资源库": {
+      "id": "6ca1d5fa-6366-4418-ae4f-bc9ae0b86877",
+      "key": "1080资源库",
+      "name": "1080资源库",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.868513304+08:00",
+      "isDefault": 0,
+      "remark": "",
       "tags": [
         "代理"
       ],
