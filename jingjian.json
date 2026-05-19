@@ -660,24 +660,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "金鹰资源": {
-      "id": "d15f4320-9e89-4cae-afe2-83fdf3a96e19",
-      "key": "金鹰资源",
-      "name": "金鹰资源",
-      "api": "https://jyzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.938341104+08:00",
-      "isDefault": 0,
-      "remark": "https://jinyingzy.com/api.php/provide/vod/",
-      "tags": [
-        "搜索混乱",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "虎牙资源": {
       "id": "ad0c6b4f-9e06-498d-acd9-d1c2573737d1",
       "key": "虎牙资源",
