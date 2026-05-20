@@ -608,6 +608,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "茅台资源": {
+      "id": "64579f05-0830-4c52-980c-a724c16b548c",
+      "key": "茅台资源",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.946578973+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "速播资源": {
       "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
       "key": "速播资源",
