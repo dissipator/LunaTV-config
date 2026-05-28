@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-28 08:02 CST）
+## API 状态（最近更新：2026-05-28 13:11 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：101
-- 失败 API 数量：22
-- 平均可用率：81.3%
+- 成功 API 数量：103
+- 失败 API 数量：20
+- 平均可用率：81.4%
 - 完美可用率（100%）：84 个
 - 高可用率（80%-99%）：15 个
 - 中等可用率（50%-79%）：3 个
@@ -258,14 +258,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
-| ❌ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 80 | 20 | 80.0% | 1 |
+| ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 72 | 28 | 72.0% | 0 |
-| ✅ | 卧龙资源 | https://wolongzyw.com/api.php/provide/vod/ | 52 | 48 | 52.0% | 0 |
-| ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 51 | 49 | 51.0% | 0 |
+| ✅ | 卧龙资源 | https://wolongzyw.com/api.php/provide/vod/ | 53 | 47 | 53.0% | 0 |
+| ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 52 | 48 | 52.0% | 0 |
+| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 1 | 99 | 1.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
-| 🚨 | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
