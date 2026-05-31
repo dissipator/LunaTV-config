@@ -583,6 +583,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "最大资源": {
+      "id": "6ff054f3-351a-4481-b95e-833a82a43daf",
+      "key": "最大资源",
+      "name": "最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.009537394+08:00",
+      "isDefault": 0,
+      "remark": "http://zuidazy.me/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "旺旺短剧": {
       "id": "2a3371bc-69f6-4f35-98df-d64df3831f28",
       "key": "旺旺短剧",
