@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-01 12:25 CST）
+## API 状态（最近更新：2026-06-01 18:23 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
@@ -253,16 +253,16 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 2 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| 🚨 | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 3 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
-| ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
+| ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
+| ✅ | 卧龙资源 | https://wolongzyw.com/api.php/provide/vod/ | 82 | 18 | 82.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
-| ✅ | 卧龙资源 | https://wolongzyw.com/api.php/provide/vod/ | 81 | 19 | 81.0% | 0 |
-| ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 71 | 29 | 71.0% | 0 |
-| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 33 | 67 | 33.0% | 0 |
+| ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 72 | 28 | 72.0% | 0 |
+| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 34 | 66 | 34.0% | 0 |
 | 🚨 | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
