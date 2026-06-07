@@ -46,6 +46,11 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "detail": "https://api.guangsuapi.com"
     },
+    "TV-卧龙资源": {
+      "name": "TV-卧龙资源",
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "detail": "https://wolongzyw.com"
+    },
     "TV-天涯资源": {
       "name": "TV-天涯资源",
       "api": "https://tyyszy.com/api.php/provide/vod",
@@ -126,6 +131,11 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy2.com"
     },
+    "TV-茅台资源": {
+      "name": "TV-茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://caiji.maotaizy.cc"
+    },
     "TV-虎牙资源": {
       "name": "TV-虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
@@ -205,11 +215,6 @@
       "name": "AV-乐播资源",
       "api": "https://lbapi9.com/api.php/provide/vod",
       "detail": ""
-    },
-    "AV-奥斯卡资源": {
-      "name": "AV-奥斯卡资源",
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "detail": "https://aosikazy.com"
     },
     "AV-奶香香": {
       "name": "AV-奶香香",
@@ -481,6 +486,23 @@
       "remark": "",
       "tags": [
         "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "卧龙资源": {
+      "id": "3c58c36b-018b-4105-bce1-2ff09edc121a",
+      "key": "卧龙资源",
+      "name": "卧龙资源",
+      "api": "https://wolongzyw.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.081305084+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
       ],
       "priority": 0,
       "proxyMode": "none",
