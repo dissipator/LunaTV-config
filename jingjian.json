@@ -406,23 +406,6 @@
       "proxyMode": "builtin",
       "customProxy": ""
     },
-    "暴风资源": {
-      "id": "a2aa3bd3-ee1c-4f68-93da-06adae5443a2",
-      "key": "暴风资源",
-      "name": "暴风资源",
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.078943925+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
-      ],
-      "priority": 1,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "非凡影视": {
       "id": "f4907395-e693-4710-be31-d05f2e08e716",
       "key": "非凡影视",
