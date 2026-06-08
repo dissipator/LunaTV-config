@@ -21,11 +21,6 @@
       "api": "https://ckzy.me/api.php/provide/vod",
       "detail": "https://ckzy.me"
     },
-    "TV-U酷资源": {
-      "name": "TV-U酷资源",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://api.ukuapi88.com"
-    },
     "TV-ikun资源": {
       "name": "TV-ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -130,6 +125,11 @@
       "name": "TV-红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy2.com"
+    },
+    "TV-茅台资源": {
+      "name": "TV-茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://caiji.maotaizy.cc"
     },
     "TV-虎牙资源": {
       "name": "TV-虎牙资源",
@@ -629,6 +629,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "茅台资源": {
+      "id": "64579f05-0830-4c52-980c-a724c16b548c",
+      "key": "茅台资源",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.946578973+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "速播资源": {
       "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
       "key": "速播资源",
@@ -765,23 +782,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "U酷资源": {
-      "id": "1e78e7f5-63c3-4169-8a21-4773e19affed",
-      "key": "U酷资源",
-      "name": "U酷资源",
-      "api": "https://api.ukuapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.869485164+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
