@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-12 20:27 CST）
+## API 状态（最近更新：2026-06-13 00:22 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
@@ -257,13 +257,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
 | ✅ | 卧龙资源 | https://wolongzyw.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
-| ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
+| ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 77 | 23 | 77.0% | 0 |
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 77 | 23 | 77.0% | 0 |
-| ❌ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 70 | 30 | 70.0% | 2 |
-| ✅ | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 39 | 61 | 39.0% | 0 |
-| 🚨 | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 37 | 63 | 37.0% | 63 |
+| ❌ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 76 | 24 | 76.0% | 1 |
+| ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 70 | 30 | 70.0% | 0 |
+| ✅ | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 40 | 60 | 40.0% | 0 |
+| 🚨 | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 36 | 64 | 36.0% | 64 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
