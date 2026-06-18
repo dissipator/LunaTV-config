@@ -286,23 +286,6 @@
       "name": "非凡影视new",
       "detail": "http://ffzy5.tv"
     },
-    "极速资源": {
-      "id": "087ca658-4acc-43ae-812e-cf3ef29e5996",
-      "key": "极速资源",
-      "name": "极速资源",
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.090847253+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "杏吧资源": {
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
