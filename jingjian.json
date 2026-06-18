@@ -21,6 +21,11 @@
       "api": "https://ckzy.me/api.php/provide/vod",
       "detail": "https://ckzy.me"
     },
+    "TV-U酷资源": {
+      "name": "TV-U酷资源",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://api.ukuapi88.com"
+    },
     "TV-ikun资源": {
       "name": "TV-ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -50,6 +55,11 @@
       "name": "TV-天涯资源",
       "api": "https://tyyszy.com/api.php/provide/vod",
       "detail": "https://tyyszy.com"
+    },
+    "TV-如意资源": {
+      "name": "TV-如意资源",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": ""
     },
     "TV-新浪点播": {
       "name": "TV-新浪点播",
@@ -230,11 +240,6 @@
       "name": "AV-玉兔资源",
       "api": "https://apiyutu.com/api.php/provide/vod",
       "detail": "https://apiyutu.com"
-    },
-    "AV-番号资源": {
-      "name": "AV-番号资源",
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "detail": ""
     },
     "AV-白嫖资源": {
       "name": "AV-白嫖资源",
@@ -777,6 +782,23 @@
       "tags": [
         "无法搜索",
         "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "U酷资源": {
+      "id": "1e78e7f5-63c3-4169-8a21-4773e19affed",
+      "key": "U酷资源",
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.869485164+08:00",
+      "isDefault": 0,
+      "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "tags": [
+        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
