@@ -266,6 +266,11 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
     },
+    "AV-辣椒资源": {
+      "name": "AV-辣椒资源",
+      "api": "https://apilj.com/api.php/provide/vod",
+      "detail": "https://apilj.com"
+    },
     "AV-香奶儿资源": {
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
@@ -342,6 +347,10 @@
     "快车资源阿": {
       "api": "https://caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿"
+    },
+    "辣椒资源黄黄": {
+      "api": "https://apilj.com/api.php/provide",
+      "name": "辣椒资源黄黄"
     },
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
