@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-27 03:54 CST）
+## API 状态（最近更新：2026-06-27 05:22 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
@@ -253,7 +253,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
+| ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 89 | 11 | 89.0% | 0 |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
