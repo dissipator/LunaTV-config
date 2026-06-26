@@ -1,6 +1,11 @@
 {
   "cache_time": 9200,
   "api_site": {
+    "TV-1080资源": {
+      "name": "TV-1080资源",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "detail": "https://api.1080zyku.com"
+    },
     "AV-155资源": {
       "name": "AV-155资源",
       "api": "https://155api.com/api.php/provide/vod",
@@ -50,6 +55,11 @@
       "name": "TV-天涯资源",
       "api": "https://tyyszy.com/api.php/provide/vod",
       "detail": "https://tyyszy.com"
+    },
+    "TV-如意资源": {
+      "name": "TV-如意资源",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": ""
     },
     "TV-新浪点播": {
       "name": "TV-新浪点播",
