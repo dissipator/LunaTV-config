@@ -46,6 +46,11 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "detail": "https://api.guangsuapi.com"
     },
+    "TV-卧龙点播": {
+      "name": "TV-卧龙点播",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "detail": "https://collect.wolongzyw.com"
+    },
     "TV-卧龙资源": {
       "name": "TV-卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -265,11 +270,6 @@
       "name": "AV-老色逼资源",
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
-    },
-    "AV-辣椒资源": {
-      "name": "AV-辣椒资源",
-      "api": "https://apilj.com/api.php/provide/vod",
-      "detail": "https://apilj.com"
     },
     "AV-香奶儿资源": {
       "name": "AV-香奶儿资源",
@@ -681,6 +681,23 @@
       "tags": [
         "无法搜索",
         "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "卧龙资源2": {
+      "id": "d9d3866b-104b-4f88-8207-81a8a61be776",
+      "key": "卧龙资源2",
+      "name": "卧龙资源2",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.939695834+08:00",
+      "isDefault": 0,
+      "remark": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "tags": [
+        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
