@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-27 11:45 CST）
+## API 状态（最近更新：2026-06-27 14:55 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：99
-- 失败 API 数量：24
+- 成功 API 数量：103
+- 失败 API 数量：20
 - 平均可用率：82.1%
 - 完美可用率（100%）：64 个
 - 高可用率（80%-99%）：37 个
@@ -251,18 +251,18 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 89 | 11 | 89.0% | 0 |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 87 | 13 | 87.0% | 0 |
-| ❌ | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 81 | 19 | 81.0% | 1 |
-| ❌ | 豆瓣资源 | https://dbzy.tv/api.php/provide/vod/ | 81 | 19 | 81.0% | 1 |
-| ❌ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 70 | 30 | 70.0% | 1 |
-| ❌ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 65 | 35 | 65.0% | 1 |
+| ✅ | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
+| ✅ | 豆瓣资源 | https://dbzy.tv/api.php/provide/vod/ | 81 | 19 | 81.0% | 0 |
+| ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 70 | 30 | 70.0% | 0 |
+| ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 66 | 34 | 66.0% | 0 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
