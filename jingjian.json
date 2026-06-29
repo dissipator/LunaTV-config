@@ -21,11 +21,6 @@
       "api": "https://ckzy.me/api.php/provide/vod",
       "detail": "https://ckzy.me"
     },
-    "TV-U酷资源": {
-      "name": "TV-U酷资源",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://api.ukuapi88.com"
-    },
     "TV-ikun资源": {
       "name": "TV-ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -296,23 +291,6 @@
       "name": "非凡影视new",
       "detail": "http://ffzy5.tv"
     },
-    "极速资源": {
-      "id": "087ca658-4acc-43ae-812e-cf3ef29e5996",
-      "key": "极速资源",
-      "name": "极速资源",
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.090847253+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "杏吧资源": {
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
@@ -365,10 +343,6 @@
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
-    },
-    "iqiyi资源": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi资源"
     },
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
@@ -809,23 +783,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "U酷资源": {
-      "id": "1e78e7f5-63c3-4169-8a21-4773e19affed",
-      "key": "U酷资源",
-      "name": "U酷资源",
-      "api": "https://api.ukuapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.869485164+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
