@@ -131,15 +131,35 @@
       "api": "https://suoniapi.com/api.php/provide/vod",
       "detail": ""
     },
+    "TV-红牛资源": {
+      "name": "TV-红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy2.com"
+    },
+    "TV-茅台资源": {
+      "name": "TV-茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://caiji.maotaizy.cc"
+    },
     "TV-虎牙资源": {
       "name": "TV-虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
     },
+    "TV-豆瓣资源": {
+      "name": "TV-豆瓣资源",
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "detail": "https://dbzy.tv"
+    },
     "TV-豪华资源": {
       "name": "TV-豪华资源",
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://hhzyapi.com"
+    },
+    "TV-速博资源": {
+      "name": "TV-速博资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": ""
     },
     "TV-量子资源": {
       "name": "TV-量子资源",
@@ -271,43 +291,9 @@
       "name": "非凡影视new",
       "detail": "http://ffzy5.tv"
     },
-    "极速资源": {
-      "id": "087ca658-4acc-43ae-812e-cf3ef29e5996",
-      "key": "极速资源",
-      "name": "极速资源",
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.090847253+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "杏吧资源": {
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
-    },
-    "红牛资源": {
-      "id": "96c83bec-f3fe-446a-90ad-596596d0bea4",
-      "key": "红牛资源",
-      "name": "红牛资源",
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.815488222+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
     },
     "索尼-闪电资源": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
@@ -622,6 +608,23 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:42.946578973+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "速播资源": {
+      "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
+      "key": "速播资源",
+      "name": "速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.942959654+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
