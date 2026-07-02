@@ -221,6 +221,11 @@
       "api": "https://lbapi9.com/api.php/provide/vod",
       "detail": ""
     },
+    "AV-奥斯卡资源": {
+      "name": "AV-奥斯卡资源",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "detail": "https://aosikazy.com"
+    },
     "AV-奶香香": {
       "name": "AV-奶香香",
       "api": "https://Naixxzy.com/api.php/provide/vod",
@@ -294,6 +299,23 @@
     "杏吧资源": {
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
+    },
+    "红牛资源": {
+      "id": "96c83bec-f3fe-446a-90ad-596596d0bea4",
+      "key": "红牛资源",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.815488222+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
     },
     "索尼-闪电资源": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
