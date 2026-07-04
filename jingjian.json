@@ -196,11 +196,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "detail": "https://www.mdzyapi.com"
     },
-    "AV-91麻豆": {
-      "name": "AV-91麻豆",
-      "api": "https://91md.me/api.php/provide/vod",
-      "detail": "https://91md.me"
-    },
     "AV-AIvin": {
       "name": "AV-AIvin",
       "api": "http://lbapiby.com/api.php/provide/vod",
@@ -280,11 +275,6 @@
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
-    },
-    "AV-鲨鱼资源": {
-      "name": "AV-鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod",
-      "detail": "https://shayuapi.com"
     },
     "AV-黄AV资源": {
       "name": "AV-黄AV资源",
