@@ -241,6 +241,11 @@
       "api": "https://www.xrbsp.com/api/json.php",
       "detail": "https://www.xrbsp.com"
     },
+    "AV-玉兔资源": {
+      "name": "AV-玉兔资源",
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "detail": "https://apiyutu.com"
+    },
     "AV-番号资源": {
       "name": "AV-番号资源",
       "api": "http://fhapi9.com/api.php/provide/vod",
