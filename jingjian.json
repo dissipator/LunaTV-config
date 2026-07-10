@@ -216,6 +216,11 @@
       "api": "https://lbapi9.com/api.php/provide/vod",
       "detail": ""
     },
+    "AV-奥斯卡资源": {
+      "name": "AV-奥斯卡资源",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "detail": "https://aosikazy.com"
+    },
     "AV-奶香香": {
       "name": "AV-奶香香",
       "api": "https://Naixxzy.com/api.php/provide/vod",
