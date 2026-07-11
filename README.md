@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-11 21:26 CST）
+## API 状态（最近更新：2026-07-11 22:57 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：103
-- 失败 API 数量：20
-- 平均可用率：84.1%
+- 成功 API 数量：99
+- 失败 API 数量：24
+- 平均可用率：84.0%
 - 完美可用率（100%）：80 个
 - 高可用率（80%-99%）：24 个
 - 中等可用率（50%-79%）：1 个
@@ -258,12 +258,12 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-U酷资源 | https://api.ukuapi88.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 93 | 7 | 93.0% | 0 |
-| ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 93 | 7 | 93.0% | 0 |
-| ✅ | 豆瓣资源 | https://dbzy.tv/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
-| ✅ | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| ❌ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 84 | 16 | 84.0% | 1 |
-| ❌ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 83 | 17 | 83.0% | 1 |
+| ❌ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 92 | 8 | 92.0% | 1 |
+| ❌ | 豆瓣资源 | https://dbzy.tv/api.php/provide/vod/ | 91 | 9 | 91.0% | 1 |
+| ❌ | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 90 | 10 | 90.0% | 1 |
+| ❌ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 89 | 11 | 89.0% | 1 |
+| ❌ | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 83 | 17 | 83.0% | 2 |
+| ❌ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 82 | 18 | 82.0% | 2 |
 | ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod/ | 55 | 45 | 55.0% | 0 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
