@@ -181,11 +181,6 @@
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "detail": "https://cj.ffzyapi.com"
     },
-    "TV-魔都动漫": {
-      "name": "TV-魔都动漫",
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "detail": "https://caiji.moduapi.cc"
-    },
     "TV-魔都资源": {
       "name": "TV-魔都资源",
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
