@@ -144,14 +144,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-17 12:09 CST）
+## API 状态（最近更新：2026-07-17 15:20 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
 - 失败 API 数量：21
 - 平均可用率：83.4%
-- 完美可用率（100%）：72 个
-- 高可用率（80%-99%）：31 个
+- 完美可用率（100%）：73 个
+- 高可用率（80%-99%）：30 个
 - 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：20 个
 
@@ -166,6 +166,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-淫水机资源 | https://www.xrbsp.com/api/json.php | 100 | 0 | 100.0% | 0 |
+| ✅ | AV-玉兔资源 | https://apiyutu.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-白嫖资源 | https://www.kxgav.com/api/json.php | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -236,7 +237,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | AV-玉兔资源 | https://apiyutu.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-番号资源 | http://fhapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 99 | 1 | 99.0% | 0 |
@@ -262,9 +262,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | U酷资源 | https://api.ukuapi.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
-| 🚨 | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 85 | 15 | 85.0% | 15 |
-| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 22 | 78 | 22.0% | 63 |
-| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 21 | 79 | 21.0% | 63 |
+| 🚨 | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 84 | 16 | 84.0% | 16 |
+| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 21 | 79 | 21.0% | 64 |
+| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 20 | 80 | 20.0% | 64 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
