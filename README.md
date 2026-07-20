@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-21 02:55 CST）
+## API 状态（最近更新：2026-07-21 04:24 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
@@ -262,7 +262,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod/ | 92 | 8 | 92.0% | 0 |
-| 🚨 | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 42 | 58 | 42.0% | 58 |
+| 🚨 | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 41 | 59 | 41.0% | 59 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
