@@ -116,11 +116,6 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "AV-百万资源": {
-      "name": "AV-百万资源",
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "detail": "https://api.bwzyz.com"
-    },
     "TV-神马云": {
       "name": "TV-神马云",
       "api": "https://api.1080zyku.com/inc/apijson.php/",
@@ -265,11 +260,6 @@
       "name": "AV-老色逼资源",
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
-    },
-    "AV-辣椒资源": {
-      "name": "AV-辣椒资源",
-      "api": "https://apilj.com/api.php/provide/vod",
-      "detail": "https://apilj.com"
     },
     "AV-香奶儿资源": {
       "name": "AV-香奶儿资源",
