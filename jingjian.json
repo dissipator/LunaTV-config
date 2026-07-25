@@ -101,11 +101,6 @@
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "detail": "https://api.zuidapi.com"
     },
-    "TV-樱花资源": {
-      "name": "TV-樱花资源",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-牛牛点播": {
       "name": "TV-牛牛点播",
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
@@ -135,11 +130,6 @@
       "name": "TV-茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://caiji.maotaizy.cc"
-    },
-    "TV-虎牙资源": {
-      "name": "TV-虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "detail": "https://www.huyaapi.com"
     },
     "TV-豆瓣资源": {
       "name": "TV-豆瓣资源",
@@ -539,24 +529,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "樱花资源": {
-      "id": "00db106a-1b57-4c27-975c-3b544949a653",
-      "key": "樱花资源",
-      "name": "樱花资源",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:43.013719004+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "无法搜索",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "无尽资源": {
       "id": "75047366-4902-4bcf-9ccf-d209416a6e9b",
       "key": "无尽资源",
@@ -704,24 +676,6 @@
       "time": "2025-10-30T11:15:42.938341104+08:00",
       "isDefault": 0,
       "remark": "https://jinyingzy.com/api.php/provide/vod/",
-      "tags": [
-        "搜索混乱",
-        "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "虎牙资源": {
-      "id": "ad0c6b4f-9e06-498d-acd9-d1c2573737d1",
-      "key": "虎牙资源",
-      "name": "虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.936873515+08:00",
-      "isDefault": 0,
-      "remark": "",
       "tags": [
         "搜索混乱",
         "差"
