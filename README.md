@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-26 03:12 CST）
+## API 状态（最近更新：2026-07-26 04:57 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：99
 - 失败 API 数量：24
-- 平均可用率：82.4%
+- 平均可用率：82.3%
 - 完美可用率（100%）：86 个
 - 高可用率（80%-99%）：15 个
 - 中等可用率（50%-79%）：1 个
@@ -259,9 +259,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| 🚨 | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 5 |
-| 🚨 | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 95 | 5 | 95.0% | 5 |
-| 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 58 | 42 | 58.0% | 42 |
+| 🚨 | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
+| 🚨 | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 6 |
+| 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 57 | 43 | 57.0% | 43 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
