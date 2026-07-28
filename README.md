@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-29 02:17 CST）
+## API 状态（最近更新：2026-07-29 04:18 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：101
@@ -261,7 +261,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
 | ✅ | 虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/ | 79 | 21 | 79.0% | 0 |
-| 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
+| 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 28 | 72 | 28.0% | 72 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
