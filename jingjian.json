@@ -141,6 +141,11 @@
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
     },
+    "TV-豆瓣资源": {
+      "name": "TV-豆瓣资源",
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "detail": "https://dbzy.tv"
+    },
     "TV-豪华资源": {
       "name": "TV-豪华资源",
       "api": "https://hhzyapi.com/api.php/provide/vod",
@@ -339,17 +344,9 @@
       "api": "https://hsckzy888.com/api.php/provide/vod",
       "name": "黄色资源啊啊"
     },
-    "小鸡资源": {
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "name": "小鸡资源"
-    },
     "快车资源阿": {
       "api": "https://caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿"
-    },
-    "辣椒资源黄黄": {
-      "api": "https://apilj.com/api.php/provide",
-      "name": "辣椒资源黄黄"
     },
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
@@ -515,6 +512,24 @@
       "remark": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "tags": [
         "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "豆瓣资源": {
+      "id": "f70b7292-5a98-4ecc-8999-16b3cf5a3fc8",
+      "key": "豆瓣资源",
+      "name": "豆瓣资源",
+      "api": "https://dbzy.tv/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.018452473+08:00",
+      "isDefault": 0,
+      "remark": "https://caiji.dbzy.tv/api.php/provide/vod/",
+      "tags": [
+        "优秀",
+        "广告"
       ],
       "priority": 0,
       "proxyMode": "none",
