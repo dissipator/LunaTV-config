@@ -364,6 +364,10 @@
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
     },
+    "细胞采集黄色": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞采集黄色"
+    },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
