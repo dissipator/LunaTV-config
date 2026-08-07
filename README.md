@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-07 17:03 CST）
+## API 状态（最近更新：2026-08-07 18:55 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：101
@@ -257,11 +257,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 小鸡资源 | https://api.xiaojizy.live/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
+| ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 豆瓣资源 | https://dbzy.tv/api.php/provide/vod/ | 97 | 3 | 97.0% | 0 |
-| ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
+| ❌ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 94 | 6 | 94.0% | 1 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ✅ | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 70 | 30 | 70.0% | 0 |
+| ✅ | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 71 | 29 | 71.0% | 0 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
