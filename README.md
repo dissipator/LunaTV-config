@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-08 17:41 CST）
+## API 状态（最近更新：2026-08-08 18:37 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：101
 - 失败 API 数量：22
-- 平均可用率：82.5%
+- 平均可用率：82.6%
 - 完美可用率（100%）：84 个
 - 高可用率（80%-99%）：18 个
 - 中等可用率（50%-79%）：0 个
@@ -253,15 +253,15 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 99 | 1 | 99.0% | 0 |
-| ✅ | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 豆瓣资源 | https://dbzy.tv/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| ❌ | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ❌ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
+| ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 小鸡资源 | https://api.xiaojizy.live/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
+| ✅ | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
