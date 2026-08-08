@@ -206,11 +206,6 @@
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "detail": "https://api.souavzy.vip"
     },
-    "AV-乐播资源": {
-      "name": "AV-乐播资源",
-      "api": "https://lbapi9.com/api.php/provide/vod",
-      "detail": ""
-    },
     "AV-奥斯卡资源": {
       "name": "AV-奥斯卡资源",
       "api": "https://aosikazy.com/api.php/provide/vod",
@@ -359,6 +354,10 @@
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
+    },
+    "细胞采集黄色": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞采集黄色"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
