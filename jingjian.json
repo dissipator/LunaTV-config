@@ -311,10 +311,6 @@
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
     },
-    "华为吧资源": {
-      "api": "https://huawei8.live/api.php/provide/vod",
-      "name": "华为吧资源"
-    },
     "红牛资源": {
       "id": "96c83bec-f3fe-446a-90ad-596596d0bea4",
       "key": "红牛资源",
