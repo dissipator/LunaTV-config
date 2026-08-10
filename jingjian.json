@@ -31,11 +31,6 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "detail": "https://ikunzyapi.com"
     },
-    "TV-wujinapi无尽": {
-      "name": "TV-wujinapi无尽",
-      "api": "https://api.wujinapi.cc/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-丫丫点播": {
       "name": "TV-丫丫点播",
       "api": "https://cj.yayazy.net/api.php/provide/vod",
@@ -70,11 +65,6 @@
       "name": "TV-新浪点播",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "detail": "https://api.xinlangapi.com"
-    },
-    "TV-无尽资源": {
-      "name": "TV-无尽资源",
-      "api": "https://api.wujinapi.net/api.php/provide/vod",
-      "detail": ""
     },
     "TV-旺旺短剧": {
       "name": "TV-旺旺短剧",
@@ -160,6 +150,11 @@
       "name": "TV-量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": ""
+    },
+    "TV-金鹰点播": {
+      "name": "TV-金鹰点播",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jinyingzy.com"
     },
     "TV-金鹰资源": {
       "name": "TV-金鹰资源",
