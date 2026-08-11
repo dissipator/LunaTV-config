@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-11 15:12 CST）
+## API 状态（最近更新：2026-08-11 17:01 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：104
-- 失败 API 数量：19
+- 成功 API 数量：103
+- 失败 API 数量：20
 - 平均可用率：82.9%
 - 完美可用率（100%）：84 个
 - 高可用率（80%-99%）：18 个
@@ -261,9 +261,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 小鸡资源 | https://api.xiaojizy.live/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
-| ✅ | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 47 | 53 | 47.0% | 0 |
-| ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 12 | 88 | 12.0% | 0 |
+| ❌ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 84 | 16 | 84.0% | 1 |
+| ✅ | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 48 | 52 | 48.0% | 0 |
+| ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 13 | 87 | 13.0% | 0 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
