@@ -196,11 +196,6 @@
       "api": "https://91md.me/api.php/provide/vod",
       "detail": "https://91md.me"
     },
-    "AV-AIvin": {
-      "name": "AV-AIvin",
-      "api": "http://lbapiby.com/api.php/provide/vod",
-      "detail": ""
-    },
     "AV-JKUN资源": {
       "name": "AV-JKUN资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
@@ -210,11 +205,6 @@
       "name": "AV-souav资源",
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "detail": "https://api.souavzy.vip"
-    },
-    "AV-乐播资源": {
-      "name": "AV-乐播资源",
-      "api": "https://lbapi9.com/api.php/provide/vod",
-      "detail": ""
     },
     "AV-奥斯卡资源": {
       "name": "AV-奥斯卡资源",
@@ -368,10 +358,6 @@
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
-    },
-    "iqiyi资源": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi资源"
     },
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
