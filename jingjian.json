@@ -570,6 +570,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "无尽资源": {
+      "id": "75047366-4902-4bcf-9ccf-d209416a6e9b",
+      "key": "无尽资源",
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.010389794+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "最大资源": {
       "id": "6ff054f3-351a-4481-b95e-833a82a43daf",
       "key": "最大资源",
