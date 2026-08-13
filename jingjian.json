@@ -221,11 +221,6 @@
       "api": "https://www.kxgav.com/api/json.php",
       "detail": "https://www.kxgav.com"
     },
-    "AV-精品资源": {
-      "name": "AV-精品资源",
-      "api": "https://www.jingpinx.com/api.php/provide/vod",
-      "detail": "https://www.jingpinx.com"
-    },
     "AV-美少女资源": {
       "name": "AV-美少女资源",
       "api": "https://www.msnii.com/api/json.php",
@@ -683,23 +678,6 @@
       "tags": [
         "无法搜索",
         "差"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "CK资源": {
-      "id": "87afb0fa-dada-4dc3-8ee4-ee2e04ca7fd3",
-      "key": "CK资源",
-      "name": "CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:42.872367934+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
