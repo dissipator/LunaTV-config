@@ -144,16 +144,16 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-14 02:01 CST）
+## API 状态（最近更新：2026-08-14 03:16 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：91
-- 失败 API 数量：32
-- 平均可用率：82.9%
+- 成功 API 数量：94
+- 失败 API 数量：29
+- 平均可用率：82.8%
 - 完美可用率（100%）：79 个
 - 高可用率（80%-99%）：24 个
-- 中等可用率（50%-79%）：0 个
-- 低可用率（<50%）：20 个
+- 中等可用率（50%-79%）：1 个
+- 低可用率（<50%）：19 个
 
 <div style="font-size: 11px;">
 
@@ -246,24 +246,24 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 无尽资源 | https://api.wujinapi.me/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ❌ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 94 | 6 | 94.0% | 1 |
-| 🚨 | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 93 | 7 | 93.0% | 7 |
-| ❌ | CK资源 | https://ckzy.me/api.php/provide/vod/ | 93 | 7 | 93.0% | 1 |
-| 🚨 | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 93 | 7 | 93.0% | 7 |
-| 🚨 | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
-| 🚨 | TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
-| 🚨 | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 93 | 7 | 93.0% | 7 |
-| 🚨 | TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
-| 🚨 | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 93 | 7 | 93.0% | 7 |
-| 🚨 | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 93 | 7 | 93.0% | 7 |
-| 🚨 | 电影天堂资源 | https://caiji.dyttzyapi.com/api.php/provide/vod/ | 93 | 7 | 93.0% | 7 |
-| 🚨 | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
-| 🚨 | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 92 | 8 | 92.0% | 3 |
+| ✅ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
+| ✅ | CK资源 | https://ckzy.me/api.php/provide/vod/ | 93 | 7 | 93.0% | 0 |
+| 🚨 | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 92 | 8 | 92.0% | 8 |
+| 🚨 | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 92 | 8 | 92.0% | 8 |
+| ✅ | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
+| 🚨 | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
+| 🚨 | TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
+| 🚨 | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 92 | 8 | 92.0% | 8 |
+| 🚨 | TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
+| 🚨 | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 92 | 8 | 92.0% | 8 |
+| 🚨 | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 8 |
+| 🚨 | 电影天堂资源 | https://caiji.dyttzyapi.com/api.php/provide/vod/ | 92 | 8 | 92.0% | 8 |
+| 🚨 | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
+| ✅ | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
-| ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 49 | 51 | 49.0% | 0 |
+| ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 50 | 50 | 50.0% | 0 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
