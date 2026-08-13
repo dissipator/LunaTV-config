@@ -11,11 +11,6 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
-    "TV-CK资源": {
-      "name": "TV-CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod",
-      "detail": "https://ckzy.me"
-    },
     "TV-U酷资源": {
       "name": "TV-U酷资源",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -688,6 +683,23 @@
       "tags": [
         "无法搜索",
         "差"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "CK资源": {
+      "id": "87afb0fa-dada-4dc3-8ee4-ee2e04ca7fd3",
+      "key": "CK资源",
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.872367934+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
