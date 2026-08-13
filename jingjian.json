@@ -1,11 +1,6 @@
 {
   "cache_time": 9200,
   "api_site": {
-    "TV-1080资源": {
-      "name": "TV-1080资源",
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "detail": "https://api.1080zyku.com"
-    },
     "AV-155资源": {
       "name": "AV-155资源",
       "api": "https://155api.com/api.php/provide/vod",
@@ -56,11 +51,6 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "detail": "https://tyyszy.com"
     },
-    "TV-如意资源": {
-      "name": "TV-如意资源",
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": ""
-    },
     "TV-新浪点播": {
       "name": "TV-新浪点播",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -105,16 +95,6 @@
       "name": "TV-牛牛点播",
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://api.niuniuzy.me"
-    },
-    "TV-电影天堂资源": {
-      "name": "TV-电影天堂资源",
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
-    "TV-神马云": {
-      "name": "TV-神马云",
-      "api": "https://api.1080zyku.com/inc/apijson.php/",
-      "detail": "https://api.1080zyku.com"
     },
     "TV-索尼资源": {
       "name": "TV-索尼资源",
@@ -170,11 +150,6 @@
       "name": "TV-閃電资源",
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "detail": "https://sdzyapi.com"
-    },
-    "TV-非凡资源": {
-      "name": "TV-非凡资源",
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-      "detail": "https://cj.ffzyapi.com"
     },
     "TV-魔都动漫": {
       "name": "TV-魔都动漫",
@@ -276,11 +251,6 @@
       "api": "https://www.pgxdy.com/api/json.php",
       "detail": "https://www.pgxdy.com"
     },
-    "非凡影视new": {
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "name": "非凡影视new",
-      "detail": "http://ffzy5.tv"
-    },
     "极速资源": {
       "id": "087ca658-4acc-43ae-812e-cf3ef29e5996",
       "key": "极速资源",
@@ -355,10 +325,6 @@
       "api": "https://apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
     },
-    "优质资源库1080zyk6.com高清": {
-      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
-      "name": "优质资源库1080zyk6.com高清"
-    },
     "iqiyi资源": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
@@ -386,23 +352,6 @@
       ],
       "priority": 1,
       "proxyMode": "none",
-      "customProxy": ""
-    },
-    "电影天堂资源": {
-      "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
-      "key": "电影天堂资源",
-      "name": "电影天堂资源",
-      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.086388483+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 1,
-      "proxyMode": "builtin",
       "customProxy": ""
     },
     "暴风资源": {
@@ -447,23 +396,6 @@
       "type": 2,
       "isActive": 1,
       "time": "2025-10-30T11:15:43.084986234+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "如意资源": {
-      "id": "4ffa5869-67d8-463d-94d7-c78212e039e0",
-      "key": "如意资源",
-      "name": "如意资源",
-      "api": "http://cj.rycjapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 1,
-      "time": "2025-10-30T11:15:43.083919384+08:00",
       "isDefault": 0,
       "remark": "",
       "tags": [
@@ -779,23 +711,6 @@
       "time": "2025-10-30T11:15:42.869485164+08:00",
       "isDefault": 0,
       "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
-      "tags": [
-        "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "1080资源库": {
-      "id": "6ca1d5fa-6366-4418-ae4f-bc9ae0b86877",
-      "key": "1080资源库",
-      "name": "1080资源库",
-      "api": "https://api.1080zyku.com/inc/api_mac10.php/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.868513304+08:00",
-      "isDefault": 0,
-      "remark": "",
       "tags": [
         "代理"
       ],
