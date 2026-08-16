@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-17 04:27 CST）
+## API 状态（最近更新：2026-08-17 05:24 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：96
@@ -256,14 +256,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 40 | 60 | 40.0% | 0 |
 | ✅ | 电影天堂资源 | https://caiji.dyttzyapi.com/api.php/provide/vod/ | 40 | 60 | 40.0% | 0 |
-| 🚨 | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 29 | 71 | 29.0% | 71 |
-| 🚨 | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 29 | 71 | 29.0% | 71 |
-| 🚨 | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
-| 🚨 | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 29 | 71 | 29.0% | 71 |
-| 🚨 | TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
-| 🚨 | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 29 | 71 | 29.0% | 71 |
-| 🚨 | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 29 | 71 | 29.0% | 71 |
-| 🚨 | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
+| 🚨 | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 28 | 72 | 28.0% | 72 |
+| 🚨 | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 28 | 72 | 28.0% | 72 |
+| 🚨 | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 28 | 72 | 28.0% | 72 |
+| 🚨 | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 28 | 72 | 28.0% | 72 |
+| 🚨 | TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 28 | 72 | 28.0% | 72 |
+| 🚨 | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 28 | 72 | 28.0% | 72 |
+| 🚨 | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 28 | 72 | 28.0% | 72 |
+| 🚨 | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 28 | 72 | 28.0% | 72 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
