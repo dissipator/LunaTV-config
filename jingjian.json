@@ -1,6 +1,11 @@
 {
   "cache_time": 9200,
   "api_site": {
+    "TV-1080资源": {
+      "name": "TV-1080资源",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "detail": "https://api.1080zyku.com"
+    },
     "AV-155资源": {
       "name": "AV-155资源",
       "api": "https://155api.com/api.php/provide/vod",
@@ -106,6 +111,11 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "detail": "http://caiji.dyttzyapi.com"
     },
+    "TV-神马云": {
+      "name": "TV-神马云",
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "detail": "https://api.1080zyku.com"
+    },
     "TV-索尼资源": {
       "name": "TV-索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",
@@ -185,11 +195,6 @@
       "name": "AV-JKUN资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "detail": "https://jkunzyapi.com"
-    },
-    "AV-souav资源": {
-      "name": "AV-souav资源",
-      "api": "https://api.souavzy.vip/api.php/provide/vod",
-      "detail": "https://api.souavzy.vip"
     },
     "AV-乐播资源": {
       "name": "AV-乐播资源",
@@ -339,6 +344,10 @@
     "辣椒资源黄黄": {
       "api": "https://apilj.com/api.php/provide",
       "name": "辣椒资源黄黄"
+    },
+    "优质资源库1080zyk6.com高清": {
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "name": "优质资源库1080zyk6.com高清"
     },
     "iqiyi资源": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
@@ -760,6 +769,23 @@
       "time": "2025-10-30T11:15:42.869485164+08:00",
       "isDefault": 0,
       "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "tags": [
+        "代理"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    "1080资源库": {
+      "id": "6ca1d5fa-6366-4418-ae4f-bc9ae0b86877",
+      "key": "1080资源库",
+      "name": "1080资源库",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php/",
+      "type": 2,
+      "isActive": 0,
+      "time": "2025-10-30T11:15:42.868513304+08:00",
+      "isDefault": 0,
+      "remark": "",
       "tags": [
         "代理"
       ],
