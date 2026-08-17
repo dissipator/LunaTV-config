@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-17 21:41 CST）
+## API 状态（最近更新：2026-08-17 22:31 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：104
@@ -248,10 +248,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 无尽资源 | https://api.wujinapi.me/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | 豆瓣资源 | https://dbzy.tv/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
+| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | CK资源 | https://ckzy.me/api.php/provide/vod/ | 91 | 9 | 91.0% | 0 |
 | ✅ | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 40 | 60 | 40.0% | 0 |
