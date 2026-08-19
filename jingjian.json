@@ -91,6 +91,11 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "detail": ""
     },
+    "TV-最大点播": {
+      "name": "TV-最大点播",
+      "api": "http://zuidazy.me/api.php/provide/vod",
+      "detail": "http://zuidazy.me"
+    },
     "TV-最大资源": {
       "name": "TV-最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
