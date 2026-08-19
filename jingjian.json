@@ -655,6 +655,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "速播资源": {
+      "id": "6bd39d0d-c3d5-431c-b42d-519445b29e9f",
+      "key": "速播资源",
+      "name": "速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.942959654+08:00",
+      "isDefault": 0,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "索尼资源": {
       "id": "97337a55-d636-4343-acef-9ee1f75c472b",
       "key": "索尼资源",
