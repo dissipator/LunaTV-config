@@ -796,23 +796,6 @@
       "proxyMode": "none",
       "customProxy": ""
     },
-    "U酷资源": {
-      "id": "1e78e7f5-63c3-4169-8a21-4773e19affed",
-      "key": "U酷资源",
-      "name": "U酷资源",
-      "api": "https://api.ukuapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.869485164+08:00",
-      "isDefault": 0,
-      "remark": "https://api.ukuapi88.com/api.php/provide/vod/",
-      "tags": [
-        "代理"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
     "1080资源库": {
       "id": "6ca1d5fa-6366-4418-ae4f-bc9ae0b86877",
       "key": "1080资源库",
