@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-21 15:46 CST）
+## API 状态（最近更新：2026-08-21 16:44 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
 - 失败 API 数量：20
-- 平均可用率：83.5%
+- 平均可用率：83.6%
 - 完美可用率（100%）：80 个
 - 高可用率（80%-99%）：24 个
 - 中等可用率（50%-79%）：0 个
@@ -255,15 +255,15 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 1 |
-| ✅ | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 89 | 11 | 89.0% | 0 |
-| ✅ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 89 | 11 | 89.0% | 0 |
-| ✅ | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 88 | 12 | 88.0% | 0 |
-| ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
-| ✅ | TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
-| ✅ | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 87 | 13 | 87.0% | 0 |
-| ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
+| ❌ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 2 |
+| ✅ | 1080资源库 | https://api.1080zyku.com/inc/api_mac10.php/ | 90 | 10 | 90.0% | 0 |
+| ✅ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 90 | 10 | 90.0% | 0 |
+| ✅ | 优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 90 | 10 | 90.0% | 0 |
+| ✅ | TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 89 | 11 | 89.0% | 0 |
+| ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
+| ✅ | TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
+| ✅ | 如意资源 | http://cj.rycjapi.com/api.php/provide/vod/ | 88 | 12 | 88.0% | 0 |
+| ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
