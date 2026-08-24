@@ -26,11 +26,6 @@
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "detail": "https://api.ukuapi88.com"
     },
-    "TV-ikun资源": {
-      "name": "TV-ikun资源",
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "detail": "https://ikunzyapi.com"
-    },
     "TV-wujinapi无尽": {
       "name": "TV-wujinapi无尽",
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
@@ -186,6 +181,11 @@
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "detail": "https://caiji.moduapi.cc"
     },
+    "TV-魔都资源": {
+      "name": "TV-魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://www.mdzyapi.com"
+    },
     "AV-91麻豆": {
       "name": "AV-91麻豆",
       "api": "https://91md.me/api.php/provide/vod",
@@ -195,11 +195,6 @@
       "name": "AV-AIvin",
       "api": "http://lbapiby.com/api.php/provide/vod",
       "detail": ""
-    },
-    "AV-JKUN资源": {
-      "name": "AV-JKUN资源",
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "detail": "https://jkunzyapi.com"
     },
     "AV-souav资源": {
       "name": "AV-souav资源",
@@ -351,10 +346,6 @@
       "api": "https://caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿"
     },
-    "辣椒资源黄黄": {
-      "api": "https://apilj.com/api.php/provide",
-      "name": "辣椒资源黄黄"
-    },
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
@@ -503,6 +494,23 @@
       "proxyMode": "none",
       "customProxy": ""
     },
+    "魔都资源": {
+      "id": "f9b80ba8-5c80-4ada-bc2b-fb75ff809475",
+      "key": "魔都资源",
+      "name": "魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:43.020838173+08:00",
+      "isDefault": 0,
+      "remark": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
     "豆瓣资源": {
       "id": "f70b7292-5a98-4ecc-8999-16b3cf5a3fc8",
       "key": "豆瓣资源",
@@ -585,23 +593,6 @@
       "remark": "https://api.wwzy.tv/api.php/provide/vod/",
       "tags": [
         "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    "iKun资源": {
-      "id": "72bb9c90-adf3-4d24-bdfb-c667befa4917",
-      "key": "iKun资源",
-      "name": "iKun资源",
-      "api": "https://ikunzyapi.com/api.php/provide/vod/",
-      "type": 2,
-      "isActive": 0,
-      "time": "2025-10-30T11:15:42.949083783+08:00",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [
-        "代理"
       ],
       "priority": 0,
       "proxyMode": "none",
