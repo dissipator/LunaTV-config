@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-25 05:33 CST）
+## API 状态（最近更新：2026-08-25 06:30 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：99
 - 失败 API 数量：24
-- 平均可用率：83.0%
+- 平均可用率：82.9%
 - 完美可用率（100%）：84 个
 - 高可用率（80%-99%）：17 个
 - 中等可用率（50%-79%）：3 个
@@ -256,11 +256,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🚨 | AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
-| 🚨 | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 6 |
-| 🚨 | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
-| 🚨 | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
-| 🚨 | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 86 | 14 | 86.0% | 10 |
+| 🚨 | AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
+| 🚨 | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 93 | 7 | 93.0% | 7 |
+| 🚨 | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
+| 🚨 | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
+| 🚨 | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 85 | 15 | 85.0% | 11 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 59 | 41 | 59.0% | 0 |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 55 | 45 | 55.0% | 0 |
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 55 | 45 | 55.0% | 0 |
