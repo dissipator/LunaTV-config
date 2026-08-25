@@ -181,6 +181,11 @@
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "detail": "https://cj.ffzyapi.com"
     },
+    "TV-魔都资源": {
+      "name": "TV-魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://www.mdzyapi.com"
+    },
     "AV-91麻豆": {
       "name": "AV-91麻豆",
       "api": "https://91md.me/api.php/provide/vod",
@@ -358,6 +363,10 @@
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
+    },
+    "iqiyi资源": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi资源"
     },
     "细胞采集黄色": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
