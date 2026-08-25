@@ -266,10 +266,20 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
     },
+    "AV-辣椒资源": {
+      "name": "AV-辣椒资源",
+      "api": "https://apilj.com/api.php/provide/vod",
+      "detail": "https://apilj.com"
+    },
     "AV-香奶儿资源": {
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
+    },
+    "AV-鲨鱼资源": {
+      "name": "AV-鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "detail": "https://shayuapi.com"
     },
     "AV-黄AV资源": {
       "name": "AV-黄AV资源",
