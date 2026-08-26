@@ -211,6 +211,11 @@
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "detail": "https://api.souavzy.vip"
     },
+    "AV-乐播资源": {
+      "name": "AV-乐播资源",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "detail": ""
+    },
     "AV-奥斯卡资源": {
       "name": "AV-奥斯卡资源",
       "api": "https://aosikazy.com/api.php/provide/vod",
