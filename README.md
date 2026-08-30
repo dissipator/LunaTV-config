@@ -144,15 +144,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-31 03:10 CST）
+## API 状态（最近更新：2026-08-31 06:31 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
 - 失败 API 数量：20
-- 平均可用率：83.2%
+- 平均可用率：83.3%
 - 完美可用率（100%）：84 个
-- 高可用率（80%-99%）：17 个
-- 中等可用率（50%-79%）：3 个
+- 高可用率（80%-99%）：18 个
+- 中等可用率（50%-79%）：2 个
 - 低可用率（<50%）：19 个
 
 <div style="font-size: 11px;">
@@ -259,11 +259,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | iKun资源 | https://ikunzyapi.com/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
 | ✅ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 86 | 14 | 86.0% | 14 |
+| 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 85 | 15 | 85.0% | 15 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
-| ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
-| ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 76 | 24 | 76.0% | 0 |
-| ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 75 | 25 | 75.0% | 0 |
+| ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
+| ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 77 | 23 | 77.0% | 0 |
+| ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 76 | 24 | 76.0% | 0 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
