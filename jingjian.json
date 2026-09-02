@@ -116,6 +116,11 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "detail": "http://caiji.dyttzyapi.com"
     },
+    "TV-神马云": {
+      "name": "TV-神马云",
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "detail": "https://api.1080zyku.com"
+    },
     "TV-索尼资源": {
       "name": "TV-索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",
