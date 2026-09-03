@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-03 11:36 CST）
+## API 状态（最近更新：2026-09-03 16:43 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：101
-- 失败 API 数量：22
+- 成功 API 数量：102
+- 失败 API 数量：21
 - 平均可用率：83.4%
 - 完美可用率（100%）：82 个
 - 高可用率（80%-99%）：21 个
@@ -243,7 +243,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-155资源 | https://155api.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | TV-360资源 | https://360zy.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 无尽资源 | https://api.wujinapi.me/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
@@ -262,8 +262,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 90 | 10 | 90.0% | 0 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| ❌ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 85 | 15 | 85.0% | 1 |
-| 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 68 | 32 | 68.0% | 32 |
+| ❌ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 84 | 16 | 84.0% | 2 |
+| 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 67 | 33 | 67.0% | 33 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
