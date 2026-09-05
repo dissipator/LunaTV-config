@@ -146,6 +146,11 @@
       "api": "https://dbzy.tv/api.php/provide/vod",
       "detail": "https://dbzy.tv"
     },
+    "TV-豪华资源": {
+      "name": "TV-豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://hhzyapi.com"
+    },
     "TV-速博资源": {
       "name": "TV-速博资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
@@ -362,6 +367,23 @@
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
+    },
+    "豪华资源": {
+      "id": "f89064af-2836-4104-a6aa-880d19cd62c0",
+      "key": "豪华资源",
+      "name": "豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.797324484+08:00",
+      "isDefault": 1,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 1,
+      "proxyMode": "none",
+      "customProxy": ""
     },
     "电影天堂资源": {
       "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
