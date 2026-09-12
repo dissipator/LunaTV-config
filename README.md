@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-13 00:50 CST）
+## API 状态（最近更新：2026-09-13 03:02 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：101
-- 失败 API 数量：22
+- 成功 API 数量：99
+- 失败 API 数量：24
 - 平均可用率：82.7%
 - 完美可用率（100%）：87 个
 - 高可用率（80%-99%）：14 个
@@ -257,13 +257,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 360资源 | https://360zy.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ❌ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
+| ❌ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 95 | 5 | 95.0% | 1 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 52 | 48 | 52.0% | 48 |
-| 🚨 | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 48 | 52 | 48.0% | 52 |
-| 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 7 | 93 | 7.0% | 93 |
+| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 51 | 49 | 51.0% | 49 |
+| 🚨 | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 47 | 53 | 47.0% | 53 |
+| 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 6 | 94 | 6.0% | 94 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色猫资源 | https://api.maozyapi.com/inc/apijson_vod.php | 0 | 100 | 0.0% | 100 |
