@@ -271,6 +271,11 @@
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
     },
+    "AV-鲨鱼资源": {
+      "name": "AV-鲨鱼资源",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "detail": "https://shayuapi.com"
+    },
     "AV-黄AV资源": {
       "name": "AV-黄AV资源",
       "api": "https://www.pgxdy.com/api/json.php",
