@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-15 09:23 CST）
+## API 状态（最近更新：2026-09-15 15:26 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：101
-- 失败 API 数量：22
+- 成功 API 数量：100
+- 失败 API 数量：23
 - 平均可用率：82.3%
 - 完美可用率（100%）：80 个
 - 高可用率（80%-99%）：21 个
@@ -259,10 +259,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
-| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 37 | 63 | 37.0% | 63 |
+| ❌ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 1 |
+| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 37 | 63 | 37.0% | 0 |
+| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 36 | 64 | 36.0% | 64 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
