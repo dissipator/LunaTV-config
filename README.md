@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-16 05:59 CST）
+## API 状态（最近更新：2026-09-16 08:08 CST）
 
 - 总 API 数量：123
-- 成功 API 数量：100
-- 失败 API 数量：23
-- 平均可用率：82.3%
+- 成功 API 数量：101
+- 失败 API 数量：22
+- 平均可用率：82.2%
 - 完美可用率（100%）：80 个
 - 高可用率（80%-99%）：21 个
 - 中等可用率（50%-79%）：0 个
@@ -254,15 +254,15 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 魔都资源 | https://www.mdzyapi.com/api.php/provide/vod/ | 99 | 1 | 99.0% | 0 |
 | ✅ | 360资源 | https://360zy.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 98 | 2 | 98.0% | 1 |
+| ✅ | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
+| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 89 | 11 | 89.0% | 11 |
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 37 | 63 | 37.0% | 0 |
-| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 33 | 67 | 33.0% | 67 |
+| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 32 | 68 | 32.0% | 68 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
