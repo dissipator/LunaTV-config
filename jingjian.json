@@ -191,11 +191,6 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "detail": "https://www.mdzyapi.com"
     },
-    "AV-91麻豆": {
-      "name": "AV-91麻豆",
-      "api": "https://91md.me/api.php/provide/vod",
-      "detail": "https://91md.me"
-    },
     "AV-JKUN资源": {
       "name": "AV-JKUN资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
