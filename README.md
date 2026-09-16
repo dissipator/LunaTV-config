@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-17 00:26 CST）
+## API 状态（最近更新：2026-09-17 03:53 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：100
@@ -240,7 +240,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-155资源 | https://155api.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-森林资源 | https://slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-玉兔资源 | https://apiyutu.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -259,10 +259,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 86 | 14 | 86.0% | 14 |
+| ❌ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 1 |
+| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 85 | 15 | 85.0% | 15 |
 | ✅ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 37 | 63 | 37.0% | 0 |
-| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
+| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 28 | 72 | 28.0% | 72 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
