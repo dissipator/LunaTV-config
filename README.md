@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-21 12:41 CST）
+## API 状态（最近更新：2026-09-21 18:29 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：100
@@ -260,11 +260,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 58 | 42 | 58.0% | 42 |
-| ❌ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 38 | 62 | 38.0% | 1 |
-| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 14 | 86 | 14.0% | 12 |
-| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 14 | 86 | 14.0% | 12 |
-| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 1 | 99 | 1.0% | 99 |
+| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 57 | 43 | 57.0% | 43 |
+| ❌ | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 38 | 62 | 38.0% | 2 |
+| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 14 | 86 | 14.0% | 13 |
+| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 14 | 86 | 14.0% | 13 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
@@ -276,6 +275,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🚨 | TV-黑木耳 | https://json.heimuer.xyz/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | TV-黑木耳点播 | https://json02.heimuer.xyz/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 0 | 100 | 0.0% | 100 |
+| 🚨 | 快播资源网站 | https://gayapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 淘片资源 | https://taopianapi.com/cjapi/sda/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 爱短剧.cc | https://www.aiduanju.cc/ | 0 | 100 | 0.0% | 100 |
 | 🚨 | 百度云资源 | https://api.apibdzy.com/api.php/provide/vod/ | 0 | 100 | 0.0% | 100 |
