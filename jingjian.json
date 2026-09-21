@@ -191,6 +191,16 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "detail": "https://www.mdzyapi.com"
     },
+    "TV-黑木耳": {
+      "name": "TV-黑木耳",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "detail": "https://json.heimuer.xyz"
+    },
+    "TV-黑木耳点播": {
+      "name": "TV-黑木耳点播",
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+      "detail": "https://json02.heimuer.xyz"
+    },
     "AV-91麻豆": {
       "name": "AV-91麻豆",
       "api": "https://91md.me/api.php/provide/vod",
