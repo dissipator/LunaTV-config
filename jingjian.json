@@ -281,11 +281,6 @@
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
     },
-    "AV-鲨鱼资源": {
-      "name": "AV-鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod",
-      "detail": "https://shayuapi.com"
-    },
     "AV-黄AV资源": {
       "name": "AV-黄AV资源",
       "api": "https://www.pgxdy.com/api/json.php",
@@ -373,6 +368,23 @@
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
+    },
+    "豪华资源": {
+      "id": "f89064af-2836-4104-a6aa-880d19cd62c0",
+      "key": "豪华资源",
+      "name": "豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-10-30T11:15:42.797324484+08:00",
+      "isDefault": 1,
+      "remark": "",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 1,
+      "proxyMode": "none",
+      "customProxy": ""
     },
     "电影天堂资源": {
       "id": "bda597a8-327f-40ba-b54f-2f52e08907c2",
