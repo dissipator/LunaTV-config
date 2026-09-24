@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-24 17:08 CST）
+## API 状态（最近更新：2026-09-24 22:43 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：101
@@ -258,14 +258,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| ❌ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 1 |
-| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 41 | 59 | 41.0% | 59 |
-| 🚨 | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 38 | 62 | 38.0% | 18 |
-| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 14 | 86 | 14.0% | 29 |
-| ✅ | TV-黑木耳 | https://json.heimuer.xyz/api.php/provide/vod | 14 | 86 | 14.0% | 0 |
-| ✅ | TV-黑木耳点播 | https://json02.heimuer.xyz/api.php/provide/vod | 14 | 86 | 14.0% | 0 |
-| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 14 | 86 | 14.0% | 29 |
+| ❌ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 1 |
+| ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
+| 🚨 | 华为吧资源 | https://huawei8.live/api.php/provide/vod | 40 | 60 | 40.0% | 60 |
+| 🚨 | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 38 | 62 | 38.0% | 19 |
+| ✅ | TV-黑木耳 | https://json.heimuer.xyz/api.php/provide/vod | 15 | 85 | 15.0% | 0 |
+| ✅ | TV-黑木耳点播 | https://json02.heimuer.xyz/api.php/provide/vod | 15 | 85 | 15.0% | 0 |
+| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 14 | 86 | 14.0% | 30 |
+| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 14 | 86 | 14.0% | 30 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
