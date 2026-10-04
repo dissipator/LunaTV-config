@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-10-05 00:39 CST）
+## API 状态（最近更新：2026-10-05 03:56 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：101
@@ -253,18 +253,18 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 豪华资源 | https://hhzyapi.com/api.php/provide/vod/ | 98 | 2 | 98.0% | 0 |
-| ❌ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
+| ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
-| ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
+| ❌ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 1 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
-| ✅ | TV-黑木耳 | https://json.heimuer.xyz/api.php/provide/vod | 63 | 37 | 63.0% | 0 |
-| ✅ | TV-黑木耳点播 | https://json02.heimuer.xyz/api.php/provide/vod | 63 | 37 | 63.0% | 0 |
-| 🚨 | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 32 | 68 | 32.0% | 67 |
-| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 14 | 86 | 14.0% | 78 |
-| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 14 | 86 | 14.0% | 78 |
+| ✅ | TV-黑木耳 | https://json.heimuer.xyz/api.php/provide/vod | 64 | 36 | 64.0% | 0 |
+| ✅ | TV-黑木耳点播 | https://json02.heimuer.xyz/api.php/provide/vod | 64 | 36 | 64.0% | 0 |
+| 🚨 | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 31 | 69 | 31.0% | 68 |
+| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 14 | 86 | 14.0% | 79 |
+| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 14 | 86 | 14.0% | 79 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
