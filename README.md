@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-10-09 09:50 CST）
+## API 状态（最近更新：2026-10-09 16:39 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
@@ -258,13 +258,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 速播资源 | https://subocaiji.com/api.php/provide/vod/ | 94 | 6 | 94.0% | 0 |
-| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
+| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
-| ✅ | TV-黑木耳 | https://json.heimuer.xyz/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
-| ✅ | TV-黑木耳点播 | https://json02.heimuer.xyz/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
-| 🚨 | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 14 | 86 | 14.0% | 85 |
-| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 4 | 96 | 4.0% | 96 |
-| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 4 | 96 | 4.0% | 96 |
+| ✅ | TV-黑木耳 | https://json.heimuer.xyz/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
+| ✅ | TV-黑木耳点播 | https://json02.heimuer.xyz/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
+| 🚨 | 细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 13 | 87 | 13.0% | 86 |
+| 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 3 | 97 | 3.0% | 97 |
+| 🚨 | 飘零资源 | https://p2100.net/api.php/provide/vod/ | 3 | 97 | 3.0% | 97 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
