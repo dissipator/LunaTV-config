@@ -221,11 +221,6 @@
       "api": "https://lbapi9.com/api.php/provide/vod",
       "detail": ""
     },
-    "AV-奥斯卡资源": {
-      "name": "AV-奥斯卡资源",
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "detail": "https://aosikazy.com"
-    },
     "AV-奶香香": {
       "name": "AV-奶香香",
       "api": "https://Naixxzy.com/api.php/provide/vod",
@@ -240,6 +235,11 @@
       "name": "AV-淫水机资源",
       "api": "https://www.xrbsp.com/api/json.php",
       "detail": "https://www.xrbsp.com"
+    },
+    "AV-玉兔资源": {
+      "name": "AV-玉兔资源",
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "detail": "https://apiyutu.com"
     },
     "AV-番号资源": {
       "name": "AV-番号资源",
@@ -261,6 +261,11 @@
       "api": "https://www.msnii.com/api/json.php",
       "detail": "https://www.msnii.com"
     },
+    "AV-老色逼资源": {
+      "name": "AV-老色逼资源",
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "detail": "https://apilsbzy1.com"
+    },
     "AV-辣椒资源": {
       "name": "AV-辣椒资源",
       "api": "https://apilj.com/api.php/provide/vod",
@@ -270,11 +275,6 @@
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
-    },
-    "AV-鲨鱼资源": {
-      "name": "AV-鲨鱼资源",
-      "api": "https://shayuapi.com/api.php/provide/vod",
-      "detail": "https://shayuapi.com"
     },
     "AV-黄AV资源": {
       "name": "AV-黄AV资源",
