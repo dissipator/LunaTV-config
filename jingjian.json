@@ -358,13 +358,13 @@
       "api": "https://caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿"
     },
-    "辣椒资源黄黄": {
-      "api": "https://apilj.com/api.php/provide",
-      "name": "辣椒资源黄黄"
-    },
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
+    },
+    "iqiyi资源": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi资源"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
