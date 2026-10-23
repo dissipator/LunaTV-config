@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-10-24 02:56 CST）
+## API 状态（最近更新：2026-10-24 05:56 CST）
 
 - 总 API 数量：90
-- 成功 API 数量：72
-- 失败 API 数量：18
+- 成功 API 数量：71
+- 失败 API 数量：19
 - 平均可用率：79.1%
 - 完美可用率（100%）：51 个
 - 高可用率（80%-99%）：21 个
@@ -206,8 +206,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 影视工厂 | https://cj.lziapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 100 | 0 | 100.0% | 0 |
 | ✅ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod | 47 | 0 | 100.0% | 0 |
-| ✅ | 红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 47 | 0 | 100.0% | 0 |
+| ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod | 48 | 0 | 100.0% | 0 |
+| ✅ | 红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 48 | 0 | 100.0% | 0 |
 | ✅ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -231,7 +231,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
-| ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
+| ❌ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 83 | 17 | 83.0% | 1 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
