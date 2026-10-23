@@ -6,6 +6,11 @@
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "detail": "https://api.1080zyku.com"
     },
+    "AV-155资源": {
+      "name": "AV-155资源",
+      "api": "https://155api.com/api.php/provide/vod",
+      "detail": "https://155api.com"
+    },
     "TV-360资源": {
       "name": "TV-360资源",
       "api": "https://360zy.com/api.php/provide/vod",
@@ -335,10 +340,6 @@
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库1080zyk6.com高清"
-    },
-    "iqiyi资源": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi资源"
     },
     "影视工厂": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
