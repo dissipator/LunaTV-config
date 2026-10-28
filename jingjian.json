@@ -309,6 +309,10 @@
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
       "name": "红牛资源"
     },
+    "索尼-闪电资源": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "索尼-闪电资源"
+    },
     "金鹰资源采集网": {
       "api": "https://jyzyapi.com/provide/vod",
       "name": "金鹰资源采集网"
