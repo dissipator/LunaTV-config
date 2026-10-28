@@ -144,14 +144,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-10-28 19:06 CST）
+## API 状态（最近更新：2026-10-29 02:05 CST）
 
 - 总 API 数量：90
-- 成功 API 数量：72
-- 失败 API 数量：18
+- 成功 API 数量：71
+- 失败 API 数量：19
 - 平均可用率：79.0%
-- 完美可用率（100%）：48 个
-- 高可用率（80%-99%）：23 个
+- 完美可用率（100%）：47 个
+- 高可用率（80%-99%）：24 个
 - 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：18 个
 
@@ -204,8 +204,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 影视工厂 | https://cj.lziapi.com/api.php/provide/vod/ | 100 | 0 | 100.0% | 0 |
 | ✅ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 100 | 0 | 100.0% | 0 |
 | ✅ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod | 73 | 0 | 100.0% | 0 |
-| ✅ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | 极速资源 | https://jszyapi.com/api.php/provide/vod | 74 | 0 | 100.0% | 0 |
 | ✅ | 非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -219,8 +218,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ❌ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 72 | 1 | 98.6% | 0 |
+| ✅ | 红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 73 | 1 | 98.6% | 0 |
 | ✅ | AV-155资源 | https://155api.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
