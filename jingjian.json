@@ -201,11 +201,6 @@
       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
       "detail": "https://json02.heimuer.xyz"
     },
-    "AV-91麻豆": {
-      "name": "AV-91麻豆",
-      "api": "https://91md.me/api.php/provide/vod",
-      "detail": "https://91md.me"
-    },
     "AV-JKUN资源": {
       "name": "AV-JKUN资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
@@ -220,6 +215,11 @@
       "name": "AV-乐播资源",
       "api": "https://lbapi9.com/api.php/provide/vod",
       "detail": ""
+    },
+    "AV-奥斯卡资源": {
+      "name": "AV-奥斯卡资源",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "detail": "https://aosikazy.com"
     },
     "AV-奶香香": {
       "name": "AV-奶香香",
