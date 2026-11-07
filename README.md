@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-11-07 06:52 CST）
+## API 状态（最近更新：2026-11-07 10:37 CST）
 
 - 总 API 数量：90
 - 成功 API 数量：71
@@ -230,7 +230,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🚨 | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 91 | 9 | 91.0% | 6 |
+| 🚨 | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 90 | 10 | 90.0% | 7 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
