@@ -201,6 +201,11 @@
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "detail": "https://jkunzyapi.com"
     },
+    "AV-souav资源": {
+      "name": "AV-souav资源",
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "detail": "https://api.souavzy.vip"
+    },
     "AV-乐播资源": {
       "name": "AV-乐播资源",
       "api": "https://lbapi9.com/api.php/provide/vod",
@@ -317,10 +322,6 @@
     "快车资源阿": {
       "api": "https://caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿"
-    },
-    "辣椒资源黄黄": {
-      "api": "https://apilj.com/api.php/provide",
-      "name": "辣椒资源黄黄"
     },
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
