@@ -91,16 +91,6 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "TV-最大点播": {
-      "name": "TV-最大点播",
-      "api": "http://zuidazy.me/api.php/provide/vod",
-      "detail": "http://zuidazy.me"
-    },
-    "TV-最大资源": {
-      "name": "TV-最大资源",
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "detail": "https://api.zuidapi.com"
-    },
     "TV-樱花资源": {
       "name": "TV-樱花资源",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
@@ -319,14 +309,6 @@
     "黄色资源啊啊": {
       "api": "https://hsckzy888.com/api.php/provide/vod",
       "name": "黄色资源啊啊"
-    },
-    "小鸡资源": {
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "name": "小鸡资源"
-    },
-    "快车资源阿": {
-      "api": "https://caiji.kuaichezy.org/api.php/provide",
-      "name": "快车资源阿"
     },
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
