@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-11-15 09:34 CST）
+## API 状态（最近更新：2026-11-15 16:57 CST）
 
 - 总 API 数量：90
 - 成功 API 数量：70
 - 失败 API 数量：20
-- 平均可用率：78.4%
+- 平均可用率：78.3%
 - 完美可用率（100%）：36 个
 - 高可用率（80%-99%）：34 个
 - 中等可用率（50%-79%）：2 个
@@ -230,8 +230,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 78 | 22 | 78.0% | 20 |
-| 🚨 | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 61 | 39 | 61.0% | 36 |
+| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 77 | 23 | 77.0% | 21 |
+| 🚨 | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 60 | 40 | 60.0% | 37 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
