@@ -144,14 +144,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-11-26 21:47 CST）
+## API 状态（最近更新：2026-11-27 06:53 CST）
 
 - 总 API 数量：90
 - 成功 API 数量：68
 - 失败 API 数量：22
 - 平均可用率：77.9%
-- 完美可用率（100%）：41 个
-- 高可用率（80%-99%）：29 个
+- 完美可用率（100%）：40 个
+- 高可用率（80%-99%）：30 个
 - 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：20 个
 
@@ -188,7 +188,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-索尼资源 | https://suoniapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-量子资源 | https://cj.lziapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -207,11 +206,12 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ❌ | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | TV-閃電资源 | https://sdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 小鸡资源 | https://api.xiaojizy.live/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 杏吧资源 | https://xingba111.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 金鹰资源采集网 | https://jyzyapi.com/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | AV-淫水机资源 | https://www.xrbsp.com/api/json.php | 97 | 3 | 97.0% | 0 |
@@ -220,19 +220,19 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | AV-香奶儿资源 | https://www.gdlsp.com/api/json.php | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-黄AV资源 | https://www.pgxdy.com/api/json.php | 97 | 3 | 97.0% | 0 |
 | ✅ | TV-最大资源 | https://api.zuidapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
-| ✅ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-最大点播 | http://zuidazy.me/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ❌ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 95 | 5 | 95.0% | 1 |
+| ❌ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 2 |
+| ❌ | 快车资源阿 | https://caiji.kuaichezy.org/api.php/provide | 96 | 4 | 96.0% | 1 |
+| ✅ | AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 44 | 56 | 44.0% | 55 |
-| ✅ | TV-魔爪资源 | https://mozhuazy.com/api.php/provide/vod | 31 | 69 | 31.0% | 0 |
-| 🚨 | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
+| 🚨 | 辣椒资源黄黄 | https://apilj.com/api.php/provide | 43 | 57 | 43.0% | 56 |
+| ✅ | TV-魔爪资源 | https://mozhuazy.com/api.php/provide/vod | 32 | 68 | 32.0% | 0 |
+| 🚨 | TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 28 | 72 | 28.0% | 72 |
 | 🚨 | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |

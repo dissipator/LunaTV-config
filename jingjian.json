@@ -141,11 +141,6 @@
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
     },
-    "TV-豪华资源": {
-      "name": "TV-豪华资源",
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "detail": "https://hhzyapi.com"
-    },
     "TV-速博资源": {
       "name": "TV-速博资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
@@ -215,6 +210,11 @@
       "name": "AV-乐播资源",
       "api": "https://lbapi9.com/api.php/provide/vod",
       "detail": ""
+    },
+    "AV-奥斯卡资源": {
+      "name": "AV-奥斯卡资源",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "detail": "https://aosikazy.com"
     },
     "AV-奶香香": {
       "name": "AV-奶香香",
@@ -291,6 +291,10 @@
       "name": "极速资源",
       "detail": "https://jszyapi.com"
     },
+    "杏吧资源": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "杏吧资源"
+    },
     "红牛资源": {
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
       "name": "红牛资源"
@@ -314,10 +318,6 @@
     "小鸡资源": {
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
-    },
-    "快车资源阿": {
-      "api": "https://caiji.kuaichezy.org/api.php/provide",
-      "name": "快车资源阿"
     },
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
