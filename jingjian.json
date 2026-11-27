@@ -141,6 +141,11 @@
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
     },
+    "TV-豪华资源": {
+      "name": "TV-豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://hhzyapi.com"
+    },
     "TV-速博资源": {
       "name": "TV-速博资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
@@ -150,6 +155,11 @@
       "name": "TV-量子资源",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": ""
+    },
+    "TV-金鹰点播": {
+      "name": "TV-金鹰点播",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jinyingzy.com"
     },
     "TV-金鹰资源": {
       "name": "TV-金鹰资源",
@@ -318,6 +328,10 @@
     "小鸡资源": {
       "api": "https://api.xiaojizy.live/provide/vod",
       "name": "小鸡资源"
+    },
+    "快车资源阿": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide",
+      "name": "快车资源阿"
     },
     "优质资源库1080zyk6.com高清": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
